@@ -1,0 +1,90 @@
+name: Build and Deploy TV App Store
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'app/**/*'          # 监听app目录下所有文件变更
+      - '!app/**/*.md'      # 排除自动生成的.md文件
+      - 'update_readme.py'   # 监听脚本变更
+      - 'css/**/*'           # 监听CSS文件变更
+      - 'help/**/*'          # 监听帮助页面文件变更
+      - 'images/**/*'        # 监听图片文件变更
+      - 'js/**/*.js'         # 监听JS文件变更
+      - '!js/app_data.js'    # 排除自动生成的app_data.js文件
+      - '!js/app_data.json'  # 排除自动生成的app_data.json文件
+      - 'index.html'         # 监听HTML文件变更
+      - '.github/workflows/**/*'  # 监听工作流文件变更
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        # 这里可以添加任何需要的依赖
+        
+    - name: Check if app directory exists
+      id: check_app_dir
+      run: |
+        if [ -d "app" ]; then
+          echo "app_directory_exists=true" >> $GITHUB_OUTPUT
+          echo "✓ app目录存在，继续执行"          
+          # 列出app目录内容，用于调试
+          ls -la app/
+        else
+          echo "app_directory_exists=false" >> $GITHUB_OUTPUT
+          echo "✗ app目录不存在，跳过后续步骤"
+        fi
+
+    - name: Generate app data
+      if: steps.check_app_dir.outputs.app_directory_exists == 'true'
+      run: |
+        # 运行脚本生成应用数据
+        python update_readme.py
+        echo "应用数据生成完成"
+        
+    - name: Verify generated files
+      if: steps.check_app_dir.outputs.app_directory_exists == 'true'
+      run: |
+        # 验证生成的文件是否存在
+        if [ -f js/app_data.js ]; then
+          echo "✓ app_data.js 生成成功"
+        else
+          echo "✗ app_data.js 生成失败" && exit 1
+        fi
+        
+        # 验证生成的文件内容是否有效
+        grep -q "const appData" js/app_data.js && echo "✓ app_data.js 内容有效" || echo "✗ app_data.js 内容无效"
+        
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./       # 发布整个目录
+        publish_branch: gh-pages
+        force_orphan: true
+        keep_files: true      # 保留已有文件
+        
+    - name: Clean up
+      run: |
+        # 清理临时文件
+        rm -f *.pyc
+        rm -rf __pycache__
+        
+    - name: Notify
+      run: |
+        echo "🎉 TV App Store 已成功更新！"
+        echo "📦 应用数据已重新生成"
+        echo "🚀 已部署到 GitHub Pages"
+        echo "📅 部署时间: $(date)"

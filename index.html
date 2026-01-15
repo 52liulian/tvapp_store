@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>TV应用商店</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- 顶部导航 -->
+        <div class="header">
+            TV应用商店
+        </div>
+        
+        <!-- 分类导航 -->
+        <div class="category-nav" id="categoryNav">
+            <!-- 分类将通过JavaScript动态生成 -->
+        </div>
+        
+        <!-- 内容区域 -->
+        <div class="content">
+            <!-- 应用列表 -->
+            <div class="app-list" id="appList">
+                <div class="loading">加载中...</div>
+            </div>
+            
+            <!-- 应用详情 -->
+            <div class="app-detail" id="appDetail">
+                <div class="no-data">请选择一个应用查看详情</div>
+            </div>
+        </div>
+        
+        <!-- 键盘导航提示 -->
+        <div class="key-hint">
+            ←→: 切换分类/应用 | ↑↓: 滚动列表 | Enter: 查看详情 | Esc: 返回列表
+        </div>
+        
+        <!-- 免责声明 -->
+        <div class="footer">
+            <div class="disclaimer">
+                <strong>免责声明：</strong>本站所列的一切应用软件、教程、数据仅限用于学习、评测和研究目的，不得用于商业或非法用途，否则一切后果须自负。您必须在下载后的24个小时之内，从您的电脑或手机中彻底删除。
+            </div>
+        </div>
+    </div>
+
+    <script src="js/app_data.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>

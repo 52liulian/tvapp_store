@@ -1,0 +1,62 @@
+# 编辑器配置
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+# 操作系统文件
+.DS_Store
+Thumbs.db
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Python相关
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+ENV/
+env/
+.env
+
+# 日志文件
+*.log
+logs/
+log/
+
+# 临时文件
+*.tmp
+*.temp
+*.swp
+
+# 构建输出
+build/
+dist/
+output/
+
+# 敏感信息
+*.pem
+*.key
+*.crt
+*.env
+*.secret
+
+# 其他
+.cache/
+.temp/
+.tmp/
+
+# 项目特定
+update_readme.pyc
+update_readme_debug.pyc
+update_readme_final.pyc
+update_readme_simple.pyc
+update_readme_simple2.pyc
+update_readme_ultimate.pyc
+
+app/
