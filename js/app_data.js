@@ -420,6 +420,26 @@ const appData = {
       ]
     },
     {
+      "name": "智能K歌",
+      "version": "1.27",
+      "update_time": "2026-01-14",
+      "size": "69.62 MB",
+      "other_versions": "无",
+      "app_intro": "智能K歌是电视端一款免费的K歌软件，只需在电视上安装，然后再配上个无线话筒，就能将客厅瞬间变成KTV包间尽情享受音乐的乐趣。相比其它网络上各种不同类型的修改版，如某狗、某民，来了又走，和谐了又来，无尽的折腾，最后发现还是智能K歌最稳最良心。",
+      "screenshots": [
+        "app/ktv/智能K歌/images/1.png",
+        "app/ktv/智能K歌/images/2.png",
+        "app/ktv/智能K歌/images/3.png",
+        "app/ktv/智能K歌/images/4.png"
+      ],
+      "id": "智能k歌",
+      "icon": "app/ktv/智能K歌/images/1.png",
+      "desc": "智能K歌是电视端一款免费的K歌软件，只需在电视上安装，然后再配上个无线话筒，就能将客厅瞬间变成KTV包间尽情享受音乐的乐趣。相比其它网络上各种不同类型的修改版，如某狗、某民，来了又走，和谐了又来，无尽的折腾，最后发现还是智能K歌最稳最良心。",
+      "download_url": "app/ktv/智能K歌/智能K歌v1.27_兼容性好.apk",
+      "latest_apk": "智能K歌v1.27_兼容性好.apk",
+      "other_versions_list": []
+    },
+    {
       "name": "随畅KTV",
       "version": "3.24.09.03-会员",
       "update_time": "2026-01-14",
@@ -896,44 +916,6 @@ const appData = {
       ]
     },
     {
-      "name": "派大星直播",
-      "version": "1.0.7",
-      "update_time": "2026-01-14",
-      "size": "16.11 MB",
-      "other_versions": "派大星直播_1.0.6_.apk\n派大星直播_1.0.5.apk\n派大星直播_1.0.4.apk",
-      "app_intro": "派大星直播是一个TV电视直播空壳，基于TVBox提取出来的，内置了EPG节目单，自行添加直播源就能使用啦。\n兼容安卓4.x，适合低版本系统设备使用。",
-      "screenshots": [
-        "app/live/派大星直播/images/1.webp",
-        "app/live/派大星直播/images/2.webp",
-        "app/live/派大星直播/images/3.webp",
-        "app/live/派大星直播/images/4.webp",
-        "app/live/派大星直播/images/5.webp",
-        "app/live/派大星直播/images/6.webp"
-      ],
-      "id": "派大星直播",
-      "icon": "icons/派大星直播.png",
-      "desc": "派大星直播是一个TV电视直播空壳，基于TVBox提取出来的，内置了EPG节目单，自行添加直播源就能使用啦。\n兼容安卓4.x，适合低版本系统设备使用。",
-      "download_url": "app/live/派大星直播/派大星直播_1.0.7.apk",
-      "latest_apk": "派大星直播_1.0.7.apk",
-      "other_versions_list": [
-        {
-          "name": "派大星直播_1.0.6_.apk",
-          "download_url": "app/live/派大星直播/派大星直播_1.0.6_.apk",
-          "filename": "派大星直播_1.0.6_.apk"
-        },
-        {
-          "name": "派大星直播_1.0.5.apk",
-          "download_url": "app/live/派大星直播/派大星直播_1.0.5.apk",
-          "filename": "派大星直播_1.0.5.apk"
-        },
-        {
-          "name": "派大星直播_1.0.4.apk",
-          "download_url": "app/live/派大星直播/派大星直播_1.0.4.apk",
-          "filename": "派大星直播_1.0.4.apk"
-        }
-      ]
-    },
-    {
       "name": "电视家",
       "version": "10.2.1",
       "update_time": "2026-01-14",
@@ -962,30 +944,11 @@ const appData = {
       ]
     },
     {
-      "name": "百川影音",
-      "version": "1.1.9.3",
-      "update_time": "2026-01-14",
-      "size": "13.47 MB",
-      "other_versions": "无",
-      "app_intro": "百川影音是一款，支持机顶盒、智能电视、手机等设备使用的电视直播APP，在这里你可以观看多达几百个电视频道，速度贼快！用户可自定义直播源，支持HTTP/P2P协议节目地址接口，支持TXT/M3U节目直播源，支持直播节目预告，直播时移EPG接口、护眼模式、记忆进度、记忆多源、跨选分类、小窗口播放等、列表可选骆驼风格/世纪风格，兼容安卓系统手机和盒子设备。",
-      "screenshots": [
-        "app/live/百川影音/images/1.jpg",
-        "app/live/百川影音/images/2.jpg",
-        "app/live/百川影音/images/3.jpg"
-      ],
-      "id": "百川影音",
-      "icon": "icons/百川影音.png",
-      "desc": "百川影音是一款，支持机顶盒、智能电视、手机等设备使用的电视直播APP，在这里你可以观看多达几百个电视频道，速度贼快！用户可自定义直播源，支持HTTP/P2P协议节目地址接口，支持TXT/M3U节目直播源，支持直播节目预告，直播时移EPG接口、护眼模式、记忆进度、记忆多源、跨选分类、小窗口播放等、列表可选骆驼风格/世纪风格，兼容安卓系统手机和盒子设备。",
-      "download_url": "app/live/百川影音/百川影音_v1.1.9.3_空壳版需自备直-源或接口.apk",
-      "latest_apk": "百川影音_v1.1.9.3_空壳版需自备直-源或接口.apk",
-      "other_versions_list": []
-    },
-    {
       "name": "直播电视",
-      "version": "20250426",
+      "version": "20250922",
       "update_time": "2026-01-14",
-      "size": "13.37 MB",
-      "other_versions": "无",
+      "size": "13.57 MB",
+      "other_versions": "zbds_v20250426.apk",
       "app_intro": "支持在安卓系统的各种设备上流畅使用；\n提供清晰的分类，有多个栏目和多条备用线路；\n操作简单，适用于电视遥控器操作；",
       "screenshots": [
         "app/live/直播电视/images/1.png",
@@ -994,115 +957,13 @@ const appData = {
       "id": "直播电视",
       "icon": "icons/直播电视.png",
       "desc": "支持在安卓系统的各种设备上流畅使用；\n提供清晰的分类，有多个栏目和多条备用线路；\n操作简单，适用于电视遥控器操作；",
-      "download_url": "app/live/直播电视/zbds_v20250426.apk",
-      "latest_apk": "zbds_v20250426.apk",
-      "other_versions_list": []
-    },
-    {
-      "name": "纯粹直播",
-      "version": "2.0.12",
-      "update_time": "2026-01-14",
-      "size": "55.27 MB",
-      "other_versions": "纯粹直播_v2.0.12_app_armeabi_v7a_relea.apk\n纯粹直播_v2.0.11_app_arm64_v8a_relea.apk\n纯粹直播_v2.0.11_app_armeabi_v7a_relea.apk\n纯粹直播_v2.0.10_app_arm64_v8a_relea.apk\n纯粹直播_v2.0.10_app_armeabi_v7a_relea.apk\n纯粹直播_v2.0.9_app_arm64_v8a_relea.apk\n纯粹直播_v2.0.9_app_armeabi_v7a_relea.apk\n纯粹直播_v2.0.8_app_arm64_v8a_relea.apk\n纯粹直播_v2.0.8_app_armeabi_v7a_relea.apk\n纯粹直播_v2.0.3_app_arm64_v8a_relea_TV.apk\n纯粹直播_v2.0.3_app_armeabi_v7a_relea_TV.apk\n纯粹直播_v2.0.1_电视版.apk\n纯粹直播_v1.9.6_电视低版本.apk\n纯粹直播_v1.9.5_电视版本All.apk\n纯粹直播_v1.8.8_电视低版本.apk\n纯粹直播_v1.8.8_电视版本All.apk\n纯粹直播_v1.8.8_电视高版本.apk",
-      "app_intro": "纯粹直播是一款可以观看斗鱼、B站、虎牙和抖音等六大直播平台的聚合类直播软件。软件非常简洁纯粹，除了B站需要登录，其他直播平台都可以无需登录观看4K超清画质的直播，更可以跨平台关注你喜欢的主播，免去大家下载多个app的麻烦。而且这款软件适配手机、电视、电脑。基本囊括了大家使用的设备，喜欢看网络直播的非常推荐！",
-      "screenshots": [
-        "app/live/纯粹直播/images/1.webp",
-        "app/live/纯粹直播/images/2.webp",
-        "app/live/纯粹直播/images/3.webp",
-        "app/live/纯粹直播/images/4.webp",
-        "app/live/纯粹直播/images/5.webp",
-        "app/live/纯粹直播/images/6.webp"
-      ],
-      "id": "纯粹直播",
-      "icon": "icons/纯粹直播.png",
-      "desc": "纯粹直播是一款可以观看斗鱼、B站、虎牙和抖音等六大直播平台的聚合类直播软件。软件非常简洁纯粹，除了B站需要登录，其他直播平台都可以无需登录观看4K超清画质的直播，更可以跨平台关注你喜欢的主播，免去大家下载多个app的麻烦。而且这款软件适配手机、电视、电脑。基本囊括了大家使用的设备，喜欢看网络直播的非常推荐！",
-      "download_url": "app/live/纯粹直播/纯粹直播_v2.0.12_app_arm64_v8a_relea.apk",
-      "latest_apk": "纯粹直播_v2.0.12_app_arm64_v8a_relea.apk",
+      "download_url": "app/live/直播电视/zbds_v20250922_2.apk",
+      "latest_apk": "zbds_v20250922_2.apk",
       "other_versions_list": [
         {
-          "name": "纯粹直播_v2.0.12_app_armeabi_v7a_relea.apk",
-          "download_url": "app/live/纯粹直播/纯粹直播_v2.0.12_app_armeabi_v7a_relea.apk",
-          "filename": "纯粹直播_v2.0.12_app_armeabi_v7a_relea.apk"
-        },
-        {
-          "name": "纯粹直播_v2.0.11_app_arm64_v8a_relea.apk",
-          "download_url": "app/live/纯粹直播/纯粹直播_v2.0.11_app_arm64_v8a_relea.apk",
-          "filename": "纯粹直播_v2.0.11_app_arm64_v8a_relea.apk"
-        },
-        {
-          "name": "纯粹直播_v2.0.11_app_armeabi_v7a_relea.apk",
-          "download_url": "app/live/纯粹直播/纯粹直播_v2.0.11_app_armeabi_v7a_relea.apk",
-          "filename": "纯粹直播_v2.0.11_app_armeabi_v7a_relea.apk"
-        },
-        {
-          "name": "纯粹直播_v2.0.10_app_arm64_v8a_relea.apk",
-          "download_url": "app/live/纯粹直播/纯粹直播_v2.0.10_app_arm64_v8a_relea.apk",
-          "filename": "纯粹直播_v2.0.10_app_arm64_v8a_relea.apk"
-        },
-        {
-          "name": "纯粹直播_v2.0.10_app_armeabi_v7a_relea.apk",
-          "download_url": "app/live/纯粹直播/纯粹直播_v2.0.10_app_armeabi_v7a_relea.apk",
-          "filename": "纯粹直播_v2.0.10_app_armeabi_v7a_relea.apk"
-        },
-        {
-          "name": "纯粹直播_v2.0.9_app_arm64_v8a_relea.apk",
-          "download_url": "app/live/纯粹直播/纯粹直播_v2.0.9_app_arm64_v8a_relea.apk",
-          "filename": "纯粹直播_v2.0.9_app_arm64_v8a_relea.apk"
-        },
-        {
-          "name": "纯粹直播_v2.0.9_app_armeabi_v7a_relea.apk",
-          "download_url": "app/live/纯粹直播/纯粹直播_v2.0.9_app_armeabi_v7a_relea.apk",
-          "filename": "纯粹直播_v2.0.9_app_armeabi_v7a_relea.apk"
-        },
-        {
-          "name": "纯粹直播_v2.0.8_app_arm64_v8a_relea.apk",
-          "download_url": "app/live/纯粹直播/纯粹直播_v2.0.8_app_arm64_v8a_relea.apk",
-          "filename": "纯粹直播_v2.0.8_app_arm64_v8a_relea.apk"
-        },
-        {
-          "name": "纯粹直播_v2.0.8_app_armeabi_v7a_relea.apk",
-          "download_url": "app/live/纯粹直播/纯粹直播_v2.0.8_app_armeabi_v7a_relea.apk",
-          "filename": "纯粹直播_v2.0.8_app_armeabi_v7a_relea.apk"
-        },
-        {
-          "name": "纯粹直播_v2.0.3_app_arm64_v8a_relea_TV.apk",
-          "download_url": "app/live/纯粹直播/纯粹直播_v2.0.3_app_arm64_v8a_relea_TV.apk",
-          "filename": "纯粹直播_v2.0.3_app_arm64_v8a_relea_TV.apk"
-        },
-        {
-          "name": "纯粹直播_v2.0.3_app_armeabi_v7a_relea_TV.apk",
-          "download_url": "app/live/纯粹直播/纯粹直播_v2.0.3_app_armeabi_v7a_relea_TV.apk",
-          "filename": "纯粹直播_v2.0.3_app_armeabi_v7a_relea_TV.apk"
-        },
-        {
-          "name": "纯粹直播_v2.0.1_电视版.apk",
-          "download_url": "app/live/纯粹直播/纯粹直播_v2.0.1_电视版.apk",
-          "filename": "纯粹直播_v2.0.1_电视版.apk"
-        },
-        {
-          "name": "纯粹直播_v1.9.6_电视低版本.apk",
-          "download_url": "app/live/纯粹直播/纯粹直播_v1.9.6_电视低版本.apk",
-          "filename": "纯粹直播_v1.9.6_电视低版本.apk"
-        },
-        {
-          "name": "纯粹直播_v1.9.5_电视版本All.apk",
-          "download_url": "app/live/纯粹直播/纯粹直播_v1.9.5_电视版本All.apk",
-          "filename": "纯粹直播_v1.9.5_电视版本All.apk"
-        },
-        {
-          "name": "纯粹直播_v1.8.8_电视低版本.apk",
-          "download_url": "app/live/纯粹直播/纯粹直播_v1.8.8_电视低版本.apk",
-          "filename": "纯粹直播_v1.8.8_电视低版本.apk"
-        },
-        {
-          "name": "纯粹直播_v1.8.8_电视版本All.apk",
-          "download_url": "app/live/纯粹直播/纯粹直播_v1.8.8_电视版本All.apk",
-          "filename": "纯粹直播_v1.8.8_电视版本All.apk"
-        },
-        {
-          "name": "纯粹直播_v1.8.8_电视高版本.apk",
-          "download_url": "app/live/纯粹直播/纯粹直播_v1.8.8_电视高版本.apk",
-          "filename": "纯粹直播_v1.8.8_电视高版本.apk"
+          "name": "zbds_v20250426.apk",
+          "download_url": "app/live/直播电视/zbds_v20250426.apk",
+          "filename": "zbds_v20250426.apk"
         }
       ]
     },
@@ -1427,7 +1288,7 @@ const appData = {
       "version": "1.8.2-公签版",
       "update_time": "2026-01-14",
       "size": "15.10 MB",
-      "other_versions": "应用管家v1.8.2-普通版.apk\n应用管家v1.8.0-公签版.apk\n应用管家v1.8.0-普通版.apk\n应用管家v1.7.9-公签版.apk\n应用管家v1.7.9-普通版.apk\n应用管家v1.6.6-公签版.apk\n应用管家v1.6.6.apk\n应用管家v1.6.4-公签版(推荐).apk\n应用管家v1.6.4.apk\n应用管家v1.6.3-公签版(推荐).apk\n应用管家v1.6.3 β  v4-公签版(推荐).apk\n应用管家v1.6.3 β  v4.apk\n应用管家v1.6.3 β v5-公签版.apk\n应用管家v1.6.3 β v5.apk\n应用管家v1.6.3.apk\n应用管家v1.6.2-公签版.apk\n应用管家v1.6.2.apk\n应用管家v1.6.0-公签版(推荐).apk\n应用管家v1.6.0.apk\n应用管家v1.5.9-公签版(推荐).apk\n应用管家v1.5.9.apk\n应用管家v1.5.8-公签版.apk\n应用管家v1.5.8.apk\n应用管家v1.5.7-公签版.apk\n应用管家v1.5.7.apk\n应用管家v1.5.6(1560)-公签版.apk\n应用管家v1.5.6(1560).apk",
+      "other_versions": "应用管家v1.8.2-普通版.apk\n应用管家v1.5.6(1560)-公签版.apk\n应用管家v1.5.6(1560).apk",
       "app_intro": "应用管家是专为安卓系统打造的应用和文件管理软件，它可以获取到电视中的所有应用程序和文件数据，方便用户进行删除、移动等；如果连接手机后，还可以将手机中的应用传输到电视上进行安装，这样就不需要U盘了。",
       "screenshots": [
         "app/utility/应用管家/images/1.jpg",
@@ -1445,126 +1306,6 @@ const appData = {
           "name": "应用管家v1.8.2-普通版.apk",
           "download_url": "app/utility/应用管家/应用管家v1.8.2-普通版.apk",
           "filename": "应用管家v1.8.2-普通版.apk"
-        },
-        {
-          "name": "应用管家v1.8.0-公签版.apk",
-          "download_url": "app/utility/应用管家/应用管家v1.8.0-公签版.apk",
-          "filename": "应用管家v1.8.0-公签版.apk"
-        },
-        {
-          "name": "应用管家v1.8.0-普通版.apk",
-          "download_url": "app/utility/应用管家/应用管家v1.8.0-普通版.apk",
-          "filename": "应用管家v1.8.0-普通版.apk"
-        },
-        {
-          "name": "应用管家v1.7.9-公签版.apk",
-          "download_url": "app/utility/应用管家/应用管家v1.7.9-公签版.apk",
-          "filename": "应用管家v1.7.9-公签版.apk"
-        },
-        {
-          "name": "应用管家v1.7.9-普通版.apk",
-          "download_url": "app/utility/应用管家/应用管家v1.7.9-普通版.apk",
-          "filename": "应用管家v1.7.9-普通版.apk"
-        },
-        {
-          "name": "应用管家v1.6.6-公签版.apk",
-          "download_url": "app/utility/应用管家/应用管家v1.6.6-公签版.apk",
-          "filename": "应用管家v1.6.6-公签版.apk"
-        },
-        {
-          "name": "应用管家v1.6.6.apk",
-          "download_url": "app/utility/应用管家/应用管家v1.6.6.apk",
-          "filename": "应用管家v1.6.6.apk"
-        },
-        {
-          "name": "应用管家v1.6.4-公签版(推荐).apk",
-          "download_url": "app/utility/应用管家/应用管家v1.6.4-公签版(推荐).apk",
-          "filename": "应用管家v1.6.4-公签版(推荐).apk"
-        },
-        {
-          "name": "应用管家v1.6.4.apk",
-          "download_url": "app/utility/应用管家/应用管家v1.6.4.apk",
-          "filename": "应用管家v1.6.4.apk"
-        },
-        {
-          "name": "应用管家v1.6.3-公签版(推荐).apk",
-          "download_url": "app/utility/应用管家/应用管家v1.6.3-公签版(推荐).apk",
-          "filename": "应用管家v1.6.3-公签版(推荐).apk"
-        },
-        {
-          "name": "应用管家v1.6.3 β  v4-公签版(推荐).apk",
-          "download_url": "app/utility/应用管家/应用管家v1.6.3 β  v4-公签版(推荐).apk",
-          "filename": "应用管家v1.6.3 β  v4-公签版(推荐).apk"
-        },
-        {
-          "name": "应用管家v1.6.3 β  v4.apk",
-          "download_url": "app/utility/应用管家/应用管家v1.6.3 β  v4.apk",
-          "filename": "应用管家v1.6.3 β  v4.apk"
-        },
-        {
-          "name": "应用管家v1.6.3 β v5-公签版.apk",
-          "download_url": "app/utility/应用管家/应用管家v1.6.3 β v5-公签版.apk",
-          "filename": "应用管家v1.6.3 β v5-公签版.apk"
-        },
-        {
-          "name": "应用管家v1.6.3 β v5.apk",
-          "download_url": "app/utility/应用管家/应用管家v1.6.3 β v5.apk",
-          "filename": "应用管家v1.6.3 β v5.apk"
-        },
-        {
-          "name": "应用管家v1.6.3.apk",
-          "download_url": "app/utility/应用管家/应用管家v1.6.3.apk",
-          "filename": "应用管家v1.6.3.apk"
-        },
-        {
-          "name": "应用管家v1.6.2-公签版.apk",
-          "download_url": "app/utility/应用管家/应用管家v1.6.2-公签版.apk",
-          "filename": "应用管家v1.6.2-公签版.apk"
-        },
-        {
-          "name": "应用管家v1.6.2.apk",
-          "download_url": "app/utility/应用管家/应用管家v1.6.2.apk",
-          "filename": "应用管家v1.6.2.apk"
-        },
-        {
-          "name": "应用管家v1.6.0-公签版(推荐).apk",
-          "download_url": "app/utility/应用管家/应用管家v1.6.0-公签版(推荐).apk",
-          "filename": "应用管家v1.6.0-公签版(推荐).apk"
-        },
-        {
-          "name": "应用管家v1.6.0.apk",
-          "download_url": "app/utility/应用管家/应用管家v1.6.0.apk",
-          "filename": "应用管家v1.6.0.apk"
-        },
-        {
-          "name": "应用管家v1.5.9-公签版(推荐).apk",
-          "download_url": "app/utility/应用管家/应用管家v1.5.9-公签版(推荐).apk",
-          "filename": "应用管家v1.5.9-公签版(推荐).apk"
-        },
-        {
-          "name": "应用管家v1.5.9.apk",
-          "download_url": "app/utility/应用管家/应用管家v1.5.9.apk",
-          "filename": "应用管家v1.5.9.apk"
-        },
-        {
-          "name": "应用管家v1.5.8-公签版.apk",
-          "download_url": "app/utility/应用管家/应用管家v1.5.8-公签版.apk",
-          "filename": "应用管家v1.5.8-公签版.apk"
-        },
-        {
-          "name": "应用管家v1.5.8.apk",
-          "download_url": "app/utility/应用管家/应用管家v1.5.8.apk",
-          "filename": "应用管家v1.5.8.apk"
-        },
-        {
-          "name": "应用管家v1.5.7-公签版.apk",
-          "download_url": "app/utility/应用管家/应用管家v1.5.7-公签版.apk",
-          "filename": "应用管家v1.5.7-公签版.apk"
-        },
-        {
-          "name": "应用管家v1.5.7.apk",
-          "download_url": "app/utility/应用管家/应用管家v1.5.7.apk",
-          "filename": "应用管家v1.5.7.apk"
         },
         {
           "name": "应用管家v1.5.6(1560)-公签版.apk",
@@ -1723,7 +1464,7 @@ const appData = {
       "version": "3.9.1",
       "update_time": "2026-01-14",
       "size": "83.64 MB",
-      "other_versions": "OK影视Pro-电视版-32位-3.9.1.apk\nOK影视Pro-电视版-64位-3.9.1.apk\nOK影视-手机版-3.6.0.apk\nOK影视-电视版-3.6.0.apk\nOK影视TV端-32位_v3.6.0_内置共存版.apk\nOK影视TV端-64位_v3.6.0_内置共存版.apk\nOK影视手机端-32位_v3.6.0_内置共存版.apk\nOK影视手机端-64位_v3.6.0_内置共存版.apk\n海信专版-OK影视-3.6.0.apk\nOK影视Pro-手机版-3.3.3.apk\nOK影视Pro-电视版-3.3.3.apk\nOK影视-手机版-2.9.3.apk\nOK影视-电视版-2.9.3.apk\nOK影视TV端-32位_v2.9.3_内置共存版.apk\nOK影视TV端-64位_v2.9.3_内置共存版.apk\nOK影视手机端-32位_v2.9.3_内置共存版.apk\nOK影视手机端-64位_v2.9.3_内置共存版.apk\n海信专版-OK影视-2.9.3.apk",
+      "other_versions": "OK影视Pro-电视版-32位-3.9.1.apk\nOK影视Pro-电视版-64位-3.9.1.apk\nOK影视-手机版-3.6.0.apk\nOK影视-电视版-3.6.0.apk\nOK影视TV端-32位_v3.6.0_内置共存版.apk\nOK影视TV端-64位_v3.6.0_内置共存版.apk\nOK影视手机端-32位_v3.6.0_内置共存版.apk\nOK影视手机端-64位_v3.6.0_内置共存版.apk\n海信专版-OK影视-3.6.0.apk",
       "app_intro": "OK影视是一款非常好用的视频播放软件，用户可以自由配置接口，操作简单易上手，无论是热播电影、剧集还是综艺，都能免费随心观看，满足你的多样化娱乐需求。软件还支持用户通过关键词搜索想看的剧集，轻松找到心仪的内容。此外，OK影视还提供了多种个性设置，比如播放速度调节、长按倍速播放以及无痕模式等，全方位打造舒适、便捷的观影体验。",
       "screenshots": [
         "app/video/OK影视/images/1.png",
@@ -1781,51 +1522,6 @@ const appData = {
           "name": "海信专版-OK影视-3.6.0.apk",
           "download_url": "app/video/OK影视/海信专版-OK影视-3.6.0.apk",
           "filename": "海信专版-OK影视-3.6.0.apk"
-        },
-        {
-          "name": "OK影视Pro-手机版-3.3.3.apk",
-          "download_url": "app/video/OK影视/OK影视Pro-手机版-3.3.3.apk",
-          "filename": "OK影视Pro-手机版-3.3.3.apk"
-        },
-        {
-          "name": "OK影视Pro-电视版-3.3.3.apk",
-          "download_url": "app/video/OK影视/OK影视Pro-电视版-3.3.3.apk",
-          "filename": "OK影视Pro-电视版-3.3.3.apk"
-        },
-        {
-          "name": "OK影视-手机版-2.9.3.apk",
-          "download_url": "app/video/OK影视/OK影视-手机版-2.9.3.apk",
-          "filename": "OK影视-手机版-2.9.3.apk"
-        },
-        {
-          "name": "OK影视-电视版-2.9.3.apk",
-          "download_url": "app/video/OK影视/OK影视-电视版-2.9.3.apk",
-          "filename": "OK影视-电视版-2.9.3.apk"
-        },
-        {
-          "name": "OK影视TV端-32位_v2.9.3_内置共存版.apk",
-          "download_url": "app/video/OK影视/OK影视TV端-32位_v2.9.3_内置共存版.apk",
-          "filename": "OK影视TV端-32位_v2.9.3_内置共存版.apk"
-        },
-        {
-          "name": "OK影视TV端-64位_v2.9.3_内置共存版.apk",
-          "download_url": "app/video/OK影视/OK影视TV端-64位_v2.9.3_内置共存版.apk",
-          "filename": "OK影视TV端-64位_v2.9.3_内置共存版.apk"
-        },
-        {
-          "name": "OK影视手机端-32位_v2.9.3_内置共存版.apk",
-          "download_url": "app/video/OK影视/OK影视手机端-32位_v2.9.3_内置共存版.apk",
-          "filename": "OK影视手机端-32位_v2.9.3_内置共存版.apk"
-        },
-        {
-          "name": "OK影视手机端-64位_v2.9.3_内置共存版.apk",
-          "download_url": "app/video/OK影视/OK影视手机端-64位_v2.9.3_内置共存版.apk",
-          "filename": "OK影视手机端-64位_v2.9.3_内置共存版.apk"
-        },
-        {
-          "name": "海信专版-OK影视-2.9.3.apk",
-          "download_url": "app/video/OK影视/海信专版-OK影视-2.9.3.apk",
-          "filename": "海信专版-OK影视-2.9.3.apk"
         }
       ]
     },
@@ -1834,7 +1530,7 @@ const appData = {
       "version": "215613905",
       "update_time": "2026-01-14",
       "size": "17.76 MB",
-      "other_versions": "TVBox_q215613905_20250513-1430-python.apk\nTVBox_q215613905_20251016-2311-java.apk\nTVBox_q215613905_20251016-2311-python.apk",
+      "other_versions": "TVBox_q215613905_20251016-2311-python.apk",
       "app_intro": "TVBox app是一款免费影视在线追剧平台，TVBox_q215613905版兼容安卓4.4版本，大家能够在这里找到各种类型、各个年代的优质超清影视作品，无论是热门大片还是经典老剧，包含了电影、电视剧、综艺节目、动漫等，用户可以在这里享受到流畅、清晰、不卡顿、无广告、完全免费的观影体验。",
       "screenshots": [
         "app/video/TVBox_白壳版/images/1.png",
@@ -1844,19 +1540,9 @@ const appData = {
       "id": "tvbox-白壳版",
       "icon": "icons/TVBox_白壳版.png",
       "desc": "TVBox app是一款免费影视在线追剧平台，TVBox_q215613905版兼容安卓4.4版本，大家能够在这里找到各种类型、各个年代的优质超清影视作品，无论是热门大片还是经典老剧，包含了电影、电视剧、综艺节目、动漫等，用户可以在这里享受到流畅、清晰、不卡顿、无广告、完全免费的观影体验。",
-      "download_url": "app/video/TVBox_白壳版/TVBox_q215613905_20250513-1430-java.apk",
-      "latest_apk": "TVBox_q215613905_20250513-1430-java.apk",
+      "download_url": "app/video/TVBox_白壳版/TVBox_q215613905_20251016-2311-java.apk",
+      "latest_apk": "TVBox_q215613905_20251016-2311-java.apk",
       "other_versions_list": [
-        {
-          "name": "TVBox_q215613905_20250513-1430-python.apk",
-          "download_url": "app/video/TVBox_白壳版/TVBox_q215613905_20250513-1430-python.apk",
-          "filename": "TVBox_q215613905_20250513-1430-python.apk"
-        },
-        {
-          "name": "TVBox_q215613905_20251016-2311-java.apk",
-          "download_url": "app/video/TVBox_白壳版/TVBox_q215613905_20251016-2311-java.apk",
-          "filename": "TVBox_q215613905_20251016-2311-java.apk"
-        },
         {
           "name": "TVBox_q215613905_20251016-2311-python.apk",
           "download_url": "app/video/TVBox_白壳版/TVBox_q215613905_20251016-2311-python.apk",
@@ -1869,7 +1555,7 @@ const appData = {
       "version": "20251127",
       "update_time": "2026-01-14",
       "size": "28.21 MB",
-      "other_versions": "TVBox_takagen99_20251127-1156-arm64-generic-python.apk\nTVBox_takagen99_20251127-1156-arm64-hisense-java.apk\nTVBox_takagen99_20251127-1156-arm64-hisense-python.apk\nTVBox_takagen99_20251127-1156-armeabi-generic-java.apk\nTVBox_takagen99_20251127-1156-armeabi-generic-python.apk\nTVBox_takagen99_20251127-1156-armeabi-hisense-java.apk\nTVBox_takagen99_20251127-1156-armeabi-hisense-python.apk\nTVBox_takagen99_20250508-1756-arm64-generic-java.apk\nTVBox_takagen99_20250508-1756-arm64-generic-python.apk\nTVBox_takagen99_20250508-1756-arm64-hisense-java.apk\nTVBox_takagen99_20250508-1756-arm64-hisense-python.apk\nTVBox_takagen99_20250508-1756-armeabi-generic-java.apk\nTVBox_takagen99_20250508-1756-armeabi-generic-python.apk\nTVBox_takagen99_20250508-1756-armeabi-hisense-java.apk\nTVBox_takagen99_20250508-1756-armeabi-hisense-python.apk",
+      "other_versions": "TVBox_takagen99_20251127-1156-arm64-generic-python.apk\nTVBox_takagen99_20251127-1156-arm64-hisense-java.apk\nTVBox_takagen99_20251127-1156-arm64-hisense-python.apk\nTVBox_takagen99_20251127-1156-armeabi-generic-java.apk\nTVBox_takagen99_20251127-1156-armeabi-generic-python.apk\nTVBox_takagen99_20251127-1156-armeabi-hisense-java.apk\nTVBox_takagen99_20251127-1156-armeabi-hisense-python.apk",
       "app_intro": "TVBox app是一款免费影视在线追剧平台，大家能够在这里找到各种类型、各个年代的优质超清影视作品，无论是热门大片还是经典老剧，包含了电影、电视剧、综艺节目、动漫等，用户可以在这里享受到流畅、清晰、不卡顿、无广告、完全免费的观影体验。",
       "screenshots": [
         "app/video/TVBox_黑壳版/images/1.png",
@@ -1916,100 +1602,8 @@ const appData = {
           "name": "TVBox_takagen99_20251127-1156-armeabi-hisense-python.apk",
           "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20251127-1156-armeabi-hisense-python.apk",
           "filename": "TVBox_takagen99_20251127-1156-armeabi-hisense-python.apk"
-        },
-        {
-          "name": "TVBox_takagen99_20250508-1756-arm64-generic-java.apk",
-          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20250508-1756-arm64-generic-java.apk",
-          "filename": "TVBox_takagen99_20250508-1756-arm64-generic-java.apk"
-        },
-        {
-          "name": "TVBox_takagen99_20250508-1756-arm64-generic-python.apk",
-          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20250508-1756-arm64-generic-python.apk",
-          "filename": "TVBox_takagen99_20250508-1756-arm64-generic-python.apk"
-        },
-        {
-          "name": "TVBox_takagen99_20250508-1756-arm64-hisense-java.apk",
-          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20250508-1756-arm64-hisense-java.apk",
-          "filename": "TVBox_takagen99_20250508-1756-arm64-hisense-java.apk"
-        },
-        {
-          "name": "TVBox_takagen99_20250508-1756-arm64-hisense-python.apk",
-          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20250508-1756-arm64-hisense-python.apk",
-          "filename": "TVBox_takagen99_20250508-1756-arm64-hisense-python.apk"
-        },
-        {
-          "name": "TVBox_takagen99_20250508-1756-armeabi-generic-java.apk",
-          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20250508-1756-armeabi-generic-java.apk",
-          "filename": "TVBox_takagen99_20250508-1756-armeabi-generic-java.apk"
-        },
-        {
-          "name": "TVBox_takagen99_20250508-1756-armeabi-generic-python.apk",
-          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20250508-1756-armeabi-generic-python.apk",
-          "filename": "TVBox_takagen99_20250508-1756-armeabi-generic-python.apk"
-        },
-        {
-          "name": "TVBox_takagen99_20250508-1756-armeabi-hisense-java.apk",
-          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20250508-1756-armeabi-hisense-java.apk",
-          "filename": "TVBox_takagen99_20250508-1756-armeabi-hisense-java.apk"
-        },
-        {
-          "name": "TVBox_takagen99_20250508-1756-armeabi-hisense-python.apk",
-          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20250508-1756-armeabi-hisense-python.apk",
-          "filename": "TVBox_takagen99_20250508-1756-armeabi-hisense-python.apk"
         }
       ]
-    },
-    {
-      "name": "七星影仓",
-      "version": "6.1.7",
-      "update_time": "2026-01-14",
-      "size": "34.30 MB",
-      "other_versions": "七星影仓_v6.1.7_海信TV专版(点配置点确定).apk\n七星影仓_v6.1.2_电视版exo1.4.1(点确定).apk",
-      "app_intro": "七星影仓电视版，一款完全免费的影视播放器，拥有海量精彩影视资源。安装在电视上，无需付费即可畅快免费看剧。其强大的搜索引擎，让找剧变得轻松简单，观看全程干扰，而且绿色安全无病毒，快来体验吧！",
-      "screenshots": [
-        "app/video/七星影仓/images/1.jpg",
-        "app/video/七星影仓/images/2.png",
-        "app/video/七星影仓/images/3.png",
-        "app/video/七星影仓/images/4.png",
-        "app/video/七星影仓/images/5.png",
-        "app/video/七星影仓/images/6.png"
-      ],
-      "id": "七星影仓",
-      "icon": "icons/七星影仓.png",
-      "desc": "七星影仓电视版，一款完全免费的影视播放器，拥有海量精彩影视资源。安装在电视上，无需付费即可畅快免费看剧。其强大的搜索引擎，让找剧变得轻松简单，观看全程干扰，而且绿色安全无病毒，快来体验吧！",
-      "download_url": "app/video/七星影仓/七星影仓_v6.1.7_251103修复版(点配置点确定).apk",
-      "latest_apk": "七星影仓_v6.1.7_251103修复版(点配置点确定).apk",
-      "other_versions_list": [
-        {
-          "name": "七星影仓_v6.1.7_海信TV专版(点配置点确定).apk",
-          "download_url": "app/video/七星影仓/七星影仓_v6.1.7_海信TV专版(点配置点确定).apk",
-          "filename": "七星影仓_v6.1.7_海信TV专版(点配置点确定).apk"
-        },
-        {
-          "name": "七星影仓_v6.1.2_电视版exo1.4.1(点确定).apk",
-          "download_url": "app/video/七星影仓/七星影仓_v6.1.2_电视版exo1.4.1(点确定).apk",
-          "filename": "七星影仓_v6.1.2_电视版exo1.4.1(点确定).apk"
-        }
-      ]
-    },
-    {
-      "name": "七星影仓-V3版",
-      "version": "3",
-      "update_time": "2026-01-14",
-      "size": "28.15 MB",
-      "other_versions": "无",
-      "app_intro": "七星影仓电视版，一款完全免费的影视播放器，拥有海量精彩影视资源。安装在电视上，无需付费即可畅快免费看剧。其强大的搜索引擎，让找剧变得轻松简单，观看全程干扰，而且绿色安全无病毒，快来体验吧！",
-      "screenshots": [
-        "app/video/七星影仓-V3版/images/1.webp",
-        "app/video/七星影仓-V3版/images/2.webp",
-        "app/video/七星影仓-V3版/images/3.webp"
-      ],
-      "id": "七星影仓-v3版",
-      "icon": "icons/七星影仓-V3版.png",
-      "desc": "七星影仓电视版，一款完全免费的影视播放器，拥有海量精彩影视资源。安装在电视上，无需付费即可畅快免费看剧。其强大的搜索引擎，让找剧变得轻松简单，观看全程干扰，而且绿色安全无病毒，快来体验吧！",
-      "download_url": "app/video/七星影仓-V3版/七星影仓-V3版-安卓4.x系统专用(点配置点确定).apk",
-      "latest_apk": "七星影仓-V3版-安卓4.x系统专用(点配置点确定).apk",
-      "other_versions_list": []
     },
     {
       "name": "动漫鸭",
@@ -2030,39 +1624,6 @@ const appData = {
       "download_url": "app/video/动漫鸭/动漫鸭_10.1.0.apk",
       "latest_apk": "动漫鸭_10.1.0.apk",
       "other_versions_list": []
-    },
-    {
-      "name": "好好看TV",
-      "version": "1.1.2",
-      "update_time": "2026-01-14",
-      "size": "21.74 MB",
-      "other_versions": "好好看_TV_1.1.0-免签会员版.apk\n好好看_TV_1.1.0.apk",
-      "app_intro": "好好看TV版是一款最近十分火热的影视播放器软件，这里汇集了各式各样丰富的影视资源，可以很好的满足不同用户的追剧需求，方便大家随时随地的在线观看高清影视资源，带给大家最优质的观影服务，随时打开即可非常方便！",
-      "screenshots": [
-        "app/video/好好看TV/images/1.png",
-        "app/video/好好看TV/images/2.png",
-        "app/video/好好看TV/images/3.png",
-        "app/video/好好看TV/images/4.png",
-        "app/video/好好看TV/images/5.png",
-        "app/video/好好看TV/images/6.png"
-      ],
-      "id": "好好看tv",
-      "icon": "icons/好好看TV.png",
-      "desc": "好好看TV版是一款最近十分火热的影视播放器软件，这里汇集了各式各样丰富的影视资源，可以很好的满足不同用户的追剧需求，方便大家随时随地的在线观看高清影视资源，带给大家最优质的观影服务，随时打开即可非常方便！",
-      "download_url": "app/video/好好看TV/好好看_TV_1.1.2.apk",
-      "latest_apk": "好好看_TV_1.1.2.apk",
-      "other_versions_list": [
-        {
-          "name": "好好看_TV_1.1.0-免签会员版.apk",
-          "download_url": "app/video/好好看TV/好好看_TV_1.1.0-免签会员版.apk",
-          "filename": "好好看_TV_1.1.0-免签会员版.apk"
-        },
-        {
-          "name": "好好看_TV_1.1.0.apk",
-          "download_url": "app/video/好好看TV/好好看_TV_1.1.0.apk",
-          "filename": "好好看_TV_1.1.0.apk"
-        }
-      ]
     },
     {
       "name": "宝盒TV",
@@ -2120,7 +1681,7 @@ const appData = {
       "version": "1.6.1",
       "update_time": "2026-01-14",
       "size": "33.21 MB",
-      "other_versions": "XPGBOX-release-1.6.0（适合部分老型号电视）.apk\nXPGBOX-release-1.5.9（低 Android 版本设备推荐）.apk\nXPGBOX-release-1.5.8.apk\nXPGBOX-release-1.5.6-免费纯净版.apk",
+      "other_versions": "XPGBOX-release-1.6.0（适合部分老型号电视）.apk\nXPGBOX-release-1.5.9（低 Android 版本设备推荐）.apk",
       "app_intro": "小苹果影视盒子app全新版本更新，带给用户最舒适的电视观看体验，全部可以免费看。有多个配置地址，用户也可以根据自己的需要导入更多的配置地址。无论是国内还是国外的电视剧、电影、综艺节目或动画，它们都可以找到并免费观看。在整个使用过程中没有任何广告，视频质量非常清晰。播放流畅稳定。任何问题都可以通过更改源代码来解决。最新剧集的更新速度非常快。",
       "screenshots": [
         "app/video/小苹果影视盒子/images/1.jpg",
@@ -2143,16 +1704,6 @@ const appData = {
           "name": "XPGBOX-release-1.5.9（低 Android 版本设备推荐）.apk",
           "download_url": "app/video/小苹果影视盒子/XPGBOX-release-1.5.9（低 Android 版本设备推荐）.apk",
           "filename": "XPGBOX-release-1.5.9（低 Android 版本设备推荐）.apk"
-        },
-        {
-          "name": "XPGBOX-release-1.5.8.apk",
-          "download_url": "app/video/小苹果影视盒子/XPGBOX-release-1.5.8.apk",
-          "filename": "XPGBOX-release-1.5.8.apk"
-        },
-        {
-          "name": "XPGBOX-release-1.5.6-免费纯净版.apk",
-          "download_url": "app/video/小苹果影视盒子/XPGBOX-release-1.5.6-免费纯净版.apk",
-          "filename": "XPGBOX-release-1.5.6-免费纯净版.apk"
         }
       ]
     },
@@ -2188,7 +1739,7 @@ const appData = {
       "version": "6.1.7-32位",
       "update_time": "2026-01-14",
       "size": "33.38 MB",
-      "other_versions": "影视仓_5.0.44.1-通用版.apk\n影视仓_5.0.44.1_外贸盒子专版.apk\n影视仓_5.0.44-防止google检测.apk\n影视仓_5.0.44_opt.apk\n影视仓_5.0.43_opt.apk\n影视仓_5.0.42_海信.apk\n影视仓_5.0.41.1_海信.apk\n影视仓_5.0.41_opt_海信.apk\n影视仓_5.0.40.1海信.apk\n影视仓_5.0.39_海信.apk\n影视仓_5.0.36.1_海信.apk\n影视仓_5.0.36_海信.apk\n影视仓_5.0.35.1_海信.apk\n影视仓_5.0.35_海信(1).apk\n影视仓_5.0.35_海信.apk\n影视仓_5.0.34.3_海信.apk\n影视仓_5.0.34.2_海信.apk\n影视仓_5.0.34.1_海信.apk\n影视仓_5.0.34_opt_海信.apk\n影视仓_5.0.33_海信.apk\n影视仓_5.0.32.1_电视版_海信版.apk\n影视仓_5.0.31.1_海信.apk\n影视仓_5.0.31_海信.apk\n影视仓_5.0.30_海信.apk\n影视仓_5.0.29_海信版.apk\n影视仓_5.0.28.1_海信.apk\n影视仓_5.0.28_海信.apk\n影视仓_5.0.27海信.apk\n影视仓_5.0.25_海信_clone_sign.apk\n影视仓_5.0.24-海信版.apk\n影视仓_5.0.23_海信.apk\n影视仓_5.0.22_海信版.apk\n影视仓_5.0.21_海信版.apk\n影视仓_5.0.20_1_海信版.apk\n影视仓_5.0.20_海信版.apk\n影视仓_5.0.19_海信版.apk\n影视仓_5.0.18_海信版.apk\n影视仓_5.0.17_1海信版.apk\n影视仓_5.0.17_海信版.apk\n影视仓_5.0.16_1_海信版.apk",
+      "other_versions": "无",
       "app_intro": "影视仓是一款专为电视盒子用户设计的免费追剧应用，提供海量高清影视资源。用户可以通过该App轻松观看各类电影、电视剧、综艺和动漫等内容。该应用支持多种播放源，用户需自行添加源进行播放，确保资源更新及时，满足不同需求。影视仓界面简洁，操作便捷，提供流畅的观影体验，同时支持剧集同步更新，让您随时追剧不停歇。",
       "screenshots": [
         "app/video/影视仓海信版/images/1.png",
@@ -2202,215 +1753,14 @@ const appData = {
       "desc": "影视仓是一款专为电视盒子用户设计的免费追剧应用，提供海量高清影视资源。用户可以通过该App轻松观看各类电影、电视剧、综艺和动漫等内容。该应用支持多种播放源，用户需自行添加源进行播放，确保资源更新及时，满足不同需求。影视仓界面简洁，操作便捷，提供流畅的观影体验，同时支持剧集同步更新，让您随时追剧不停歇。",
       "download_url": "app/video/影视仓海信版/影视仓-6.1.7-32位_海信版.apk",
       "latest_apk": "影视仓-6.1.7-32位_海信版.apk",
-      "other_versions_list": [
-        {
-          "name": "影视仓_5.0.44.1-通用版.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.44.1-通用版.apk",
-          "filename": "影视仓_5.0.44.1-通用版.apk"
-        },
-        {
-          "name": "影视仓_5.0.44.1_外贸盒子专版.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.44.1_外贸盒子专版.apk",
-          "filename": "影视仓_5.0.44.1_外贸盒子专版.apk"
-        },
-        {
-          "name": "影视仓_5.0.44-防止google检测.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.44-防止google检测.apk",
-          "filename": "影视仓_5.0.44-防止google检测.apk"
-        },
-        {
-          "name": "影视仓_5.0.44_opt.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.44_opt.apk",
-          "filename": "影视仓_5.0.44_opt.apk"
-        },
-        {
-          "name": "影视仓_5.0.43_opt.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.43_opt.apk",
-          "filename": "影视仓_5.0.43_opt.apk"
-        },
-        {
-          "name": "影视仓_5.0.42_海信.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.42_海信.apk",
-          "filename": "影视仓_5.0.42_海信.apk"
-        },
-        {
-          "name": "影视仓_5.0.41.1_海信.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.41.1_海信.apk",
-          "filename": "影视仓_5.0.41.1_海信.apk"
-        },
-        {
-          "name": "影视仓_5.0.41_opt_海信.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.41_opt_海信.apk",
-          "filename": "影视仓_5.0.41_opt_海信.apk"
-        },
-        {
-          "name": "影视仓_5.0.40.1海信.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.40.1海信.apk",
-          "filename": "影视仓_5.0.40.1海信.apk"
-        },
-        {
-          "name": "影视仓_5.0.39_海信.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.39_海信.apk",
-          "filename": "影视仓_5.0.39_海信.apk"
-        },
-        {
-          "name": "影视仓_5.0.36.1_海信.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.36.1_海信.apk",
-          "filename": "影视仓_5.0.36.1_海信.apk"
-        },
-        {
-          "name": "影视仓_5.0.36_海信.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.36_海信.apk",
-          "filename": "影视仓_5.0.36_海信.apk"
-        },
-        {
-          "name": "影视仓_5.0.35.1_海信.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.35.1_海信.apk",
-          "filename": "影视仓_5.0.35.1_海信.apk"
-        },
-        {
-          "name": "影视仓_5.0.35_海信(1).apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.35_海信(1).apk",
-          "filename": "影视仓_5.0.35_海信(1).apk"
-        },
-        {
-          "name": "影视仓_5.0.35_海信.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.35_海信.apk",
-          "filename": "影视仓_5.0.35_海信.apk"
-        },
-        {
-          "name": "影视仓_5.0.34.3_海信.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.34.3_海信.apk",
-          "filename": "影视仓_5.0.34.3_海信.apk"
-        },
-        {
-          "name": "影视仓_5.0.34.2_海信.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.34.2_海信.apk",
-          "filename": "影视仓_5.0.34.2_海信.apk"
-        },
-        {
-          "name": "影视仓_5.0.34.1_海信.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.34.1_海信.apk",
-          "filename": "影视仓_5.0.34.1_海信.apk"
-        },
-        {
-          "name": "影视仓_5.0.34_opt_海信.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.34_opt_海信.apk",
-          "filename": "影视仓_5.0.34_opt_海信.apk"
-        },
-        {
-          "name": "影视仓_5.0.33_海信.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.33_海信.apk",
-          "filename": "影视仓_5.0.33_海信.apk"
-        },
-        {
-          "name": "影视仓_5.0.32.1_电视版_海信版.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.32.1_电视版_海信版.apk",
-          "filename": "影视仓_5.0.32.1_电视版_海信版.apk"
-        },
-        {
-          "name": "影视仓_5.0.31.1_海信.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.31.1_海信.apk",
-          "filename": "影视仓_5.0.31.1_海信.apk"
-        },
-        {
-          "name": "影视仓_5.0.31_海信.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.31_海信.apk",
-          "filename": "影视仓_5.0.31_海信.apk"
-        },
-        {
-          "name": "影视仓_5.0.30_海信.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.30_海信.apk",
-          "filename": "影视仓_5.0.30_海信.apk"
-        },
-        {
-          "name": "影视仓_5.0.29_海信版.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.29_海信版.apk",
-          "filename": "影视仓_5.0.29_海信版.apk"
-        },
-        {
-          "name": "影视仓_5.0.28.1_海信.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.28.1_海信.apk",
-          "filename": "影视仓_5.0.28.1_海信.apk"
-        },
-        {
-          "name": "影视仓_5.0.28_海信.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.28_海信.apk",
-          "filename": "影视仓_5.0.28_海信.apk"
-        },
-        {
-          "name": "影视仓_5.0.27海信.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.27海信.apk",
-          "filename": "影视仓_5.0.27海信.apk"
-        },
-        {
-          "name": "影视仓_5.0.25_海信_clone_sign.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.25_海信_clone_sign.apk",
-          "filename": "影视仓_5.0.25_海信_clone_sign.apk"
-        },
-        {
-          "name": "影视仓_5.0.24-海信版.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.24-海信版.apk",
-          "filename": "影视仓_5.0.24-海信版.apk"
-        },
-        {
-          "name": "影视仓_5.0.23_海信.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.23_海信.apk",
-          "filename": "影视仓_5.0.23_海信.apk"
-        },
-        {
-          "name": "影视仓_5.0.22_海信版.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.22_海信版.apk",
-          "filename": "影视仓_5.0.22_海信版.apk"
-        },
-        {
-          "name": "影视仓_5.0.21_海信版.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.21_海信版.apk",
-          "filename": "影视仓_5.0.21_海信版.apk"
-        },
-        {
-          "name": "影视仓_5.0.20_1_海信版.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.20_1_海信版.apk",
-          "filename": "影视仓_5.0.20_1_海信版.apk"
-        },
-        {
-          "name": "影视仓_5.0.20_海信版.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.20_海信版.apk",
-          "filename": "影视仓_5.0.20_海信版.apk"
-        },
-        {
-          "name": "影视仓_5.0.19_海信版.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.19_海信版.apk",
-          "filename": "影视仓_5.0.19_海信版.apk"
-        },
-        {
-          "name": "影视仓_5.0.18_海信版.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.18_海信版.apk",
-          "filename": "影视仓_5.0.18_海信版.apk"
-        },
-        {
-          "name": "影视仓_5.0.17_1海信版.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.17_1海信版.apk",
-          "filename": "影视仓_5.0.17_1海信版.apk"
-        },
-        {
-          "name": "影视仓_5.0.17_海信版.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.17_海信版.apk",
-          "filename": "影视仓_5.0.17_海信版.apk"
-        },
-        {
-          "name": "影视仓_5.0.16_1_海信版.apk",
-          "download_url": "app/video/影视仓海信版/影视仓_5.0.16_1_海信版.apk",
-          "filename": "影视仓_5.0.16_1_海信版.apk"
-        }
-      ]
+      "other_versions_list": []
     },
     {
       "name": "影视仓电视版",
       "version": "6.1.8",
       "update_time": "2026-01-14",
       "size": "33.98 MB",
-      "other_versions": "影视仓-6.1.7_32位.apk\n影视仓_6.1.2-exo1.6.1修正无声倍速.apk\n影视仓_6.1.2-exo1.4.1修正无声，倍速.apk\n影视仓_6.1.1-32位.apk\n影视仓_6.1.0.apk\n影视仓_6.0.3.apk\n影视仓_6.0.2.apk\n影视仓_6.0.1.apk\n影视仓_6.0.0.apk\n影视仓_5.0.48.2.apk\n影视仓_5.0.48.apk\n影视仓_5.0.47.1.apk\n影视仓_5.0.47.apk\n影视仓_5.0.46.apk\n影视仓_5.0.42_电视.apk\n影视仓_5.0.41.1.apk\n影视仓_5.0.41_opt.apk\n影视仓_5.0.40.1.apk\n影视仓_5.0.39_通用.apk\n影视仓_5.0.36.1_opt.apk\n影视仓_5.0.35.1.apk\n影视仓_5.0.34.3.apk\n影视仓_5.0.34.2_opt.apk\n影视仓_5.0.34.1_.apk\n影视仓_5.0.34_opt.apk\n影视仓_5.0.33.apk\n影视仓_5.0.32.1_.apk\n影视仓_5.0.31.1_opt.apk\n影视仓_5.0.31-.apk\n影视仓_5.0.30(1).apk\n影视仓_5.0.29_r.apk\n影视仓_5.0.28.1.apk\n影视仓_5.0.28.apk\n影视仓_5.0.27.apk\n影视仓_5.0.26_TV修复版.apk\n影视仓_5.0.26_TV版.apk\n影视仓_5.0.25.apk\n影视仓_5.0.24-.apk\n影视仓_5.0.23.apk\n影视仓_5.0.22.apk\n影视仓_5.0.21_.apk\n影视仓_5.0.20.1.apk\n影视仓_5.0.20.apk\n影视仓_5.0.19.apk\n影视仓_5.0.18.apk\n影视仓_5.0.17.apk\n影视仓_5.0.17_1.apk\n影视仓_5.0.16.1.apk\n影视仓_5.0.15.apk",
+      "other_versions": "影视仓-6.1.7_32位.apk",
       "app_intro": "影视仓是一款专为电视盒子用户设计的免费追剧应用，提供海量高清影视资源。用户可以通过该App轻松观看各类电影、电视剧、综艺和动漫等内容。该应用支持多种播放源，用户需自行添加源进行播放，确保资源更新及时，满足不同需求。影视仓界面简洁，操作便捷，提供流畅的观影体验，同时支持剧集同步更新，让您随时追剧不停歇。",
       "screenshots": [
         "app/video/影视仓电视版/images/1.png",
@@ -2429,411 +1779,6 @@ const appData = {
           "name": "影视仓-6.1.7_32位.apk",
           "download_url": "app/video/影视仓电视版/影视仓-6.1.7_32位.apk",
           "filename": "影视仓-6.1.7_32位.apk"
-        },
-        {
-          "name": "影视仓_6.1.2-exo1.6.1修正无声倍速.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_6.1.2-exo1.6.1修正无声倍速.apk",
-          "filename": "影视仓_6.1.2-exo1.6.1修正无声倍速.apk"
-        },
-        {
-          "name": "影视仓_6.1.2-exo1.4.1修正无声，倍速.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_6.1.2-exo1.4.1修正无声，倍速.apk",
-          "filename": "影视仓_6.1.2-exo1.4.1修正无声，倍速.apk"
-        },
-        {
-          "name": "影视仓_6.1.1-32位.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_6.1.1-32位.apk",
-          "filename": "影视仓_6.1.1-32位.apk"
-        },
-        {
-          "name": "影视仓_6.1.0.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_6.1.0.apk",
-          "filename": "影视仓_6.1.0.apk"
-        },
-        {
-          "name": "影视仓_6.0.3.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_6.0.3.apk",
-          "filename": "影视仓_6.0.3.apk"
-        },
-        {
-          "name": "影视仓_6.0.2.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_6.0.2.apk",
-          "filename": "影视仓_6.0.2.apk"
-        },
-        {
-          "name": "影视仓_6.0.1.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_6.0.1.apk",
-          "filename": "影视仓_6.0.1.apk"
-        },
-        {
-          "name": "影视仓_6.0.0.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_6.0.0.apk",
-          "filename": "影视仓_6.0.0.apk"
-        },
-        {
-          "name": "影视仓_5.0.48.2.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.48.2.apk",
-          "filename": "影视仓_5.0.48.2.apk"
-        },
-        {
-          "name": "影视仓_5.0.48.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.48.apk",
-          "filename": "影视仓_5.0.48.apk"
-        },
-        {
-          "name": "影视仓_5.0.47.1.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.47.1.apk",
-          "filename": "影视仓_5.0.47.1.apk"
-        },
-        {
-          "name": "影视仓_5.0.47.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.47.apk",
-          "filename": "影视仓_5.0.47.apk"
-        },
-        {
-          "name": "影视仓_5.0.46.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.46.apk",
-          "filename": "影视仓_5.0.46.apk"
-        },
-        {
-          "name": "影视仓_5.0.42_电视.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.42_电视.apk",
-          "filename": "影视仓_5.0.42_电视.apk"
-        },
-        {
-          "name": "影视仓_5.0.41.1.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.41.1.apk",
-          "filename": "影视仓_5.0.41.1.apk"
-        },
-        {
-          "name": "影视仓_5.0.41_opt.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.41_opt.apk",
-          "filename": "影视仓_5.0.41_opt.apk"
-        },
-        {
-          "name": "影视仓_5.0.40.1.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.40.1.apk",
-          "filename": "影视仓_5.0.40.1.apk"
-        },
-        {
-          "name": "影视仓_5.0.39_通用.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.39_通用.apk",
-          "filename": "影视仓_5.0.39_通用.apk"
-        },
-        {
-          "name": "影视仓_5.0.36.1_opt.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.36.1_opt.apk",
-          "filename": "影视仓_5.0.36.1_opt.apk"
-        },
-        {
-          "name": "影视仓_5.0.35.1.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.35.1.apk",
-          "filename": "影视仓_5.0.35.1.apk"
-        },
-        {
-          "name": "影视仓_5.0.34.3.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.34.3.apk",
-          "filename": "影视仓_5.0.34.3.apk"
-        },
-        {
-          "name": "影视仓_5.0.34.2_opt.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.34.2_opt.apk",
-          "filename": "影视仓_5.0.34.2_opt.apk"
-        },
-        {
-          "name": "影视仓_5.0.34.1_.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.34.1_.apk",
-          "filename": "影视仓_5.0.34.1_.apk"
-        },
-        {
-          "name": "影视仓_5.0.34_opt.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.34_opt.apk",
-          "filename": "影视仓_5.0.34_opt.apk"
-        },
-        {
-          "name": "影视仓_5.0.33.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.33.apk",
-          "filename": "影视仓_5.0.33.apk"
-        },
-        {
-          "name": "影视仓_5.0.32.1_.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.32.1_.apk",
-          "filename": "影视仓_5.0.32.1_.apk"
-        },
-        {
-          "name": "影视仓_5.0.31.1_opt.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.31.1_opt.apk",
-          "filename": "影视仓_5.0.31.1_opt.apk"
-        },
-        {
-          "name": "影视仓_5.0.31-.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.31-.apk",
-          "filename": "影视仓_5.0.31-.apk"
-        },
-        {
-          "name": "影视仓_5.0.30(1).apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.30(1).apk",
-          "filename": "影视仓_5.0.30(1).apk"
-        },
-        {
-          "name": "影视仓_5.0.29_r.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.29_r.apk",
-          "filename": "影视仓_5.0.29_r.apk"
-        },
-        {
-          "name": "影视仓_5.0.28.1.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.28.1.apk",
-          "filename": "影视仓_5.0.28.1.apk"
-        },
-        {
-          "name": "影视仓_5.0.28.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.28.apk",
-          "filename": "影视仓_5.0.28.apk"
-        },
-        {
-          "name": "影视仓_5.0.27.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.27.apk",
-          "filename": "影视仓_5.0.27.apk"
-        },
-        {
-          "name": "影视仓_5.0.26_TV修复版.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.26_TV修复版.apk",
-          "filename": "影视仓_5.0.26_TV修复版.apk"
-        },
-        {
-          "name": "影视仓_5.0.26_TV版.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.26_TV版.apk",
-          "filename": "影视仓_5.0.26_TV版.apk"
-        },
-        {
-          "name": "影视仓_5.0.25.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.25.apk",
-          "filename": "影视仓_5.0.25.apk"
-        },
-        {
-          "name": "影视仓_5.0.24-.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.24-.apk",
-          "filename": "影视仓_5.0.24-.apk"
-        },
-        {
-          "name": "影视仓_5.0.23.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.23.apk",
-          "filename": "影视仓_5.0.23.apk"
-        },
-        {
-          "name": "影视仓_5.0.22.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.22.apk",
-          "filename": "影视仓_5.0.22.apk"
-        },
-        {
-          "name": "影视仓_5.0.21_.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.21_.apk",
-          "filename": "影视仓_5.0.21_.apk"
-        },
-        {
-          "name": "影视仓_5.0.20.1.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.20.1.apk",
-          "filename": "影视仓_5.0.20.1.apk"
-        },
-        {
-          "name": "影视仓_5.0.20.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.20.apk",
-          "filename": "影视仓_5.0.20.apk"
-        },
-        {
-          "name": "影视仓_5.0.19.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.19.apk",
-          "filename": "影视仓_5.0.19.apk"
-        },
-        {
-          "name": "影视仓_5.0.18.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.18.apk",
-          "filename": "影视仓_5.0.18.apk"
-        },
-        {
-          "name": "影视仓_5.0.17.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.17.apk",
-          "filename": "影视仓_5.0.17.apk"
-        },
-        {
-          "name": "影视仓_5.0.17_1.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.17_1.apk",
-          "filename": "影视仓_5.0.17_1.apk"
-        },
-        {
-          "name": "影视仓_5.0.16.1.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.16.1.apk",
-          "filename": "影视仓_5.0.16.1.apk"
-        },
-        {
-          "name": "影视仓_5.0.15.apk",
-          "download_url": "app/video/影视仓电视版/影视仓_5.0.15.apk",
-          "filename": "影视仓_5.0.15.apk"
-        }
-      ]
-    },
-    {
-      "name": "月光宝盒",
-      "version": "1017",
-      "update_time": "2026-01-14",
-      "size": "28.97 MB",
-      "other_versions": "月光宝盒Max1017.apk\n月光宝盒Max0808.apk\n月光宝盒Box0707.apk\n月光宝盒Box0601.apk\n月光宝盒Max0601.apk\n月光宝盒PLUS0601.apk\n月光宝盒PLUS0516.apk\n月光宝盒Box0507.apk\n月光宝盒Box0415.apk\n月光宝盒Box325.apk\n月光宝盒Max0309.apk\n月光宝盒PLUS0309.apk",
-      "app_intro": "月光宝盒Box：单仓版本，内置数据源，全接口AI过滤广告\n月光宝盒Max：MAX版是多仓线路源的，默认是宝盒的站源，可以进入设置更换\n月光宝盒PLUS：PLUS版本功能较全，支持点播+直播，内置宝盒数据源",
-      "screenshots": [
-        "app/video/月光宝盒/images/1.jpg",
-        "app/video/月光宝盒/images/2.jpg",
-        "app/video/月光宝盒/images/3.jpg",
-        "app/video/月光宝盒/images/4.jpg",
-        "app/video/月光宝盒/images/5.jpg"
-      ],
-      "id": "月光宝盒",
-      "icon": "icons/月光宝盒.png",
-      "desc": "月光宝盒Box：单仓版本，内置数据源，全接口AI过滤广告\n月光宝盒Max：MAX版是多仓线路源的，默认是宝盒的站源，可以进入设置更换\n月光宝盒PLUS：PLUS版本功能较全，支持点播+直播，内置宝盒数据源",
-      "download_url": "app/video/月光宝盒/月光宝盒Box1017.apk",
-      "latest_apk": "月光宝盒Box1017.apk",
-      "other_versions_list": [
-        {
-          "name": "月光宝盒Max1017.apk",
-          "download_url": "app/video/月光宝盒/月光宝盒Max1017.apk",
-          "filename": "月光宝盒Max1017.apk"
-        },
-        {
-          "name": "月光宝盒Max0808.apk",
-          "download_url": "app/video/月光宝盒/月光宝盒Max0808.apk",
-          "filename": "月光宝盒Max0808.apk"
-        },
-        {
-          "name": "月光宝盒Box0707.apk",
-          "download_url": "app/video/月光宝盒/月光宝盒Box0707.apk",
-          "filename": "月光宝盒Box0707.apk"
-        },
-        {
-          "name": "月光宝盒Box0601.apk",
-          "download_url": "app/video/月光宝盒/月光宝盒Box0601.apk",
-          "filename": "月光宝盒Box0601.apk"
-        },
-        {
-          "name": "月光宝盒Max0601.apk",
-          "download_url": "app/video/月光宝盒/月光宝盒Max0601.apk",
-          "filename": "月光宝盒Max0601.apk"
-        },
-        {
-          "name": "月光宝盒PLUS0601.apk",
-          "download_url": "app/video/月光宝盒/月光宝盒PLUS0601.apk",
-          "filename": "月光宝盒PLUS0601.apk"
-        },
-        {
-          "name": "月光宝盒PLUS0516.apk",
-          "download_url": "app/video/月光宝盒/月光宝盒PLUS0516.apk",
-          "filename": "月光宝盒PLUS0516.apk"
-        },
-        {
-          "name": "月光宝盒Box0507.apk",
-          "download_url": "app/video/月光宝盒/月光宝盒Box0507.apk",
-          "filename": "月光宝盒Box0507.apk"
-        },
-        {
-          "name": "月光宝盒Box0415.apk",
-          "download_url": "app/video/月光宝盒/月光宝盒Box0415.apk",
-          "filename": "月光宝盒Box0415.apk"
-        },
-        {
-          "name": "月光宝盒Box325.apk",
-          "download_url": "app/video/月光宝盒/月光宝盒Box325.apk",
-          "filename": "月光宝盒Box325.apk"
-        },
-        {
-          "name": "月光宝盒Max0309.apk",
-          "download_url": "app/video/月光宝盒/月光宝盒Max0309.apk",
-          "filename": "月光宝盒Max0309.apk"
-        },
-        {
-          "name": "月光宝盒PLUS0309.apk",
-          "download_url": "app/video/月光宝盒/月光宝盒PLUS0309.apk",
-          "filename": "月光宝盒PLUS0309.apk"
-        }
-      ]
-    },
-    {
-      "name": "欧歌多仓",
-      "version": "6.0.8",
-      "update_time": "2026-01-14",
-      "size": "34.67 MB",
-      "other_versions": "欧歌多仓2025-4-3魔改6.0.8.apk",
-      "app_intro": "集成多种影视资源的免费电视软件，基于影视仓魔改，内置欧歌源，安装即用",
-      "screenshots": [
-        "app/video/欧歌多仓/images/1.jpg",
-        "app/video/欧歌多仓/images/2.jpg",
-        "app/video/欧歌多仓/images/3.png",
-        "app/video/欧歌多仓/images/4.png"
-      ],
-      "id": "欧歌多仓",
-      "icon": "icons/欧歌多仓.png",
-      "desc": "集成多种影视资源的免费电视软件，基于影视仓魔改，内置欧歌源，安装即用",
-      "download_url": "app/video/欧歌多仓/欧歌多仓2025-4-3欧6.0.8.apk",
-      "latest_apk": "欧歌多仓2025-4-3欧6.0.8.apk",
-      "other_versions_list": [
-        {
-          "name": "欧歌多仓2025-4-3魔改6.0.8.apk",
-          "download_url": "app/video/欧歌多仓/欧歌多仓2025-4-3魔改6.0.8.apk",
-          "filename": "欧歌多仓2025-4-3魔改6.0.8.apk"
-        }
-      ]
-    },
-    {
-      "name": "欧歌影视",
-      "version": "6.1.7",
-      "update_time": "2026-01-14",
-      "size": "40.17 MB",
-      "other_versions": "欧歌影视_6.1.2-exo1.6.1修正无声倍速.apk\n欧歌影视_内6.1.2-exo1.6.1修正无声倍速.apk",
-      "app_intro": "集成多种影视资源的免费电视软件，基于影视仓魔改，内置欧歌源，安装即用",
-      "screenshots": [
-        "app/video/欧歌影视/images/1.jpg",
-        "app/video/欧歌影视/images/2.jpg",
-        "app/video/欧歌影视/images/3.png",
-        "app/video/欧歌影视/images/4.png"
-      ],
-      "id": "欧歌影视",
-      "icon": "icons/欧歌影视.png",
-      "desc": "集成多种影视资源的免费电视软件，基于影视仓魔改，内置欧歌源，安装即用",
-      "download_url": "app/video/欧歌影视/欧歌影视_内6.1.7.apk",
-      "latest_apk": "欧歌影视_内6.1.7.apk",
-      "other_versions_list": [
-        {
-          "name": "欧歌影视_6.1.2-exo1.6.1修正无声倍速.apk",
-          "download_url": "app/video/欧歌影视/欧歌影视_6.1.2-exo1.6.1修正无声倍速.apk",
-          "filename": "欧歌影视_6.1.2-exo1.6.1修正无声倍速.apk"
-        },
-        {
-          "name": "欧歌影视_内6.1.2-exo1.6.1修正无声倍速.apk",
-          "download_url": "app/video/欧歌影视/欧歌影视_内6.1.2-exo1.6.1修正无声倍速.apk",
-          "filename": "欧歌影视_内6.1.2-exo1.6.1修正无声倍速.apk"
-        }
-      ]
-    },
-    {
-      "name": "飯太硬",
-      "version": "9.9.9",
-      "update_time": "2026-01-14",
-      "size": "28.76 MB",
-      "other_versions": "飯太硬.apk",
-      "app_intro": "集成多种影视资源的免费电视软件，基于影视仓魔改，内置饭太硬源，安装即用",
-      "screenshots": [
-        "app/video/飯太硬/images/1.png",
-        "app/video/飯太硬/images/2.png",
-        "app/video/飯太硬/images/3.png",
-        "app/video/飯太硬/images/4.png"
-      ],
-      "id": "飯太硬",
-      "icon": "icons/飯太硬.png",
-      "desc": "集成多种影视资源的免费电视软件，基于影视仓魔改，内置饭太硬源，安装即用",
-      "download_url": "app/video/飯太硬/飯太硬_9.9.9.apk",
-      "latest_apk": "飯太硬_9.9.9.apk",
-      "other_versions_list": [
-        {
-          "name": "飯太硬.apk",
-          "download_url": "app/video/飯太硬/飯太硬.apk",
-          "filename": "飯太硬.apk"
         }
       ]
     }

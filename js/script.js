@@ -147,7 +147,7 @@ function renderHelpList() {
   {
     "title": "TV应用安装图文指南",
     "description": "本文提供了多种在电视盒子上安装应用的方法，包括U盘安装、网络安装等，适合不同场景使用。",
-    "update_time": "2026/01/14",
+    "update_time": "2026/02/06",
     "file": "help/1.应用安装图文指南.md",
     "sequence": 1,
     "id": 0,
@@ -156,7 +156,7 @@ function renderHelpList() {
   {
     "title": "TV应用商店常见问题汇总及解答",
     "description": "本文汇总了使用TV应用商店过程中遇到的常见问题及解决方案，希望能帮助您顺利使用我们的服务。",
-    "update_time": "2026/01/14",
+    "update_time": "2026/02/06",
     "file": "help/2.常见问题汇总及解答.md",
     "sequence": 2,
     "id": 1,
@@ -165,7 +165,7 @@ function renderHelpList() {
   {
     "title": "TVBox配置指南及接口地址（2026最新）",
     "description": "TVBox是一款功能强大的电视盒子播放器，支持多种接口源和播放格式，提供流畅的观影体验。本文将详细介绍TVBox的配置方法和最新可用的接口地址。",
-    "update_time": "2026/01/14",
+    "update_time": "2026/02/06",
     "file": "help/3.TVBox配置指南及接口地址.md",
     "sequence": 3,
     "id": 2,
@@ -174,7 +174,7 @@ function renderHelpList() {
   {
     "title": "影视仓配置指南及接口地址（亲测最新可用）",
     "description": "影视仓是一款非常优秀的开源影视播放器，目前主要支持安卓手机和电视盒子。影视仓软件可以通过简单的接口配置即可实现私人影院，不但内容覆盖全面，更有许多4K高清的内容源。",
-    "update_time": "2026/01/14",
+    "update_time": "2026/02/06",
     "file": "help/4.影视仓配置指南及接口地址.md",
     "sequence": 4,
     "id": 3,
@@ -183,7 +183,7 @@ function renderHelpList() {
   {
     "title": "IPTV直播源汇总（附iOS、Android、macOS、Windows软件推荐）",
     "description": "IPTV网络电视直播是目前一种流行的电视观看方式，比起传统电视更加「移动化」。无论你选用什么设备，只需要添加一个IPTV直播源（IPV6源）就可以实现自由观看网络电视直播。",
-    "update_time": "2026/01/13",
+    "update_time": "2026/02/06",
     "file": "help/5.IPTV直播源汇总.md",
     "sequence": 5,
     "id": 4,
@@ -192,7 +192,7 @@ function renderHelpList() {
   {
     "title": "各品牌设备安装第三方软件教程",
     "description": "本文提供了多种品牌电视、投影、盒子安装第三方软件的详细教程，包括海尔、海信、极米、华为&荣耀、天猫魔盒、小米、创维&酷开、TCL&雷鸟、索尼、东芝、OPPO等品牌。",
-    "update_time": "2026/01/14",
+    "update_time": "2026/02/06",
     "file": "help/6.各品牌设备安装第三方软件教程.md",
     "sequence": 6,
     "id": 5,
@@ -201,7 +201,7 @@ function renderHelpList() {
   {
     "title": "一文搞懂接口源：单线路、多线路(单仓)、多仓概念",
     "description": "本文详细介绍了TVBox、影视仓等软件中接口源的相关概念，包括单线路、多线路(单仓)、多仓的区别，帮助您更好地理解和使用这些软件。",
-    "update_time": "2026/01/14",
+    "update_time": "2026/02/06",
     "file": "help/7.一文搞懂接口源：单线路、多线路(单仓)、多仓概念.md",
     "sequence": 7,
     "id": 6,
@@ -1230,9 +1230,23 @@ function handleDownload(url) {
         }
     }
     
-    // 在WebView环境中，使用window.location.href可以触发下载
-    // 这比target="_blank"更可靠，因为WebView可能会阻止新窗口
-    window.location.href = downloadUrl;
+    // 尝试使用window.open打开下载链接，在WebView环境中可能会调用系统浏览器
+    // 这种方式在大多数WebView打包工具中都能工作
+    try {
+        // 使用window.open打开下载链接，指定_blank目标
+        const newWindow = window.open(downloadUrl, '_blank');
+        
+        // 如果window.open失败（返回null），回退到使用window.location.href
+        if (!newWindow) {
+            // 回退方案：使用window.location.href
+            window.location.href = downloadUrl;
+        }
+    } catch (error) {
+        // 捕获可能的错误，确保即使window.open失败也能继续执行
+        console.error('下载打开失败:', error);
+        // 回退到使用window.location.href
+        window.location.href = downloadUrl;
+    }
 }
 
 // 清除应用详情，恢复列表视图

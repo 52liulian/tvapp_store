@@ -519,6 +519,17 @@ class AppUpdateManager:
             before_table = content[:table_start + len("## 一览表 📂")] + "\n\n"
             after_table = content[next_header:]
         
+        # 在README.md底部添加更新时间
+        update_time_section = f"\n\n## 更新时间\n📅最后更新：{self.CURRENT_DATE}"
+        
+        # 检查是否已有更新时间部分
+        if "## 更新时间" in after_table:
+            # 更新现有更新时间
+            after_table = re.sub(r"## 更新时间\n.*最后更新：.*", f"## 更新时间\n📅最后更新：{self.CURRENT_DATE}", after_table)
+        else:
+            # 添加新的更新时间部分
+            after_table += update_time_section
+        
         new_content = before_table + new_table + after_table
         
         try:

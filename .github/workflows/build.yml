@@ -6,34 +6,32 @@ on:
     paths:
       - 'app/**/*'          # 监听app目录下所有文件变更
       - '!app/**/*.md'      # 排除自动生成的.md文件
-      - 'update_readme.py'   # 监听脚本变更
-      - 'css/**/*'           # 监听CSS文件变更
-      - 'help/**/*'          # 监听帮助页面文件变更
-      - 'images/**/*'        # 监听图片文件变更
-      - 'js/**/*.js'         # 监听JS文件变更
-      - '!js/app_data.js'    # 排除自动生成的app_data.js文件
-      - '!js/app_data.json'  # 排除自动生成的app_data.json文件
-      - 'index.html'         # 监听HTML文件变更
-      - '.github/workflows/**/*'  # 监听工作流文件变更
+      - '!app/**/**/*.md'   # 排除应用目录自动生成的.md文件
+  workflow_dispatch:  # 允许手动触发工作流
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 30  # 设置超时时间
     
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
-      
+      with:
+        fetch-depth: 0  # 拉取完整历史，确保版本比较正确
+    
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.9'
-        
+        cache: 'pip'  # 缓存pip依赖
+    
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         # 这里可以添加任何需要的依赖
-        
+        echo "依赖安装完成"
+    
     - name: Check if app directory exists
       id: check_app_dir
       run: |
@@ -45,15 +43,17 @@ jobs:
         else
           echo "app_directory_exists=false" >> $GITHUB_OUTPUT
           echo "✗ app目录不存在，跳过后续步骤"
+          exit 0
         fi
 
     - name: Generate app data
       if: steps.check_app_dir.outputs.app_directory_exists == 'true'
       run: |
         # 运行脚本生成应用数据
+        echo "开始生成应用数据..."
         python update_readme.py
         echo "应用数据生成完成"
-        
+    
     - name: Verify generated files
       if: steps.check_app_dir.outputs.app_directory_exists == 'true'
       run: |
@@ -65,26 +65,73 @@ jobs:
         fi
         
         # 验证生成的文件内容是否有效
-        grep -q "const appData" js/app_data.js && echo "✓ app_data.js 内容有效" || echo "✗ app_data.js 内容无效"
+        grep -q "const appData" js/app_data.js && echo "✓ app_data.js 内容有效" || echo "✗ app_data.js 内容无效" && exit 1
+        
+        # 验证README.md是否已更新
+        if [ -f README.md ]; then
+          echo "✓ README.md 文件存在"
+          # 验证README.md中是否包含更新时间
+          grep -q "## 更新时间" README.md && echo "✓ README.md 包含更新时间" || echo "⚠ README.md 未包含更新时间"
+        else
+          echo "✗ README.md 文件不存在" && exit 1
+        fi
+
+    - name: Check file sizes
+      if: steps.check_app_dir.outputs.app_directory_exists == 'true'
+      run: |
+        # 检查生成文件的大小，确保不会过大
+        echo "检查文件大小..."
+        ls -lh js/app_data.js
+        
+        # 限制app_data.js文件大小为5MB
+        FILE_SIZE=$(stat -c %s js/app_data.js)
+        MAX_SIZE=$((5 * 1024 * 1024))  # 5MB
+        if [ $FILE_SIZE -gt $MAX_SIZE ]; then
+          echo "✗ app_data.js 文件过大 ($FILE_SIZE 字节)，超过限制 ($MAX_SIZE 字节)" && exit 1
+        else
+          echo "✓ app_data.js 文件大小合理 ($FILE_SIZE 字节)"
+        fi
 
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./       # 发布整个目录
-        publish_branch: gh-pages
-        force_orphan: true
-        keep_files: true      # 保留已有文件
-        
+        directory: ./       # 发布整个目录
+        branch: gh-pages
+        force: true
+        tags: false  # 不推送标签
+    
     - name: Clean up
+      if: always()  # 无论前面步骤是否成功，都执行清理
       run: |
         # 清理临时文件
+        echo "清理临时文件..."
         rm -f *.pyc
         rm -rf __pycache__
-        
+        echo "临时文件清理完成"
+    
     - name: Notify
+      if: success()  # 仅在工作流成功时通知
       run: |
         echo "🎉 TV App Store 已成功更新！"
         echo "📦 应用数据已重新生成"
-        echo "🚀 已部署到 GitHub Pages"
-        echo "📅 部署时间: $(date)"
+        echo "📅 更新时间: $(date)"
+        echo "🔍 构建详情: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+    
+    - name: Notify on failure
+      if: failure()  # 仅在工作流失败时通知
+      run: |
+        echo "❌ TV App Store 构建失败！"
+        echo "📅 失败时间: $(date)"
+        echo "🔍 失败详情: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+        echo "请检查上述构建日志，找出失败原因。"
+
+    - name: Upload build artifacts
+      if: steps.check_app_dir.outputs.app_directory_exists == 'true'
+      uses: actions/upload-artifact@v3
+      with:
+        name: generated-files
+        path: |
+          js/app_data.js
+          README.md
+        retention-days: 7  # 保留7天
