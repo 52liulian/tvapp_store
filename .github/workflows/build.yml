@@ -66,9 +66,9 @@ jobs:
         
         # 验证生成的文件内容是否有效
         grep -q "const appData" js/app_data.js && echo "✓ app_data.js 内容有效" || echo "✗ app_data.js 内容无效"
-        
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./       # 发布整个目录
