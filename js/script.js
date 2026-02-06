@@ -1219,9 +1219,20 @@ function updateFocus() {
 
 // 处理下载逻辑
 function handleDownload(url) {
+    // 确保下载链接能正确处理，特别是相对路径
+    let downloadUrl = url;
+    
+    // 检查是否为相对路径
+    if (!downloadUrl.startsWith('http://') && !downloadUrl.startsWith('https://')) {
+        // 对于相对路径，确保从根目录开始
+        if (!downloadUrl.startsWith('/')) {
+            downloadUrl = '/' + downloadUrl;
+        }
+    }
+    
     // 在WebView环境中，使用window.location.href可以触发下载
     // 这比target="_blank"更可靠，因为WebView可能会阻止新窗口
-    window.location.href = url;
+    window.location.href = downloadUrl;
 }
 
 // 清除应用详情，恢复列表视图
