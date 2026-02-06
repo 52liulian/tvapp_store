@@ -1228,24 +1228,58 @@ function handleDownload(url) {
         if (!downloadUrl.startsWith('/')) {
             downloadUrl = '/' + downloadUrl;
         }
+        
+        // 构建完整的绝对URL，使用当前页面的origin
+        const origin = window.location.origin;
+        downloadUrl = origin + downloadUrl;
     }
     
-    // 尝试使用window.open打开下载链接，在WebView环境中可能会调用系统浏览器
-    // 这种方式在大多数WebView打包工具中都能工作
+    // 方法1：尝试使用window.open打开下载链接
     try {
-        // 使用window.open打开下载链接，指定_blank目标
         const newWindow = window.open(downloadUrl, '_blank');
-        
-        // 如果window.open失败（返回null），回退到使用window.location.href
-        if (!newWindow) {
-            // 回退方案：使用window.location.href
-            window.location.href = downloadUrl;
+        if (newWindow) {
+            console.log('使用window.open打开下载链接成功');
+            return;
         }
     } catch (error) {
-        // 捕获可能的错误，确保即使window.open失败也能继续执行
-        console.error('下载打开失败:', error);
-        // 回退到使用window.location.href
+        console.error('window.open失败:', error);
+    }
+    
+    // 方法2：尝试使用创建a标签并模拟点击
+    try {
+        const link = document.createElement('a');
+        link.href = downloadUrl;
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+        
+        // 对于APK文件，明确设置download属性
+        if (downloadUrl.endsWith('.apk')) {
+            link.download = downloadUrl.split('/').pop();
+        }
+        
+        // 添加到文档中
+        document.body.appendChild(link);
+        
+        // 模拟点击
+        link.click();
+        
+        // 移除元素
+        setTimeout(() => {
+            document.body.removeChild(link);
+        }, 100);
+        
+        console.log('使用a标签模拟点击成功');
+        return;
+    } catch (error) {
+        console.error('a标签模拟点击失败:', error);
+    }
+    
+    // 方法3：回退到使用window.location.href
+    try {
         window.location.href = downloadUrl;
+        console.log('使用window.location.href打开下载链接');
+    } catch (error) {
+        console.error('window.location.href失败:', error);
     }
 }
 
