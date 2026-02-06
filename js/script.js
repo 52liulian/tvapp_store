@@ -276,9 +276,9 @@ function showAppDetail(appId, categoryId) {
                 </div>
                 ${app.download_url ? `
                 <div class="detail-download-container">
-                    <a href="${app.download_url}" target="_blank" class="download-button">
+                    <button class="download-button" onclick="handleDownload('${app.download_url}')">
                         安装应用
-                    </a>
+                    </button>
                 </div>
                 ` : ''}
             </div>
@@ -311,9 +311,9 @@ function showAppDetail(appId, categoryId) {
                 ${app.other_versions_list.map(version => `
                     <div class="other-version-item">
                         <div class="version-name">${version.name}</div>
-                        <a href="${version.download_url}" target="_blank" class="download-button-small">
+                        <button class="download-button-small" onclick="handleDownload('${version.download_url}')">
                             安装应用
-                        </a>
+                        </button>
                     </div>
                 `).join('')}
             </div>
@@ -1215,6 +1215,13 @@ function updateFocus() {
         }
     }
     // 当focusArea为detail时，不需要执行任何操作，因为焦点由按钮焦点管理
+}
+
+// 处理下载逻辑
+function handleDownload(url) {
+    // 在WebView环境中，使用window.location.href可以触发下载
+    // 这比target="_blank"更可靠，因为WebView可能会阻止新窗口
+    window.location.href = url;
 }
 
 // 清除应用详情，恢复列表视图
