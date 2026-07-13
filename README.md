@@ -68,8 +68,9 @@
 | 宝盒TV | 4.1.3 | [下载](app/video/宝盒TV/宝盒TV4.1.3(FM内置版).apk) | 🟢 |  |
 | 小苹果影视盒子 | 1.6.1 | [下载](app/video/小苹果影视盒子/XPGBOX-release-1.6.1.apk) | 🟢 |  |
 | 影视仓V3 | 3.0.36 | [下载](app/video/影视仓V3/影视仓V3稳定版-3.0.36_兼容安卓4.apk) | 🟢 |  |
+| 影视仓手机版 | 3.3.1 | [下载](app/video/影视仓手机版/影视仓_手机端_3.3.1.apk) | 🟢 |  |
 | 影视仓海信版 | 6.1.7-32位 | [下载](app/video/影视仓海信版/影视仓-6.1.7-32位_海信版.apk) | 🟢 |  |
-| 影视仓电视版 | 6.1.8 | [下载](app/video/影视仓电视版/影视仓_6.1.8_opt.apk) | 🟢 |  |
+| 影视仓电视版 | 6.2.5 | [下载](app/video/影视仓电视版/影视仓_TV端_6.2.5.apk) | 🟢 |  |
 ## 接口源 🌟
 
 > github地址使用时 请自行添加代理
@@ -143,6 +144,8 @@
 > github地址使用时 请自行添加代理
 ```
 推荐在线源：
+- 国内M3U [每三日更新](https://raw.githubusercontent.com/52liulian/IPTV/refs/heads/main/live.m3u)
+- 国内TXT [每三日更新](https://raw.githubusercontent.com/52liulian/IPTV/refs/heads/main/live.txt)
  https://live.iptv365.org/live.txt   # TV直播源 (每日自动收集・持续更新)
  https://live.iptv365.org/live.m3u   # TV直播源 (每日自动收集・持续更新)
  https://live.zbds.top/tv/iptv4.txt  # 直播电视IPV4
@@ -216,4 +219,4 @@
 - ✍️ 提交要求：接受PR，APP应用需标注来源并确认无恶意代码 + 应用测试截图 + 测试时间。
 
 ## 更新时间
-最后更新：2026-02-06
+📅最后更新：2026-07-13
