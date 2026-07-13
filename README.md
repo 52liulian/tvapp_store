@@ -53,17 +53,18 @@
 | Keep健身TV版 | 3.3.0 | [下载](app/movement/Keep健身TV版/KeepTV_v3.3.0.apk) | 🟢 |  |
 | 即刻运动TV版 | 2.7.3.8 | [下载](app/movement/即刻运动TV版/Fittime_TV_2.7.3.8.apk) | 🟢 |  |
 | 每日瑜伽 | 5.4.5 | [下载](app/movement/每日瑜伽/Daily_Yoga_5.4.5.apk) | 🟢 |  |
-| ES文件浏览器 | 4.4.3.2--IP-All-Balatan | [下载](app/utility/ES文件浏览器/ES文件浏览器-4.4.3.2--IP-All-Balatan.apk) | 🟢 |  |
+| ES文件浏览器 | 4.4.3.7 | [下载](app/utility/ES文件浏览器/ES文件浏览器4.4.3.7会员版-Balatan.apk) | 🟢 |  |
 | idm+ | 12.3 | [下载](app/utility/idm+/IDM+_12.3(影视仓下载功能配套软件).apk) | 🟢 |  |
 | MT管理器 | 2.18.4 | [下载](app/utility/MT管理器/MT管理器2.18.4.apk) | 🟢 |  |
 | MX播放器 | 1.94.0-v8a-CN-Mod | [下载](app/utility/MX播放器/MXPlayer-1.94.0-v8a-CN-Mod.apk) | 🟢 |  |
 | NP管理器 | 3.1.21 | [下载](app/utility/NP管理器/NP管理器-3.1.21.apk) | 🟢 |  |
-| 应用管家 | 1.8.2-公签版 | [下载](app/utility/应用管家/应用管家v1.8.2-公签版.apk) | 🟢 |  |
-| 野草助手 | 2.0.12 | [下载](app/utility/野草助手/野草助手_2.0.12.apk) | 🟢 |  |
+| 应用管家 | 1.8.8-公签版 | [下载](app/utility/应用管家/应用管家v1.8.8-公签版.apk) | 🟢 |  |
+| 电视屏幕大师 | 2.3.0 | [下载](app/utility/电视屏幕大师/电视屏幕大师_2.3.0.apk) | 🟢 |  |
+| 野草助手 | 2.0.13 | [下载](app/utility/野草助手/野草助手-TV版-v2.0.13.apk) | 🟢 |  |
 | FongMi影视 | 5.1.1 | [下载](app/video/FongMi影视/FM影视TV端-32位_v5.1.1_正式版.apk) | 🟢 |  |
 | OK影视 | 3.9.1 | [下载](app/video/OK影视/OK影视Pro-手机版-3.9.1.apk) | 🟢 |  |
 | TVBox_白壳版 | 215613905 | [下载](app/video/TVBox_白壳版/TVBox_q215613905_20251016-2311-java.apk) | 🟢 |  |
-| TVBox_黑壳版 | 20251127 | [下载](app/video/TVBox_黑壳版/TVBox_takagen99_20251127-1156-arm64-generic-java.apk) | 🟢 |  |
+| TVBox_黑壳版 | 20260227 | [下载](app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-arm64-generic-java.apk) | 🟢 |  |
 | 动漫鸭 | 10.1.0 | [下载](app/video/动漫鸭/动漫鸭_10.1.0.apk) | 🟢 |  |
 | 宝盒TV | 4.1.3 | [下载](app/video/宝盒TV/宝盒TV4.1.3(FM内置版).apk) | 🟢 |  |
 | 小苹果影视盒子 | 1.6.1 | [下载](app/video/小苹果影视盒子/XPGBOX-release-1.6.1.apk) | 🟢 |  |
@@ -84,7 +85,7 @@
   	<li>多仓：多个多线路组成多仓。代表软件：影视仓、宝盒</li>
   </ul>
   <p>复制对应接口地址填写到你使用软件配置里就OK</p>
-  <p>详细教程：<a href="https://app.iyouhun.com/help" target="_blank">帮助中心</a></p>
+  <p>详细教程：<a href="https://app.liulian.ink/" target="_blank">帮助中心</a></p>
   <p>温馨提示：接口完全免费，切勿付费购买。请勿相信视频及接口中任何广告.</p>
 </details>
 

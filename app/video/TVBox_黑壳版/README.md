@@ -1,5 +1,5 @@
 应用名称：TVBox_黑壳版
-版本：20251127
+版本：20260227
 更新时间：2026-01-14
 应用大小：28.21 MB
 ##应用介绍
@@ -11,6 +11,14 @@ TVBox app是一款免费影视在线追剧平台，大家能够在这里找到�
 ![image](./images/3.png)
 
 其它版本：
+TVBox_takagen99_20260227-1116-arm64-generic-python.apk
+TVBox_takagen99_20260227-1116-arm64-hisense-java.apk
+TVBox_takagen99_20260227-1116-arm64-hisense-python.apk
+TVBox_takagen99_20260227-1116-armeabi-generic-java.apk
+TVBox_takagen99_20260227-1116-armeabi-generic-python.apk
+TVBox_takagen99_20260227-1116-armeabi-hisense-java.apk
+TVBox_takagen99_20260227-1116-armeabi-hisense-python.apk
+TVBox_takagen99_20251127-1156-arm64-generic-java.apk
 TVBox_takagen99_20251127-1156-arm64-generic-python.apk
 TVBox_takagen99_20251127-1156-arm64-hisense-java.apk
 TVBox_takagen99_20251127-1156-arm64-hisense-python.apk

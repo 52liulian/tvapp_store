@@ -5,7 +5,7 @@ const appData = {
       "version": "3.0",
       "update_time": "2026-01-14",
       "size": "53.09 MB",
-      "other_versions": "无",
+      "other_versions": "七星智教_v2.5_陪伴孩子成长的APP.apk",
       "app_intro": "七星智教TV电视版是一款拥有丰富的教育资源app应用软件，它非常适合通过电视大屏让孩子在观看中学习，减少对手机、平板等电子设备的依赖。",
       "screenshots": [
         "app/education/七星智教/images/1.png",
@@ -19,7 +19,13 @@ const appData = {
       "desc": "七星智教TV电视版是一款拥有丰富的教育资源app应用软件，它非常适合通过电视大屏让孩子在观看中学习，减少对手机、平板等电子设备的依赖。",
       "download_url": "app/education/七星智教/七星智教_v3.0(陪伴孩子成长的APP)不支持安卓4.apk",
       "latest_apk": "七星智教_v3.0(陪伴孩子成长的APP)不支持安卓4.apk",
-      "other_versions_list": []
+      "other_versions_list": [
+        {
+          "name": "七星智教_v2.5_陪伴孩子成长的APP.apk",
+          "download_url": "app/education/七星智教/七星智教_v2.5_陪伴孩子成长的APP.apk",
+          "filename": "七星智教_v2.5_陪伴孩子成长的APP.apk"
+        }
+      ]
     },
     {
       "name": "儿歌多多",
@@ -1144,10 +1150,10 @@ const appData = {
   "utility": [
     {
       "name": "ES文件浏览器",
-      "version": "4.4.3.2--IP-All-Balatan",
+      "version": "4.4.3.7",
       "update_time": "2026-01-14",
-      "size": "1.74 KB",
-      "other_versions": "ES文件浏览器-4.4.3.1--IP-All-Balatan.apk",
+      "size": "59.85 MB",
+      "other_versions": "ES文件浏览器4.4.3.6会员版-derrin.apk\nES文件浏览器-4.4.3.2--IP-All-Balatan.apk\nES文件浏览器-4.4.3.1--IP-All-Balatan.apk",
       "app_intro": "ES文件浏览器是支持本地和网络文件管理的强大软件，软件所具备的文件管理，应用管理、压缩/解压、文本编辑、局域网/FTP远程连接和视频便捷等功能，同时基于产品力的强大功能，不少电视盒子也开始使用，为此这里小编要为你推荐的便是es文件浏览器tv版，并当前用户在手机上能够体验到的所有功能，在这里同样适用，如在文件管理方式上，多种视图列表和排序方式的选择，可以快速帮助用户查看并打开各类文件，期间你还通过本地SD卡、局域网、OTG设备之间任意传输文件，其他的操作选项还支持多选、复制、粘贴、查看属性、解压、重命名和置顶。",
       "screenshots": [
         "app/utility/ES文件浏览器/images/1.jpg",
@@ -1159,9 +1165,19 @@ const appData = {
       "id": "es文件浏览器",
       "icon": "icons/ES文件浏览器.png",
       "desc": "ES文件浏览器是支持本地和网络文件管理的强大软件，软件所具备的文件管理，应用管理、压缩/解压、文本编辑、局域网/FTP远程连接和视频便捷等功能，同时基于产品力的强大功能，不少电视盒子也开始使用，为此这里小编要为你推荐的便是es文件浏览器tv版，并当前用户在手机上能够体验到的所有功能，在这里同样适用，如在文件管理方式上，多种视图列表和排序方式的选择，可以快速帮助用户查看并打开各类文件，期间你还通过本地SD卡、局域网、OTG设备之间任意传输文件，其他的操作选项还支持多选、复制、粘贴、查看属性、解压、重命名和置顶。",
-      "download_url": "app/utility/ES文件浏览器/ES文件浏览器-4.4.3.2--IP-All-Balatan.apk",
-      "latest_apk": "ES文件浏览器-4.4.3.2--IP-All-Balatan.apk",
+      "download_url": "app/utility/ES文件浏览器/ES文件浏览器4.4.3.7会员版-Balatan.apk",
+      "latest_apk": "ES文件浏览器4.4.3.7会员版-Balatan.apk",
       "other_versions_list": [
+        {
+          "name": "ES文件浏览器4.4.3.6会员版-derrin.apk",
+          "download_url": "app/utility/ES文件浏览器/ES文件浏览器4.4.3.6会员版-derrin.apk",
+          "filename": "ES文件浏览器4.4.3.6会员版-derrin.apk"
+        },
+        {
+          "name": "ES文件浏览器-4.4.3.2--IP-All-Balatan.apk",
+          "download_url": "app/utility/ES文件浏览器/ES文件浏览器-4.4.3.2--IP-All-Balatan.apk",
+          "filename": "ES文件浏览器-4.4.3.2--IP-All-Balatan.apk"
+        },
         {
           "name": "ES文件浏览器-4.4.3.1--IP-All-Balatan.apk",
           "download_url": "app/utility/ES文件浏览器/ES文件浏览器-4.4.3.1--IP-All-Balatan.apk",
@@ -1285,10 +1301,10 @@ const appData = {
     },
     {
       "name": "应用管家",
-      "version": "1.8.2-公签版",
+      "version": "1.8.8-公签版",
       "update_time": "2026-01-14",
-      "size": "15.10 MB",
-      "other_versions": "应用管家v1.8.2-普通版.apk\n应用管家v1.5.6(1560)-公签版.apk\n应用管家v1.5.6(1560).apk",
+      "size": "18.42 MB",
+      "other_versions": "应用管家v1.8.8-普通版.apk\n应用管家v1.8.8-海信版.apk\n应用管家v1.8.2-公签版.apk\n应用管家v1.8.2-普通版.apk\n应用管家v1.5.6(1560)-公签版.apk\n应用管家v1.5.6(1560).apk",
       "app_intro": "应用管家是专为安卓系统打造的应用和文件管理软件，它可以获取到电视中的所有应用程序和文件数据，方便用户进行删除、移动等；如果连接手机后，还可以将手机中的应用传输到电视上进行安装，这样就不需要U盘了。",
       "screenshots": [
         "app/utility/应用管家/images/1.jpg",
@@ -1299,9 +1315,24 @@ const appData = {
       "id": "应用管家",
       "icon": "icons/应用管家.png",
       "desc": "应用管家是专为安卓系统打造的应用和文件管理软件，它可以获取到电视中的所有应用程序和文件数据，方便用户进行删除、移动等；如果连接手机后，还可以将手机中的应用传输到电视上进行安装，这样就不需要U盘了。",
-      "download_url": "app/utility/应用管家/应用管家v1.8.2-公签版.apk",
-      "latest_apk": "应用管家v1.8.2-公签版.apk",
+      "download_url": "app/utility/应用管家/应用管家v1.8.8-公签版.apk",
+      "latest_apk": "应用管家v1.8.8-公签版.apk",
       "other_versions_list": [
+        {
+          "name": "应用管家v1.8.8-普通版.apk",
+          "download_url": "app/utility/应用管家/应用管家v1.8.8-普通版.apk",
+          "filename": "应用管家v1.8.8-普通版.apk"
+        },
+        {
+          "name": "应用管家v1.8.8-海信版.apk",
+          "download_url": "app/utility/应用管家/应用管家v1.8.8-海信版.apk",
+          "filename": "应用管家v1.8.8-海信版.apk"
+        },
+        {
+          "name": "应用管家v1.8.2-公签版.apk",
+          "download_url": "app/utility/应用管家/应用管家v1.8.2-公签版.apk",
+          "filename": "应用管家v1.8.2-公签版.apk"
+        },
         {
           "name": "应用管家v1.8.2-普通版.apk",
           "download_url": "app/utility/应用管家/应用管家v1.8.2-普通版.apk",
@@ -1320,11 +1351,29 @@ const appData = {
       ]
     },
     {
+      "name": "电视屏幕大师",
+      "version": "2.3.0",
+      "update_time": "2026-07-13",
+      "size": "6.12 MB",
+      "other_versions": "无",
+      "app_intro": "电视屏幕大师是一款功能丰富的应用程序。",
+      "screenshots": [
+        "app/utility/电视屏幕大师/images/1.png",
+        "app/utility/电视屏幕大师/images/2.png"
+      ],
+      "id": "电视屏幕大师",
+      "icon": "icons/电视屏幕大师.png",
+      "desc": "电视屏幕大师是一款功能丰富的应用程序。",
+      "download_url": "app/utility/电视屏幕大师/电视屏幕大师_2.3.0.apk",
+      "latest_apk": "电视屏幕大师_2.3.0.apk",
+      "other_versions_list": []
+    },
+    {
       "name": "野草助手",
-      "version": "2.0.12",
+      "version": "2.0.13",
       "update_time": "2026-01-14",
-      "size": "15.52 MB",
-      "other_versions": "野草助手_2.0.12_TV版_安卓14以上.apk\n野草助手_2.0.12_小米_海信TV版.apk\n野草助手_v2.0.8_TV版.apk\n野草助手_v2.0.7_TV版.apk",
+      "size": "15.53 MB",
+      "other_versions": "野草助手-小米电视海信电视专版-v2.0.12.apk\n野草助手_2.0.12.apk\n野草助手_2.0.12_TV版_安卓14以上.apk\n野草助手_2.0.12_小米_海信TV版.apk\n野草助手_v2.0.8_TV版.apk\n野草助手_v2.0.7_TV版.apk",
       "app_intro": "野草助手tv版是一款专为智能电视打造的应用市场软件，其特色功能包括口令安装、U盘安装及远程安装，用户无需复杂操作即可快速扩展电视功能。它支持小米、海信、创维等主流电视品牌，通过简洁直观的界面设计，让用户轻松搜索并安装影视、游戏、教育等领域的近千款专属应用。",
       "screenshots": [
         "app/utility/野草助手/images/1.png",
@@ -1336,9 +1385,19 @@ const appData = {
       "id": "野草助手",
       "icon": "icons/野草助手.jpg",
       "desc": "野草助手tv版是一款专为智能电视打造的应用市场软件，其特色功能包括口令安装、U盘安装及远程安装，用户无需复杂操作即可快速扩展电视功能。它支持小米、海信、创维等主流电视品牌，通过简洁直观的界面设计，让用户轻松搜索并安装影视、游戏、教育等领域的近千款专属应用。",
-      "download_url": "app/utility/野草助手/野草助手_2.0.12.apk",
-      "latest_apk": "野草助手_2.0.12.apk",
+      "download_url": "app/utility/野草助手/野草助手-TV版-v2.0.13.apk",
+      "latest_apk": "野草助手-TV版-v2.0.13.apk",
       "other_versions_list": [
+        {
+          "name": "野草助手-小米电视海信电视专版-v2.0.12.apk",
+          "download_url": "app/utility/野草助手/野草助手-小米电视海信电视专版-v2.0.12.apk",
+          "filename": "野草助手-小米电视海信电视专版-v2.0.12.apk"
+        },
+        {
+          "name": "野草助手_2.0.12.apk",
+          "download_url": "app/utility/野草助手/野草助手_2.0.12.apk",
+          "filename": "野草助手_2.0.12.apk"
+        },
         {
           "name": "野草助手_2.0.12_TV版_安卓14以上.apk",
           "download_url": "app/utility/野草助手/野草助手_2.0.12_TV版_安卓14以上.apk",
@@ -1530,7 +1589,7 @@ const appData = {
       "version": "215613905",
       "update_time": "2026-01-14",
       "size": "17.76 MB",
-      "other_versions": "TVBox_q215613905_20251016-2311-python.apk",
+      "other_versions": "TVBox_q215613905_20251016-2311-python.apk\nTVBox_q215613905_20260709-2348-java.apk\nTVBox_q215613905_20260709-2348-java32.apk\nTVBox_q215613905_20260709-2348-java64.apk\nTVBox_q215613905_20260709-2348-python.apk\nTVBox_q215613905_20260709-2348-python32.apk\nTVBox_q215613905_20260709-2348-python64.apk",
       "app_intro": "TVBox app是一款免费影视在线追剧平台，TVBox_q215613905版兼容安卓4.4版本，大家能够在这里找到各种类型、各个年代的优质超清影视作品，无论是热门大片还是经典老剧，包含了电影、电视剧、综艺节目、动漫等，用户可以在这里享受到流畅、清晰、不卡顿、无广告、完全免费的观影体验。",
       "screenshots": [
         "app/video/TVBox_白壳版/images/1.png",
@@ -1547,15 +1606,45 @@ const appData = {
           "name": "TVBox_q215613905_20251016-2311-python.apk",
           "download_url": "app/video/TVBox_白壳版/TVBox_q215613905_20251016-2311-python.apk",
           "filename": "TVBox_q215613905_20251016-2311-python.apk"
+        },
+        {
+          "name": "TVBox_q215613905_20260709-2348-java.apk",
+          "download_url": "app/video/TVBox_白壳版/TVBox_q215613905_20260709-2348-java.apk",
+          "filename": "TVBox_q215613905_20260709-2348-java.apk"
+        },
+        {
+          "name": "TVBox_q215613905_20260709-2348-java32.apk",
+          "download_url": "app/video/TVBox_白壳版/TVBox_q215613905_20260709-2348-java32.apk",
+          "filename": "TVBox_q215613905_20260709-2348-java32.apk"
+        },
+        {
+          "name": "TVBox_q215613905_20260709-2348-java64.apk",
+          "download_url": "app/video/TVBox_白壳版/TVBox_q215613905_20260709-2348-java64.apk",
+          "filename": "TVBox_q215613905_20260709-2348-java64.apk"
+        },
+        {
+          "name": "TVBox_q215613905_20260709-2348-python.apk",
+          "download_url": "app/video/TVBox_白壳版/TVBox_q215613905_20260709-2348-python.apk",
+          "filename": "TVBox_q215613905_20260709-2348-python.apk"
+        },
+        {
+          "name": "TVBox_q215613905_20260709-2348-python32.apk",
+          "download_url": "app/video/TVBox_白壳版/TVBox_q215613905_20260709-2348-python32.apk",
+          "filename": "TVBox_q215613905_20260709-2348-python32.apk"
+        },
+        {
+          "name": "TVBox_q215613905_20260709-2348-python64.apk",
+          "download_url": "app/video/TVBox_白壳版/TVBox_q215613905_20260709-2348-python64.apk",
+          "filename": "TVBox_q215613905_20260709-2348-python64.apk"
         }
       ]
     },
     {
       "name": "TVBox_黑壳版",
-      "version": "20251127",
+      "version": "20260227",
       "update_time": "2026-01-14",
       "size": "28.21 MB",
-      "other_versions": "TVBox_takagen99_20251127-1156-arm64-generic-python.apk\nTVBox_takagen99_20251127-1156-arm64-hisense-java.apk\nTVBox_takagen99_20251127-1156-arm64-hisense-python.apk\nTVBox_takagen99_20251127-1156-armeabi-generic-java.apk\nTVBox_takagen99_20251127-1156-armeabi-generic-python.apk\nTVBox_takagen99_20251127-1156-armeabi-hisense-java.apk\nTVBox_takagen99_20251127-1156-armeabi-hisense-python.apk",
+      "other_versions": "TVBox_takagen99_20260227-1116-arm64-generic-python.apk\nTVBox_takagen99_20260227-1116-arm64-hisense-java.apk\nTVBox_takagen99_20260227-1116-arm64-hisense-python.apk\nTVBox_takagen99_20260227-1116-armeabi-generic-java.apk\nTVBox_takagen99_20260227-1116-armeabi-generic-python.apk\nTVBox_takagen99_20260227-1116-armeabi-hisense-java.apk\nTVBox_takagen99_20260227-1116-armeabi-hisense-python.apk\nTVBox_takagen99_20251127-1156-arm64-generic-java.apk\nTVBox_takagen99_20251127-1156-arm64-generic-python.apk\nTVBox_takagen99_20251127-1156-arm64-hisense-java.apk\nTVBox_takagen99_20251127-1156-arm64-hisense-python.apk\nTVBox_takagen99_20251127-1156-armeabi-generic-java.apk\nTVBox_takagen99_20251127-1156-armeabi-generic-python.apk\nTVBox_takagen99_20251127-1156-armeabi-hisense-java.apk\nTVBox_takagen99_20251127-1156-armeabi-hisense-python.apk",
       "app_intro": "TVBox app是一款免费影视在线追剧平台，大家能够在这里找到各种类型、各个年代的优质超清影视作品，无论是热门大片还是经典老剧，包含了电影、电视剧、综艺节目、动漫等，用户可以在这里享受到流畅、清晰、不卡顿、无广告、完全免费的观影体验。",
       "screenshots": [
         "app/video/TVBox_黑壳版/images/1.png",
@@ -1565,9 +1654,49 @@ const appData = {
       "id": "tvbox-黑壳版",
       "icon": "icons/TVBox_黑壳版.png",
       "desc": "TVBox app是一款免费影视在线追剧平台，大家能够在这里找到各种类型、各个年代的优质超清影视作品，无论是热门大片还是经典老剧，包含了电影、电视剧、综艺节目、动漫等，用户可以在这里享受到流畅、清晰、不卡顿、无广告、完全免费的观影体验。",
-      "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20251127-1156-arm64-generic-java.apk",
-      "latest_apk": "TVBox_takagen99_20251127-1156-arm64-generic-java.apk",
+      "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-arm64-generic-java.apk",
+      "latest_apk": "TVBox_takagen99_20260227-1116-arm64-generic-java.apk",
       "other_versions_list": [
+        {
+          "name": "TVBox_takagen99_20260227-1116-arm64-generic-python.apk",
+          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-arm64-generic-python.apk",
+          "filename": "TVBox_takagen99_20260227-1116-arm64-generic-python.apk"
+        },
+        {
+          "name": "TVBox_takagen99_20260227-1116-arm64-hisense-java.apk",
+          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-arm64-hisense-java.apk",
+          "filename": "TVBox_takagen99_20260227-1116-arm64-hisense-java.apk"
+        },
+        {
+          "name": "TVBox_takagen99_20260227-1116-arm64-hisense-python.apk",
+          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-arm64-hisense-python.apk",
+          "filename": "TVBox_takagen99_20260227-1116-arm64-hisense-python.apk"
+        },
+        {
+          "name": "TVBox_takagen99_20260227-1116-armeabi-generic-java.apk",
+          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-armeabi-generic-java.apk",
+          "filename": "TVBox_takagen99_20260227-1116-armeabi-generic-java.apk"
+        },
+        {
+          "name": "TVBox_takagen99_20260227-1116-armeabi-generic-python.apk",
+          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-armeabi-generic-python.apk",
+          "filename": "TVBox_takagen99_20260227-1116-armeabi-generic-python.apk"
+        },
+        {
+          "name": "TVBox_takagen99_20260227-1116-armeabi-hisense-java.apk",
+          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-armeabi-hisense-java.apk",
+          "filename": "TVBox_takagen99_20260227-1116-armeabi-hisense-java.apk"
+        },
+        {
+          "name": "TVBox_takagen99_20260227-1116-armeabi-hisense-python.apk",
+          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-armeabi-hisense-python.apk",
+          "filename": "TVBox_takagen99_20260227-1116-armeabi-hisense-python.apk"
+        },
+        {
+          "name": "TVBox_takagen99_20251127-1156-arm64-generic-java.apk",
+          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20251127-1156-arm64-generic-java.apk",
+          "filename": "TVBox_takagen99_20251127-1156-arm64-generic-java.apk"
+        },
         {
           "name": "TVBox_takagen99_20251127-1156-arm64-generic-python.apk",
           "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20251127-1156-arm64-generic-python.apk",
@@ -1741,10 +1870,7 @@ const appData = {
       "size": "53.72 MB",
       "other_versions": "无",
       "app_intro": "影视仓是一款功能强大的影视播放应用，提供丰富的电影、电视剧、综艺、动漫等高清资源。用户可以通过该App免费观看各类热门影视内容，支持多种播放源，确保资源更新及时、稳定。影视仓拥有简洁的操作界面和流畅的播放体验，支持个性化推荐和剧集追踪，方便用户随时追剧。",
-      "screenshots": [
-        "app/video/影视仓手机版/images/1.png",
-        "app/video/影视仓手机版/images/2.png"
-      ],
+      "screenshots": [],
       "id": "影视仓手机版",
       "icon": "icons/影视仓电视版.png",
       "desc": "影视仓是一款功能强大的影视播放应用，提供丰富的电影、电视剧、综艺、动漫等高清资源。用户可以通过该App免费观看各类热门影视内容，支持多种播放源，确保资源更新及时、稳定。影视仓拥有简洁的操作界面和流畅的播放体验，支持个性化推荐和剧集追踪，方便用户随时追剧。",
