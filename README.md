@@ -33,6 +33,7 @@
 | MyTV | 2.2.7-all-sdk21 | [下载](app/live/MyTV/mytv_v2.2.7-all-sdk21.apk) | 🟢 |  |
 | OurTV | 3.9.5 | [下载](app/live/OurTV/ourTV_3.9.5.apk) | 🟢 |  |
 | SimpleLive | 1.9.8-手机版64位 | [下载](app/live/SimpleLive/SimpleLive1.9.8-手机版64位.apk) | 🟢 |  |
+| VsTV | 2.5.14-x86 | [下载](app/live/VsTV/vstv-2.5.14-x86_64.apk) | 🟢 |  |
 | WebViewTV | 2.1.0 | [下载](app/live/WebViewTV/WebViewTV_2.1.0.apk) | 🟢 |  |
 | yourtv | 2.3.1 | [下载](app/live/yourtv/yourtv_v2.3.1.apk) | 🟢 |  |
 | 七星电视 | 250521 | [下载](app/live/七星电视/七星电视_250521.apk) | 🟢 |  |
@@ -220,4 +221,4 @@
 - ✍️ 提交要求：接受PR，APP应用需标注来源并确认无恶意代码 + 应用测试截图 + 测试时间。
 
 ## 更新时间
-📅最后更新：2026-07-13
+📅最后更新：2026-07-14

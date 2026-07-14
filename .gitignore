@@ -4,6 +4,7 @@
 *.swp
 *.swo
 *~
+
 # 操作系统文件
 .DS_Store
 Thumbs.db
@@ -58,3 +59,5 @@ update_readme_final.pyc
 update_readme_simple.pyc
 update_readme_simple2.pyc
 update_readme_ultimate.pyc
+.trae/
+docs/

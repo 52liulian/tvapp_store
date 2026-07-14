@@ -612,6 +612,40 @@ const appData = {
       ]
     },
     {
+      "name": "VsTV",
+      "version": "2.5.14-x86",
+      "update_time": "未知",
+      "size": "8.95 MB",
+      "other_versions": "vstv-2.5.14-arm-av3a.apk\nvstv-2.5.14-arm.apk\nvstv-2.5.14-HarmonyOS.apk",
+      "app_intro": "暂无介绍",
+      "screenshots": [
+        "app/live/VsTV/images/1.png",
+        "app/live/VsTV/images/2.png"
+      ],
+      "id": "vstv",
+      "icon": "images/default_icon.png",
+      "desc": "暂无介绍",
+      "download_url": "app/live/VsTV/vstv-2.5.14-x86_64.apk",
+      "latest_apk": "vstv-2.5.14-x86_64.apk",
+      "other_versions_list": [
+        {
+          "name": "vstv-2.5.14-arm-av3a.apk",
+          "download_url": "app/live/VsTV/vstv-2.5.14-arm-av3a.apk",
+          "filename": "vstv-2.5.14-arm-av3a.apk"
+        },
+        {
+          "name": "vstv-2.5.14-arm.apk",
+          "download_url": "app/live/VsTV/vstv-2.5.14-arm.apk",
+          "filename": "vstv-2.5.14-arm.apk"
+        },
+        {
+          "name": "vstv-2.5.14-HarmonyOS.apk",
+          "download_url": "app/live/VsTV/vstv-2.5.14-HarmonyOS.apk",
+          "filename": "vstv-2.5.14-HarmonyOS.apk"
+        }
+      ]
+    },
+    {
       "name": "WebViewTV",
       "version": "2.1.0",
       "update_time": "2026-01-14",
@@ -1357,10 +1391,7 @@ const appData = {
       "size": "6.12 MB",
       "other_versions": "无",
       "app_intro": "电视屏幕大师是一款功能丰富的应用程序。",
-      "screenshots": [
-        "app/utility/电视屏幕大师/images/1.png",
-        "app/utility/电视屏幕大师/images/2.png"
-      ],
+      "screenshots": [],
       "id": "电视屏幕大师",
       "icon": "icons/电视屏幕大师.png",
       "desc": "电视屏幕大师是一款功能丰富的应用程序。",
@@ -1373,7 +1404,7 @@ const appData = {
       "version": "2.0.13",
       "update_time": "2026-01-14",
       "size": "15.53 MB",
-      "other_versions": "野草助手-小米电视海信电视专版-v2.0.12.apk\n野草助手_2.0.12.apk\n野草助手_2.0.12_TV版_安卓14以上.apk\n野草助手_2.0.12_小米_海信TV版.apk\n野草助手_v2.0.8_TV版.apk\n野草助手_v2.0.7_TV版.apk",
+      "other_versions": "野草助手_2.0.12.apk\n野草助手_2.0.12_TV版_安卓14以上.apk\n野草助手_2.0.12_小米_海信TV版.apk\n野草助手_v2.0.8_TV版.apk\n野草助手_v2.0.7_TV版.apk",
       "app_intro": "野草助手tv版是一款专为智能电视打造的应用市场软件，其特色功能包括口令安装、U盘安装及远程安装，用户无需复杂操作即可快速扩展电视功能。它支持小米、海信、创维等主流电视品牌，通过简洁直观的界面设计，让用户轻松搜索并安装影视、游戏、教育等领域的近千款专属应用。",
       "screenshots": [
         "app/utility/野草助手/images/1.png",
@@ -1388,11 +1419,6 @@ const appData = {
       "download_url": "app/utility/野草助手/野草助手-TV版-v2.0.13.apk",
       "latest_apk": "野草助手-TV版-v2.0.13.apk",
       "other_versions_list": [
-        {
-          "name": "野草助手-小米电视海信电视专版-v2.0.12.apk",
-          "download_url": "app/utility/野草助手/野草助手-小米电视海信电视专版-v2.0.12.apk",
-          "filename": "野草助手-小米电视海信电视专版-v2.0.12.apk"
-        },
         {
           "name": "野草助手_2.0.12.apk",
           "download_url": "app/utility/野草助手/野草助手_2.0.12.apk",
@@ -1870,7 +1896,10 @@ const appData = {
       "size": "53.72 MB",
       "other_versions": "无",
       "app_intro": "影视仓是一款功能强大的影视播放应用，提供丰富的电影、电视剧、综艺、动漫等高清资源。用户可以通过该App免费观看各类热门影视内容，支持多种播放源，确保资源更新及时、稳定。影视仓拥有简洁的操作界面和流畅的播放体验，支持个性化推荐和剧集追踪，方便用户随时追剧。",
-      "screenshots": [],
+      "screenshots": [
+        "app/video/影视仓手机版/images/1.png",
+        "app/video/影视仓手机版/images/2.png"
+      ],
       "id": "影视仓手机版",
       "icon": "icons/影视仓电视版.png",
       "desc": "影视仓是一款功能强大的影视播放应用，提供丰富的电影、电视剧、综艺、动漫等高清资源。用户可以通过该App免费观看各类热门影视内容，支持多种播放源，确保资源更新及时、稳定。影视仓拥有简洁的操作界面和流畅的播放体验，支持个性化推荐和剧集追踪，方便用户随时追剧。",
@@ -1904,7 +1933,7 @@ const appData = {
       "version": "6.2.5",
       "update_time": "2026-01-14",
       "size": "34.56 MB",
-      "other_versions": "影视仓_TV端_6.2.5_32位.apk\n影视仓_6.1.8_opt.apk\n影视仓-6.1.7_32位.apk\n影视仓_TV端_v6.1.7_兼容安卓5.apk",
+      "other_versions": "影视仓_TV端_6.2.5_32位.apk\n影视仓_6.1.8_opt.apk\n影视仓_TV端_v6.1.7_兼容安卓5.apk",
       "app_intro": "影视仓是一款专为电视盒子用户设计的免费追剧应用，提供海量高清影视资源。用户可以通过该App轻松观看各类电影、电视剧、综艺和动漫等内容。该应用支持多种播放源，用户需自行添加源进行播放，确保资源更新及时，满足不同需求。影视仓界面简洁，操作便捷，提供流畅的观影体验，同时支持剧集同步更新，让您随时追剧不停歇。",
       "screenshots": [
         "app/video/影视仓电视版/images/1.png",
@@ -1928,11 +1957,6 @@ const appData = {
           "name": "影视仓_6.1.8_opt.apk",
           "download_url": "app/video/影视仓电视版/影视仓_6.1.8_opt.apk",
           "filename": "影视仓_6.1.8_opt.apk"
-        },
-        {
-          "name": "影视仓-6.1.7_32位.apk",
-          "download_url": "app/video/影视仓电视版/影视仓-6.1.7_32位.apk",
-          "filename": "影视仓-6.1.7_32位.apk"
         },
         {
           "name": "影视仓_TV端_v6.1.7_兼容安卓5.apk",
