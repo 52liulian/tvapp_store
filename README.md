@@ -83,7 +83,7 @@
 | 野草助手 | 2.0.13 | [下载](app/utility/野草助手/野草助手-TV版-v2.0.13.apk) | 🟢 |  |
 | FongMi影视 | 5.1.1 | [下载](app/video/FongMi影视/FM影视TV端-32位_v5.1.1_正式版.apk) | 🟢 |  |
 | OK影视 | 3.9.1 | [下载](app/video/OK影视/OK影视Pro-手机版-3.9.1.apk) | 🟢 |  |
-| TVBox_白壳版 | 215613905 | [下载](app/video/TVBox_白壳版/TVBox_q215613905_20251016-2311-java.apk) | 🟢 |  |
+| TVBox_白壳版 | 20251016 | [下载](app/video/TVBox_白壳版/TVBox_q215613905_20251016-2311-java.apk) | 🟢 |  |
 | TVBox_黑壳版 | 20260227 | [下载](app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-arm64-generic-java copy.apk) | 🟢 |  |
 | 动漫鸭 | 10.1.0 | [下载](app/video/动漫鸭/动漫鸭_10.1.0.apk) | 🟢 |  |
 | 宝盒TV | 4.1.3 | [下载](app/video/宝盒TV/宝盒TV4.1.3(FM内置版).apk) | 🟢 |  |
