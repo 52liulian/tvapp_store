@@ -27,72 +27,71 @@
 
 ## 一览表 📂
 
-| APP名称         | 版本                  | 下载地址                                                                           | 状态 | 备注 |
-| --------------- | --------------------- | ---------------------------------------------------------------------------------- | ---- | ---- |
-| 七星智教        | 3.0                   | [下载](app/education/七星智教/七星智教_v3.0(陪伴孩子成长的APP)不支持安卓4.apk)      | 🟢   |      |
-| 儿歌多多        | 1.3.1.0               | [下载](app/education/儿歌多多/儿歌多多TV_v1.3.1.0无限制版.apk)                      | 🟢   |      |
-| 宝宝巴士        | 2.00.20.00            | [下载](app/education/宝宝巴士/宝宝巴士儿歌_v2.00.20.00_TV版.apk)                    | 🟢   |      |
-| 宝宝趣学        | 3.0.1                 | [下载](app/education/宝宝趣学/宝宝趣学_v3.0.1.apk)                                  | 🟢   |      |
-| 淘知学堂        | 淘知学堂TV已解锁会员  | [下载](app/education/淘知学堂/淘知学堂TV已解锁会员.apk)                             | 🟢   |      |
-| 4K梨园戏        | 1.0.2                 | [下载](app/entertainment/4K梨园戏/4K梨园戏_v1.0.2_TV高级版.apk)                     | 🟢   |      |
-| bilibliTV版BBLL | 1.5.2                 | [下载](app/entertainment/bilibliTV版BBLL/BBLL_1.5.2_修复版.apk)                     | 🟢   |      |
-| 云视听快TV      | 3.9.1                 | [下载](app/entertainment/云视听快TV/云视听快TV_v3.9.1.apk)                          | 🟢   |      |
-| 哔哩哔哩TV版    | 1.6.6                 | [下载](app/entertainment/哔哩哔哩TV版/哔哩哔哩_v1.6.6_v10修复版.apk)                | 🟢   |      |
-| 小鸡模拟器TV版  | 1.1.8                 | [下载](app/entertainment/小鸡模拟器TV版/小鸡模拟器TV版_v1.1.8永久去升级.apk)        | 🟢   |      |
-| 戏曲多多        | 1.0.8.0               | [下载](app/entertainment/戏曲多多/戏曲多多_v1.0.8.0.apk)                            | 🟢   |      |
-| 茱元游戏TV      | 2.9.3                 | [下载](app/entertainment/茱元游戏TV/茱元游戏TV_v2.9.3.apk)                          | 🟢   |      |
-| 酷咖游戏        | 1.4.5                 | [下载](app/entertainment/酷咖游戏/酷咖游戏_v1.4.5.apk)                              | 🟢   |      |
-| IKTV            | 80.3.0-电视免费k歌    | [下载](app/ktv/IKTV/IKTV_v80.3.0-电视免费k歌.apk)                                   | 🟢   |      |
-| 全民K歌         | 5.9.8.1               | [下载](app/ktv/全民K歌/全民K歌_v5.9.8.1(VIP).apk)                                   | 🟢   |      |
-| 咪咕爱唱        | 4.10.001              | [下载](app/ktv/咪咕爱唱/咪咕爱唱_4.10.001_高级版.apk)                               | 🟢   |      |
-| 家庭KTV         | 1.19                  | [下载](app/ktv/家庭KTV/家庭KTV_v1.19.apk)                                           | 🟢   |      |
-| 智能K歌         | 1.27                  | [下载](app/ktv/智能K歌/智能K歌v1.27_兼容性好.apk)                                   | 🟢   |      |
-| 随畅KTV         | 3.24.09.03-会员       | [下载](app/ktv/随畅KTV/随畅KTV_v3.24.09.03-会员.apk)                                | 🟢   |      |
-| HTV             | 4.8.0                 | [下载](app/live/HTV/HTV-v4.8.0.apk)                                                 | 🟢   |      |
-| MyTV            | 2.2.7-all-sdk21       | [下载](app/live/MyTV/mytv_v2.2.7-all-sdk21.apk)                                     | 🟢   |      |
-| OurTV           | 3.9.5                 | [下载](app/live/OurTV/ourTV_3.9.5.apk)                                              | 🟢   |      |
-| SimpleLive      | 1.9.8-手机版64位      | [下载](app/live/SimpleLive/SimpleLive1.9.8-手机版64位.apk)                          | 🟢   |      |
-| VsTV            | 2.5.14-x86            | [下载](app/live/VsTV/vstv-2.5.14-x86_64.apk)                                        | 🟢   |      |
-| WebViewTV       | 2.1.0                 | [下载](app/live/WebViewTV/WebViewTV_2.1.0.apk)                                      | 🟢   |      |
-| yourtv          | 2.3.1                 | [下载](app/live/yourtv/yourtv_v2.3.1.apk)                                           | 🟢   |      |
-| 七星电视        | 250521                | [下载](app/live/七星电视/七星电视_250521.apk)                                       | 🟢   |      |
-| 云帆直播        | 1.0.0                 | [下载](app/live/云帆直播/云帆直播v1.0.0.apk)                                        | 🟢   |      |
-| 全网通电视      | 1.0                   | [下载](app/live/全网通电视/全网通电视(安卓4)1.0.apk)                                | 🟢   |      |
-| 千寻直播        | 1.1.2                 | [下载](app/live/千寻直播/千寻TV_1.1.2.apk)                                          | 🟢   |      |
-| 宽带直播        | 1.0.18                | [下载](app/live/宽带直播/宽带直播_1.0.18.apk)                                       | 🟢   |      |
-| 小薇直播        | 2.7.0.1-v7a-去广告版  | [下载](app/live/小薇直播/小薇直播--v2.7.0.1-v7a-去广告版.apk)                       | 🟢   |      |
-| 小飞电视        | 2.9.0                 | [下载](app/live/小飞电视/xiaofeitv-2.9.0.apk)                                       | 🟢   |      |
-| 山河TV          | 1.0.4                 | [下载](app/live/山河TV/山河TV_1.0.4安卓手机、电视通用版.apk)                        | 🟢   |      |
-| 悠悠电视        | 1.0.3                 | [下载](app/live/悠悠电视/悠悠电视_1.0.3.apk)                                        | 🟢   |      |
-| 星火电视        | 1.0.50                | [下载](app/live/星火电视/星火直播v1.0.50.apk)                                       | 🟢   |      |
-| 电视家          | 10.2.1                | [下载](app/live/电视家/电视家修复版永久免费版+v10.2.1.apk)                          | 🟢   |      |
-| 直播电视        | 20250922              | [下载](app/live/直播电视/zbds_v20250922_2.apk)                                      | 🟢   |      |
-| 翡翠TV          | 1.0.5                 | [下载](app/live/翡翠TV/翡翠TV_v1.0.5.apk)                                           | 🟢   |      |
-| 酷9直播         | 1.7.6.8               | [下载](app/live/酷9直播/酷9lite_1.7.6.8空壳（兼容安卓4.3-6）.apk)                   | 🟢   |      |
-| CIBN糖豆TV版    | 3.2.0-糖豆TV版-会员版 | [下载](app/movement/CIBN糖豆TV版/CIBN糖豆v3.2.0-糖豆TV版-会员版_LWELY.apk)          | 🟢   |      |
-| Keep健身TV版    | 3.3.0                 | [下载](app/movement/Keep健身TV版/KeepTV_v3.3.0.apk)                                 | 🟢   |      |
-| 即刻运动TV版    | 2.7.3.8               | [下载](app/movement/即刻运动TV版/Fittime_TV_2.7.3.8.apk)                            | 🟢   |      |
-| 每日瑜伽        | 5.4.5                 | [下载](app/movement/每日瑜伽/Daily_Yoga_5.4.5.apk)                                  | 🟢   |      |
-| ES文件浏览器    | 4.4.3.7               | [下载](app/utility/ES文件浏览器/ES文件浏览器4.4.3.7会员版-Balatan.apk)              | 🟢   |      |
-| idm+            | 12.3                  | [下载](app/utility/idm+/IDM+_12.3(影视仓下载功能配套软件).apk)                      | 🟢   |      |
-| MT管理器        | 2.18.4                | [下载](app/utility/MT管理器/MT管理器2.18.4.apk)                                     | 🟢   |      |
-| MX播放器        | 1.94.0-v8a-CN-Mod     | [下载](app/utility/MX播放器/MXPlayer-1.94.0-v8a-CN-Mod.apk)                         | 🟢   |      |
-| NP管理器        | 3.1.21                | [下载](app/utility/NP管理器/NP管理器-3.1.21.apk)                                    | 🟢   |      |
-| 应用管家        | 1.8.8-公签版          | [下载](app/utility/应用管家/应用管家v1.8.8-公签版.apk)                              | 🟢   |      |
-| 电视屏幕大师    | 2.3.0                 | [下载](app/utility/电视屏幕大师/电视屏幕大师_2.3.0.apk)                             | 🟢   |      |
-| 野草助手        | 2.0.13                | [下载](app/utility/野草助手/野草助手-TV版-v2.0.13.apk)                              | 🟢   |      |
-| FongMi影视      | 5.1.1                 | [下载](app/video/FongMi影视/FM影视TV端-32位_v5.1.1_正式版.apk)                      | 🟢   |      |
-| OK影视          | 3.9.1                 | [下载](app/video/OK影视/OK影视Pro-手机版-3.9.1.apk)                                 | 🟢   |      |
-| TVBox_白壳版    | 215613905             | [下载](app/video/TVBox_白壳版/TVBox_q215613905_20251016-2311-java.apk)              | 🟢   |      |
-| TVBox_黑壳版    | 20260227              | [下载](app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-arm64-generic-java.apk) | 🟢   |      |
-| 动漫鸭          | 10.1.0                | [下载](app/video/动漫鸭/动漫鸭_10.1.0.apk)                                          | 🟢   |      |
-| 宝盒TV          | 4.1.3                 | [下载](app/video/宝盒TV/宝盒TV4.1.3(FM内置版).apk)                                  | 🟢   |      |
-| 小苹果影视盒子  | 1.6.1                 | [下载](app/video/小苹果影视盒子/XPGBOX-release-1.6.1.apk)                           | 🟢   |      |
-| 影视仓V3        | 3.0.36                | [下载](app/video/影视仓V3/影视仓V3稳定版-3.0.36_兼容安卓4.apk)                      | 🟢   |      |
-| 影视仓手机版    | 3.3.1                 | [下载](app/video/影视仓手机版/影视仓_手机端_3.3.1.apk)                              | 🟢   |      |
-| 影视仓海信版    | 6.1.7-32位            | [下载](app/video/影视仓海信版/影视仓-6.1.7-32位_海信版.apk)                         | 🟢   |      |
-| 影视仓电视版    | 6.2.5                 | [下载](app/video/影视仓电视版/影视仓_TV端_6.2.5.apk)                                | 🟢   |      |
-
+| APP名称 | 版本 | 下载地址 | 状态 | 备注 |
+| ------- | ---- | -------- | ---- | ---- |
+| 七星智教 | 3.0 | [下载](app/education/七星智教/七星智教_v3.0(陪伴孩子成长的APP)不支持安卓4.apk) | 🟢 |  |
+| 儿歌多多 | 1.3.1.0 | [下载](app/education/儿歌多多/儿歌多多TV_v1.3.1.0无限制版.apk) | 🟢 |  |
+| 宝宝巴士 | 2.00.20.00 | [下载](app/education/宝宝巴士/宝宝巴士儿歌_v2.00.20.00_TV版.apk) | 🟢 |  |
+| 宝宝趣学 | 3.0.1 | [下载](app/education/宝宝趣学/宝宝趣学_v3.0.1.apk) | 🟢 |  |
+| 淘知学堂 | 淘知学堂TV已解锁会员 | [下载](app/education/淘知学堂/淘知学堂TV已解锁会员.apk) | 🟢 |  |
+| 4K梨园戏 | 1.0.2 | [下载](app/entertainment/4K梨园戏/4K梨园戏_v1.0.2_TV高级版.apk) | 🟢 |  |
+| bilibliTV版BBLL | 1.5.2 | [下载](app/entertainment/bilibliTV版BBLL/BBLL_1.5.2_修复版.apk) | 🟢 |  |
+| 云视听快TV | 3.9.1 | [下载](app/entertainment/云视听快TV/云视听快TV_v3.9.1.apk) | 🟢 |  |
+| 哔哩哔哩TV版 | 1.6.6 | [下载](app/entertainment/哔哩哔哩TV版/哔哩哔哩_v1.6.6_v10修复版.apk) | 🟢 |  |
+| 小鸡模拟器TV版 | 1.1.8 | [下载](app/entertainment/小鸡模拟器TV版/小鸡模拟器TV版_v1.1.8永久去升级.apk) | 🟢 |  |
+| 戏曲多多 | 1.0.8.0 | [下载](app/entertainment/戏曲多多/戏曲多多_v1.0.8.0.apk) | 🟢 |  |
+| 茱元游戏TV | 2.9.3 | [下载](app/entertainment/茱元游戏TV/茱元游戏TV_v2.9.3.apk) | 🟢 |  |
+| 酷咖游戏 | 1.4.5 | [下载](app/entertainment/酷咖游戏/酷咖游戏_v1.4.5.apk) | 🟢 |  |
+| IKTV | 80.3.0-电视免费k歌 | [下载](app/ktv/IKTV/IKTV_v80.3.0-电视免费k歌.apk) | 🟢 |  |
+| 全民K歌 | 5.9.8.1 | [下载](app/ktv/全民K歌/全民K歌_v5.9.8.1(VIP).apk) | 🟢 |  |
+| 咪咕爱唱 | 4.10.001 | [下载](app/ktv/咪咕爱唱/咪咕爱唱_4.10.001_高级版.apk) | 🟢 |  |
+| 家庭KTV | 1.19 | [下载](app/ktv/家庭KTV/家庭KTV_v1.19.apk) | 🟢 |  |
+| 智能K歌 | 1.27 | [下载](app/ktv/智能K歌/智能K歌v1.27_兼容性好.apk) | 🟢 |  |
+| 随畅KTV | 3.24.09.03-会员 | [下载](app/ktv/随畅KTV/随畅KTV_v3.24.09.03-会员.apk) | 🟢 |  |
+| HTV | 4.8.0 | [下载](app/live/HTV/HTV-v4.8.0.apk) | 🟢 |  |
+| MyTV | 2.2.7-all-sdk21 | [下载](app/live/MyTV/mytv_v2.2.7-all-sdk21.apk) | 🟢 |  |
+| OurTV | 3.9.5 | [下载](app/live/OurTV/ourTV_3.9.5.apk) | 🟢 |  |
+| SimpleLive | 1.9.8-手机版64位 | [下载](app/live/SimpleLive/SimpleLive1.9.8-手机版64位.apk) | 🟢 |  |
+| VsTV | 2.5.14-x86 | [下载](app/live/VsTV/vstv-2.5.14-x86_64.apk) | 🟢 |  |
+| WebViewTV | 2.1.0 | [下载](app/live/WebViewTV/WebViewTV_2.1.0.apk) | 🟢 |  |
+| yourtv | 2.3.1 | [下载](app/live/yourtv/yourtv_v2.3.1.apk) | 🟢 |  |
+| 七星电视 | 250521 | [下载](app/live/七星电视/七星电视_250521.apk) | 🟢 |  |
+| 云帆直播 | 1.0.0 | [下载](app/live/云帆直播/云帆直播v1.0.0.apk) | 🟢 |  |
+| 全网通电视 | 1.0 | [下载](app/live/全网通电视/全网通电视(安卓4)1.0.apk) | 🟢 |  |
+| 千寻直播 | 1.1.2 | [下载](app/live/千寻直播/千寻TV_1.1.2.apk) | 🟢 |  |
+| 宽带直播 | 1.0.18 | [下载](app/live/宽带直播/宽带直播_1.0.18.apk) | 🟢 |  |
+| 小薇直播 | 2.7.0.1-v7a-去广告版 | [下载](app/live/小薇直播/小薇直播--v2.7.0.1-v7a-去广告版.apk) | 🟢 |  |
+| 小飞电视 | 2.9.0 | [下载](app/live/小飞电视/xiaofeitv-2.9.0.apk) | 🟢 |  |
+| 山河TV | 1.0.4 | [下载](app/live/山河TV/山河TV_1.0.4安卓手机、电视通用版.apk) | 🟢 |  |
+| 悠悠电视 | 1.0.3 | [下载](app/live/悠悠电视/悠悠电视_1.0.3.apk) | 🟢 |  |
+| 星火电视 | 1.0.50 | [下载](app/live/星火电视/星火直播v1.0.50.apk) | 🟢 |  |
+| 电视家 | 10.2.1 | [下载](app/live/电视家/电视家修复版永久免费版+v10.2.1.apk) | 🟢 |  |
+| 直播电视 | 20250922 | [下载](app/live/直播电视/zbds_v20250922_2.apk) | 🟢 |  |
+| 翡翠TV | 1.0.5 | [下载](app/live/翡翠TV/翡翠TV_v1.0.5.apk) | 🟢 |  |
+| 酷9直播 | 1.7.6.8 | [下载](app/live/酷9直播/酷9lite_1.7.6.8空壳（兼容安卓4.3-6）.apk) | 🟢 |  |
+| CIBN糖豆TV版 | 3.2.0-糖豆TV版-会员版 | [下载](app/movement/CIBN糖豆TV版/CIBN糖豆v3.2.0-糖豆TV版-会员版_LWELY.apk) | 🟢 |  |
+| Keep健身TV版 | 3.3.0 | [下载](app/movement/Keep健身TV版/KeepTV_v3.3.0.apk) | 🟢 |  |
+| 即刻运动TV版 | 2.7.3.8 | [下载](app/movement/即刻运动TV版/Fittime_TV_2.7.3.8.apk) | 🟢 |  |
+| 每日瑜伽 | 5.4.5 | [下载](app/movement/每日瑜伽/Daily_Yoga_5.4.5.apk) | 🟢 |  |
+| ES文件浏览器 | 4.4.3.7 | [下载](app/utility/ES文件浏览器/ES文件浏览器4.4.3.7会员版-Balatan.apk) | 🟢 |  |
+| idm+ | 12.3 | [下载](app/utility/idm+/IDM+_12.3(影视仓下载功能配套软件).apk) | 🟢 |  |
+| MT管理器 | 2.18.4 | [下载](app/utility/MT管理器/MT管理器2.18.4.apk) | 🟢 |  |
+| MX播放器 | 1.94.0-v8a-CN-Mod | [下载](app/utility/MX播放器/MXPlayer-1.94.0-v8a-CN-Mod.apk) | 🟢 |  |
+| NP管理器 | 3.1.21 | [下载](app/utility/NP管理器/NP管理器-3.1.21.apk) | 🟢 |  |
+| 应用管家 | 1.8.8-公签版 | [下载](app/utility/应用管家/应用管家v1.8.8-公签版.apk) | 🟢 |  |
+| 电视屏幕大师 | 2.3.0 | [下载](app/utility/电视屏幕大师/电视屏幕大师_2.3.0.apk) | 🟢 |  |
+| 野草助手 | 2.0.13 | [下载](app/utility/野草助手/野草助手-TV版-v2.0.13.apk) | 🟢 |  |
+| FongMi影视 | 5.1.1 | [下载](app/video/FongMi影视/FM影视TV端-32位_v5.1.1_正式版.apk) | 🟢 |  |
+| OK影视 | 3.9.1 | [下载](app/video/OK影视/OK影视Pro-手机版-3.9.1.apk) | 🟢 |  |
+| TVBox_白壳版 | 215613905 | [下载](app/video/TVBox_白壳版/TVBox_q215613905_20251016-2311-java.apk) | 🟢 |  |
+| TVBox_黑壳版 | 20260227 | [下载](app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-arm64-generic-java copy.apk) | 🟢 |  |
+| 动漫鸭 | 10.1.0 | [下载](app/video/动漫鸭/动漫鸭_10.1.0.apk) | 🟢 |  |
+| 宝盒TV | 4.1.3 | [下载](app/video/宝盒TV/宝盒TV4.1.3(FM内置版).apk) | 🟢 |  |
+| 小苹果影视盒子 | 1.6.1 | [下载](app/video/小苹果影视盒子/XPGBOX-release-1.6.1.apk) | 🟢 |  |
+| 影视仓V3 | 3.0.36 | [下载](app/video/影视仓V3/影视仓V3稳定版-3.0.36_兼容安卓4.apk) | 🟢 |  |
+| 影视仓手机版 | 3.3.1 | [下载](app/video/影视仓手机版/影视仓_手机端_3.3.1.apk) | 🟢 |  |
+| 影视仓海信版 | 6.1.7-32位 | [下载](app/video/影视仓海信版/影视仓-6.1.7-32位_海信版.apk) | 🟢 |  |
+| 影视仓电视版 | 6.2.5 | [下载](app/video/影视仓电视版/影视仓_TV端_6.2.5.apk) | 🟢 |  |
 ## 接口源 🌟
 
 > github地址使用时 请自行添加代理

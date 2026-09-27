@@ -618,10 +618,7 @@ const appData = {
       "size": "8.95 MB",
       "other_versions": "vstv-2.5.14-arm-av3a.apk\nvstv-2.5.14-arm.apk\nvstv-2.5.14-HarmonyOS.apk",
       "app_intro": "暂无介绍",
-      "screenshots": [
-        "app/live/VsTV/images/1.png",
-        "app/live/VsTV/images/2.png"
-      ],
+      "screenshots": [],
       "id": "vstv",
       "icon": "images/default_icon.png",
       "desc": "暂无介绍",
@@ -1391,7 +1388,10 @@ const appData = {
       "size": "6.12 MB",
       "other_versions": "无",
       "app_intro": "电视屏幕大师是一款功能丰富的应用程序。",
-      "screenshots": [],
+      "screenshots": [
+        "app/utility/电视屏幕大师/images/1.png",
+        "app/utility/电视屏幕大师/images/2.png"
+      ],
       "id": "电视屏幕大师",
       "icon": "icons/电视屏幕大师.png",
       "desc": "电视屏幕大师是一款功能丰富的应用程序。",
@@ -1615,7 +1615,7 @@ const appData = {
       "version": "215613905",
       "update_time": "2026-01-14",
       "size": "17.76 MB",
-      "other_versions": "TVBox_q215613905_20251016-2311-python.apk\nTVBox_q215613905_20260709-2348-java.apk\nTVBox_q215613905_20260709-2348-java32.apk\nTVBox_q215613905_20260709-2348-java64.apk\nTVBox_q215613905_20260709-2348-python.apk\nTVBox_q215613905_20260709-2348-python32.apk\nTVBox_q215613905_20260709-2348-python64.apk",
+      "other_versions": "TVBox_q215613905_20251016-2311-python.apk\nTVBox_q215613905_20260709-2348-java.apk\nTVBox_q215613905_20260709-2348-java32.apk\nTVBox_q215613905_20260709-2348-java64.apk\nTVBox_q215613905_20260709-2348-python.apk\nTVBox_q215613905_20260709-2348-python32.apk\nTVBox_q215613905_20260709-2348-python64.apk\nTVBox_q215613905_20260914-1520-java.apk\nTVBox_q215613905_20260914-1520-java32.apk\nTVBox_q215613905_20260914-1520-java64.apk\nTVBox_q215613905_20260914-1520-python.apk\nTVBox_q215613905_20260914-1520-python32.apk\nTVBox_q215613905_20260914-1520-python64.apk",
       "app_intro": "TVBox app是一款免费影视在线追剧平台，TVBox_q215613905版兼容安卓4.4版本，大家能够在这里找到各种类型、各个年代的优质超清影视作品，无论是热门大片还是经典老剧，包含了电影、电视剧、综艺节目、动漫等，用户可以在这里享受到流畅、清晰、不卡顿、无广告、完全免费的观影体验。",
       "screenshots": [
         "app/video/TVBox_白壳版/images/1.png",
@@ -1662,6 +1662,36 @@ const appData = {
           "name": "TVBox_q215613905_20260709-2348-python64.apk",
           "download_url": "app/video/TVBox_白壳版/TVBox_q215613905_20260709-2348-python64.apk",
           "filename": "TVBox_q215613905_20260709-2348-python64.apk"
+        },
+        {
+          "name": "TVBox_q215613905_20260914-1520-java.apk",
+          "download_url": "app/video/TVBox_白壳版/TVBox_q215613905_20260914-1520-java.apk",
+          "filename": "TVBox_q215613905_20260914-1520-java.apk"
+        },
+        {
+          "name": "TVBox_q215613905_20260914-1520-java32.apk",
+          "download_url": "app/video/TVBox_白壳版/TVBox_q215613905_20260914-1520-java32.apk",
+          "filename": "TVBox_q215613905_20260914-1520-java32.apk"
+        },
+        {
+          "name": "TVBox_q215613905_20260914-1520-java64.apk",
+          "download_url": "app/video/TVBox_白壳版/TVBox_q215613905_20260914-1520-java64.apk",
+          "filename": "TVBox_q215613905_20260914-1520-java64.apk"
+        },
+        {
+          "name": "TVBox_q215613905_20260914-1520-python.apk",
+          "download_url": "app/video/TVBox_白壳版/TVBox_q215613905_20260914-1520-python.apk",
+          "filename": "TVBox_q215613905_20260914-1520-python.apk"
+        },
+        {
+          "name": "TVBox_q215613905_20260914-1520-python32.apk",
+          "download_url": "app/video/TVBox_白壳版/TVBox_q215613905_20260914-1520-python32.apk",
+          "filename": "TVBox_q215613905_20260914-1520-python32.apk"
+        },
+        {
+          "name": "TVBox_q215613905_20260914-1520-python64.apk",
+          "download_url": "app/video/TVBox_白壳版/TVBox_q215613905_20260914-1520-python64.apk",
+          "filename": "TVBox_q215613905_20260914-1520-python64.apk"
         }
       ]
     },
@@ -1670,7 +1700,7 @@ const appData = {
       "version": "20260227",
       "update_time": "2026-01-14",
       "size": "28.21 MB",
-      "other_versions": "TVBox_takagen99_20260227-1116-arm64-generic-python.apk\nTVBox_takagen99_20260227-1116-arm64-hisense-java.apk\nTVBox_takagen99_20260227-1116-arm64-hisense-python.apk\nTVBox_takagen99_20260227-1116-armeabi-generic-java.apk\nTVBox_takagen99_20260227-1116-armeabi-generic-python.apk\nTVBox_takagen99_20260227-1116-armeabi-hisense-java.apk\nTVBox_takagen99_20260227-1116-armeabi-hisense-python.apk\nTVBox_takagen99_20251127-1156-arm64-generic-java.apk\nTVBox_takagen99_20251127-1156-arm64-generic-python.apk\nTVBox_takagen99_20251127-1156-arm64-hisense-java.apk\nTVBox_takagen99_20251127-1156-arm64-hisense-python.apk\nTVBox_takagen99_20251127-1156-armeabi-generic-java.apk\nTVBox_takagen99_20251127-1156-armeabi-generic-python.apk\nTVBox_takagen99_20251127-1156-armeabi-hisense-java.apk\nTVBox_takagen99_20251127-1156-armeabi-hisense-python.apk",
+      "other_versions": "TVBox_takagen99_20260227-1116-arm64-generic-java.apk\nTVBox_takagen99_20260227-1116-arm64-generic-python copy.apk\nTVBox_takagen99_20260227-1116-arm64-generic-python.apk\nTVBox_takagen99_20260227-1116-arm64-hisense-java copy.apk\nTVBox_takagen99_20260227-1116-arm64-hisense-java.apk\nTVBox_takagen99_20260227-1116-arm64-hisense-python copy.apk\nTVBox_takagen99_20260227-1116-arm64-hisense-python.apk\nTVBox_takagen99_20260227-1116-armeabi-generic-java copy.apk\nTVBox_takagen99_20260227-1116-armeabi-generic-java.apk\nTVBox_takagen99_20260227-1116-armeabi-generic-python copy.apk\nTVBox_takagen99_20260227-1116-armeabi-generic-python.apk\nTVBox_takagen99_20260227-1116-armeabi-hisense-java copy.apk\nTVBox_takagen99_20260227-1116-armeabi-hisense-java.apk\nTVBox_takagen99_20260227-1116-armeabi-hisense-python copy.apk\nTVBox_takagen99_20260227-1116-armeabi-hisense-python.apk\nTVBox_takagen99_20251127-1156-arm64-generic-java.apk\nTVBox_takagen99_20251127-1156-arm64-generic-python.apk\nTVBox_takagen99_20251127-1156-arm64-hisense-java.apk\nTVBox_takagen99_20251127-1156-arm64-hisense-python.apk\nTVBox_takagen99_20251127-1156-armeabi-generic-java.apk\nTVBox_takagen99_20251127-1156-armeabi-generic-python.apk\nTVBox_takagen99_20251127-1156-armeabi-hisense-java.apk\nTVBox_takagen99_20251127-1156-armeabi-hisense-python.apk",
       "app_intro": "TVBox app是一款免费影视在线追剧平台，大家能够在这里找到各种类型、各个年代的优质超清影视作品，无论是热门大片还是经典老剧，包含了电影、电视剧、综艺节目、动漫等，用户可以在这里享受到流畅、清晰、不卡顿、无广告、完全免费的观影体验。",
       "screenshots": [
         "app/video/TVBox_黑壳版/images/1.png",
@@ -1680,13 +1710,28 @@ const appData = {
       "id": "tvbox-黑壳版",
       "icon": "icons/TVBox_黑壳版.png",
       "desc": "TVBox app是一款免费影视在线追剧平台，大家能够在这里找到各种类型、各个年代的优质超清影视作品，无论是热门大片还是经典老剧，包含了电影、电视剧、综艺节目、动漫等，用户可以在这里享受到流畅、清晰、不卡顿、无广告、完全免费的观影体验。",
-      "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-arm64-generic-java.apk",
-      "latest_apk": "TVBox_takagen99_20260227-1116-arm64-generic-java.apk",
+      "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-arm64-generic-java copy.apk",
+      "latest_apk": "TVBox_takagen99_20260227-1116-arm64-generic-java copy.apk",
       "other_versions_list": [
+        {
+          "name": "TVBox_takagen99_20260227-1116-arm64-generic-java.apk",
+          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-arm64-generic-java.apk",
+          "filename": "TVBox_takagen99_20260227-1116-arm64-generic-java.apk"
+        },
+        {
+          "name": "TVBox_takagen99_20260227-1116-arm64-generic-python copy.apk",
+          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-arm64-generic-python copy.apk",
+          "filename": "TVBox_takagen99_20260227-1116-arm64-generic-python copy.apk"
+        },
         {
           "name": "TVBox_takagen99_20260227-1116-arm64-generic-python.apk",
           "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-arm64-generic-python.apk",
           "filename": "TVBox_takagen99_20260227-1116-arm64-generic-python.apk"
+        },
+        {
+          "name": "TVBox_takagen99_20260227-1116-arm64-hisense-java copy.apk",
+          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-arm64-hisense-java copy.apk",
+          "filename": "TVBox_takagen99_20260227-1116-arm64-hisense-java copy.apk"
         },
         {
           "name": "TVBox_takagen99_20260227-1116-arm64-hisense-java.apk",
@@ -1694,9 +1739,19 @@ const appData = {
           "filename": "TVBox_takagen99_20260227-1116-arm64-hisense-java.apk"
         },
         {
+          "name": "TVBox_takagen99_20260227-1116-arm64-hisense-python copy.apk",
+          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-arm64-hisense-python copy.apk",
+          "filename": "TVBox_takagen99_20260227-1116-arm64-hisense-python copy.apk"
+        },
+        {
           "name": "TVBox_takagen99_20260227-1116-arm64-hisense-python.apk",
           "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-arm64-hisense-python.apk",
           "filename": "TVBox_takagen99_20260227-1116-arm64-hisense-python.apk"
+        },
+        {
+          "name": "TVBox_takagen99_20260227-1116-armeabi-generic-java copy.apk",
+          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-armeabi-generic-java copy.apk",
+          "filename": "TVBox_takagen99_20260227-1116-armeabi-generic-java copy.apk"
         },
         {
           "name": "TVBox_takagen99_20260227-1116-armeabi-generic-java.apk",
@@ -1704,14 +1759,29 @@ const appData = {
           "filename": "TVBox_takagen99_20260227-1116-armeabi-generic-java.apk"
         },
         {
+          "name": "TVBox_takagen99_20260227-1116-armeabi-generic-python copy.apk",
+          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-armeabi-generic-python copy.apk",
+          "filename": "TVBox_takagen99_20260227-1116-armeabi-generic-python copy.apk"
+        },
+        {
           "name": "TVBox_takagen99_20260227-1116-armeabi-generic-python.apk",
           "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-armeabi-generic-python.apk",
           "filename": "TVBox_takagen99_20260227-1116-armeabi-generic-python.apk"
         },
         {
+          "name": "TVBox_takagen99_20260227-1116-armeabi-hisense-java copy.apk",
+          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-armeabi-hisense-java copy.apk",
+          "filename": "TVBox_takagen99_20260227-1116-armeabi-hisense-java copy.apk"
+        },
+        {
           "name": "TVBox_takagen99_20260227-1116-armeabi-hisense-java.apk",
           "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-armeabi-hisense-java.apk",
           "filename": "TVBox_takagen99_20260227-1116-armeabi-hisense-java.apk"
+        },
+        {
+          "name": "TVBox_takagen99_20260227-1116-armeabi-hisense-python copy.apk",
+          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-armeabi-hisense-python copy.apk",
+          "filename": "TVBox_takagen99_20260227-1116-armeabi-hisense-python copy.apk"
         },
         {
           "name": "TVBox_takagen99_20260227-1116-armeabi-hisense-python.apk",
@@ -1896,10 +1966,7 @@ const appData = {
       "size": "53.72 MB",
       "other_versions": "无",
       "app_intro": "影视仓是一款功能强大的影视播放应用，提供丰富的电影、电视剧、综艺、动漫等高清资源。用户可以通过该App免费观看各类热门影视内容，支持多种播放源，确保资源更新及时、稳定。影视仓拥有简洁的操作界面和流畅的播放体验，支持个性化推荐和剧集追踪，方便用户随时追剧。",
-      "screenshots": [
-        "app/video/影视仓手机版/images/1.png",
-        "app/video/影视仓手机版/images/2.png"
-      ],
+      "screenshots": [],
       "id": "影视仓手机版",
       "icon": "icons/影视仓电视版.png",
       "desc": "影视仓是一款功能强大的影视播放应用，提供丰富的电影、电视剧、综艺、动漫等高清资源。用户可以通过该App免费观看各类热门影视内容，支持多种播放源，确保资源更新及时、稳定。影视仓拥有简洁的操作界面和流畅的播放体验，支持个性化推荐和剧集追踪，方便用户随时追剧。",
