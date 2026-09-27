@@ -1,7 +1,7 @@
 # TVAPP 优质应用 TVBox点播直播源收集
 
 <div align="center">
-  <img src="favicon.ico" alt="源仓库 Logo" width="100" height="100" />
+  <img src="logo.png" alt="Logo" width="100" height="100" />
 
 > 所有资源均来自于各路大神无私分享，仅用于个人学习使用，严禁商用，如有侵权请联系删除。
 
