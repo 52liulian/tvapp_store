@@ -334,10 +334,10 @@ const appData = {
     },
     {
       "name": "全民K歌",
-      "version": "5.9.8.1",
+      "version": "9.8.7.1",
       "update_time": "2026-01-14",
-      "size": "40.21 MB",
-      "other_versions": "全民K歌_v5.9.0.1_MV版_(免登录版).apk\n全民K歌_v5.8.7.1_MV版_免费K歌神器.apk",
+      "size": "73.92 MB",
+      "other_versions": "全民K歌_v5.9.8.1(VIP).apk\n全民K歌_v5.9.0.1_MV版_(免登录版).apk\n全民K歌_v5.9.0.1_免登录无限制_teyond.apk\n全民K歌_v5.8.7.1_MV版_免费K歌神器.apk",
       "app_intro": "全民K歌 随心所欲，想唱就唱。 支持海量歌曲点歌伴唱，好友动态，直播观看，本地作品等功能，帮助用户追随自己的唱歌热爱。",
       "screenshots": [
         "app/ktv/全民K歌/images/1.png",
@@ -348,13 +348,23 @@ const appData = {
       "id": "全民k歌",
       "icon": "icons/全民K歌.png",
       "desc": "全民K歌 随心所欲，想唱就唱。 支持海量歌曲点歌伴唱，好友动态，直播观看，本地作品等功能，帮助用户追随自己的唱歌热爱。",
-      "download_url": "app/ktv/全民K歌/全民K歌_v5.9.8.1(VIP).apk",
-      "latest_apk": "全民K歌_v5.9.8.1(VIP).apk",
+      "download_url": "app/ktv/全民K歌/全民K歌_v9.8.7.1_MV版_免费K歌神器.apk",
+      "latest_apk": "全民K歌_v9.8.7.1_MV版_免费K歌神器.apk",
       "other_versions_list": [
+        {
+          "name": "全民K歌_v5.9.8.1(VIP).apk",
+          "download_url": "app/ktv/全民K歌/全民K歌_v5.9.8.1(VIP).apk",
+          "filename": "全民K歌_v5.9.8.1(VIP).apk"
+        },
         {
           "name": "全民K歌_v5.9.0.1_MV版_(免登录版).apk",
           "download_url": "app/ktv/全民K歌/全民K歌_v5.9.0.1_MV版_(免登录版).apk",
           "filename": "全民K歌_v5.9.0.1_MV版_(免登录版).apk"
+        },
+        {
+          "name": "全民K歌_v5.9.0.1_免登录无限制_teyond.apk",
+          "download_url": "app/ktv/全民K歌/全民K歌_v5.9.0.1_免登录无限制_teyond.apk",
+          "filename": "全民K歌_v5.9.0.1_免登录无限制_teyond.apk"
         },
         {
           "name": "全民K歌_v5.8.7.1_MV版_免费K歌神器.apk",
@@ -469,10 +479,10 @@ const appData = {
   "live": [
     {
       "name": "HTV",
-      "version": "4.8.0",
+      "version": "5.1.0",
       "update_time": "2026-01-14",
       "size": "20.32 MB",
-      "other_versions": "HTV-v3.6.0.apk\nHTV-v3.5.0.apk",
+      "other_versions": "HTV-v4.8.0.apk\nHTV-v3.6.0.apk\nHTV-v3.5.0.apk",
       "app_intro": "H TV是一款全新的开源 电视直播软件，功能非常简洁，常用的频道播放都支持，会根据省一级的地区做区分，频道列表显示央视、卫视和本身的地方台。港澳台和国外、西藏、贵州等少数几个地区用的北京市的 IPTV源。自动每天更新源，不再做版本变动，保持稳定方便使用。",
       "screenshots": [
         "app/live/HTV/images/1.png",
@@ -484,9 +494,14 @@ const appData = {
       "id": "htv",
       "icon": "icons/HTV.png",
       "desc": "H TV是一款全新的开源 电视直播软件，功能非常简洁，常用的频道播放都支持，会根据省一级的地区做区分，频道列表显示央视、卫视和本身的地方台。港澳台和国外、西藏、贵州等少数几个地区用的北京市的 IPTV源。自动每天更新源，不再做版本变动，保持稳定方便使用。",
-      "download_url": "app/live/HTV/HTV-v4.8.0.apk",
-      "latest_apk": "HTV-v4.8.0.apk",
+      "download_url": "app/live/HTV/HTV-v5.1.0.apk",
+      "latest_apk": "HTV-v5.1.0.apk",
       "other_versions_list": [
+        {
+          "name": "HTV-v4.8.0.apk",
+          "download_url": "app/live/HTV/HTV-v4.8.0.apk",
+          "filename": "HTV-v4.8.0.apk"
+        },
         {
           "name": "HTV-v3.6.0.apk",
           "download_url": "app/live/HTV/HTV-v3.6.0.apk",
@@ -577,10 +592,10 @@ const appData = {
     },
     {
       "name": "SimpleLive",
-      "version": "1.9.8-手机版64位",
+      "version": "1.12.8-手机版64位",
       "update_time": "2026-01-14",
-      "size": "37.16 MB",
-      "other_versions": "SimpleLive1.9.8-手机版32位.apk\nSimpleLive1.5.5-TV版64位.apk\nSimpleLive1.5.5-TV版32位.apk",
+      "size": "67.23 MB",
+      "other_versions": "SimpleLive-v1.12.8-手机版32位.apk\nSimpleLive-v1.12.8-模拟器专用.apk\nSimpleLive1.11.4-手机版64位.apk\nSimpleLive1.11.4-手机版32位.apk\nSimpleLive1.11.4-模拟器专用.apk\nSimpleLive1.9.8-手机版64位.apk\nSimpleLive1.9.8-手机版32位.apk\nSimpleLive-tv_v1.7.9-TV版64位.apk\nSimpleLive-tv_v1.7.9-TV版32位.apk\nSimpleLive-tv_v1.7.9-模拟器专用.apk\nSimple Live1.6.4-TV版64位.apk\nSimpleLive1.6.4-TV版32位.apk\nSimpleLive1.5.5-TV版64位.apk\nSimpleLive1.5.5-TV版32位.apk",
       "app_intro": "Simple Live 是一款基于 AllLive 项目 开发的开源聚合直播 APP，支持 哔哩哔哩、虎牙、斗鱼、抖音 等主流平台，具备 无广告、低占用、弹幕互动 等核心优势。其核心功能包括：全平台覆盖：一站式聚合多平台直播资源，无需切换多个APP；纯净体验：绿色无广告，界面简洁，专注直播内容本身；互动增强：支持实时弹幕显示、关键词屏蔽、弹幕样式自定义（如大小、速度、透明度调节）；轻量化设计：安装包小巧，运行流畅，适配安卓设备。",
       "screenshots": [
         "app/live/SimpleLive/images/1.webp",
@@ -591,13 +606,68 @@ const appData = {
       "id": "simplelive",
       "icon": "icons/SimpleLive.png",
       "desc": "Simple Live 是一款基于 AllLive 项目 开发的开源聚合直播 APP，支持 哔哩哔哩、虎牙、斗鱼、抖音 等主流平台，具备 无广告、低占用、弹幕互动 等核心优势。其核心功能包括：全平台覆盖：一站式聚合多平台直播资源，无需切换多个APP；纯净体验：绿色无广告，界面简洁，专注直播内容本身；互动增强：支持实时弹幕显示、关键词屏蔽、弹幕样式自定义（如大小、速度、透明度调节）；轻量化设计：安装包小巧，运行流畅，适配安卓设备。",
-      "download_url": "app/live/SimpleLive/SimpleLive1.9.8-手机版64位.apk",
-      "latest_apk": "SimpleLive1.9.8-手机版64位.apk",
+      "download_url": "app/live/SimpleLive/SimpleLive-v1.12.8-手机版64位.apk",
+      "latest_apk": "SimpleLive-v1.12.8-手机版64位.apk",
       "other_versions_list": [
+        {
+          "name": "SimpleLive-v1.12.8-手机版32位.apk",
+          "download_url": "app/live/SimpleLive/SimpleLive-v1.12.8-手机版32位.apk",
+          "filename": "SimpleLive-v1.12.8-手机版32位.apk"
+        },
+        {
+          "name": "SimpleLive-v1.12.8-模拟器专用.apk",
+          "download_url": "app/live/SimpleLive/SimpleLive-v1.12.8-模拟器专用.apk",
+          "filename": "SimpleLive-v1.12.8-模拟器专用.apk"
+        },
+        {
+          "name": "SimpleLive1.11.4-手机版64位.apk",
+          "download_url": "app/live/SimpleLive/SimpleLive1.11.4-手机版64位.apk",
+          "filename": "SimpleLive1.11.4-手机版64位.apk"
+        },
+        {
+          "name": "SimpleLive1.11.4-手机版32位.apk",
+          "download_url": "app/live/SimpleLive/SimpleLive1.11.4-手机版32位.apk",
+          "filename": "SimpleLive1.11.4-手机版32位.apk"
+        },
+        {
+          "name": "SimpleLive1.11.4-模拟器专用.apk",
+          "download_url": "app/live/SimpleLive/SimpleLive1.11.4-模拟器专用.apk",
+          "filename": "SimpleLive1.11.4-模拟器专用.apk"
+        },
+        {
+          "name": "SimpleLive1.9.8-手机版64位.apk",
+          "download_url": "app/live/SimpleLive/SimpleLive1.9.8-手机版64位.apk",
+          "filename": "SimpleLive1.9.8-手机版64位.apk"
+        },
         {
           "name": "SimpleLive1.9.8-手机版32位.apk",
           "download_url": "app/live/SimpleLive/SimpleLive1.9.8-手机版32位.apk",
           "filename": "SimpleLive1.9.8-手机版32位.apk"
+        },
+        {
+          "name": "SimpleLive-tv_v1.7.9-TV版64位.apk",
+          "download_url": "app/live/SimpleLive/SimpleLive-tv_v1.7.9-TV版64位.apk",
+          "filename": "SimpleLive-tv_v1.7.9-TV版64位.apk"
+        },
+        {
+          "name": "SimpleLive-tv_v1.7.9-TV版32位.apk",
+          "download_url": "app/live/SimpleLive/SimpleLive-tv_v1.7.9-TV版32位.apk",
+          "filename": "SimpleLive-tv_v1.7.9-TV版32位.apk"
+        },
+        {
+          "name": "SimpleLive-tv_v1.7.9-模拟器专用.apk",
+          "download_url": "app/live/SimpleLive/SimpleLive-tv_v1.7.9-模拟器专用.apk",
+          "filename": "SimpleLive-tv_v1.7.9-模拟器专用.apk"
+        },
+        {
+          "name": "Simple Live1.6.4-TV版64位.apk",
+          "download_url": "app/live/SimpleLive/Simple Live1.6.4-TV版64位.apk",
+          "filename": "Simple Live1.6.4-TV版64位.apk"
+        },
+        {
+          "name": "SimpleLive1.6.4-TV版32位.apk",
+          "download_url": "app/live/SimpleLive/SimpleLive1.6.4-TV版32位.apk",
+          "filename": "SimpleLive1.6.4-TV版32位.apk"
         },
         {
           "name": "SimpleLive1.5.5-TV版64位.apk",
@@ -613,18 +683,38 @@ const appData = {
     },
     {
       "name": "VsTV",
-      "version": "2.5.14-x86",
+      "version": "2.8.2-x86",
       "update_time": "未知",
-      "size": "8.95 MB",
-      "other_versions": "vstv-2.5.14-arm-av3a.apk\nvstv-2.5.14-arm.apk\nvstv-2.5.14-HarmonyOS.apk",
+      "size": "5.25 MB",
+      "other_versions": "vstv-2.8.2-arm-av3a.apk\nvstv-2.8.2-arm.apk\nvstv-2.8.2-HarmonyOS.apk\nvstv-2.5.14-x86_64.apk\nvstv-2.5.14-arm-av3a.apk\nvstv-2.5.14-arm.apk\nvstv-2.5.14-HarmonyOS.apk",
       "app_intro": "暂无介绍",
       "screenshots": [],
       "id": "vstv",
       "icon": "images/default_icon.png",
       "desc": "暂无介绍",
-      "download_url": "app/live/VsTV/vstv-2.5.14-x86_64.apk",
-      "latest_apk": "vstv-2.5.14-x86_64.apk",
+      "download_url": "app/live/VsTV/vstv-2.8.2-x86_64.apk",
+      "latest_apk": "vstv-2.8.2-x86_64.apk",
       "other_versions_list": [
+        {
+          "name": "vstv-2.8.2-arm-av3a.apk",
+          "download_url": "app/live/VsTV/vstv-2.8.2-arm-av3a.apk",
+          "filename": "vstv-2.8.2-arm-av3a.apk"
+        },
+        {
+          "name": "vstv-2.8.2-arm.apk",
+          "download_url": "app/live/VsTV/vstv-2.8.2-arm.apk",
+          "filename": "vstv-2.8.2-arm.apk"
+        },
+        {
+          "name": "vstv-2.8.2-HarmonyOS.apk",
+          "download_url": "app/live/VsTV/vstv-2.8.2-HarmonyOS.apk",
+          "filename": "vstv-2.8.2-HarmonyOS.apk"
+        },
+        {
+          "name": "vstv-2.5.14-x86_64.apk",
+          "download_url": "app/live/VsTV/vstv-2.5.14-x86_64.apk",
+          "filename": "vstv-2.5.14-x86_64.apk"
+        },
         {
           "name": "vstv-2.5.14-arm-av3a.apk",
           "download_url": "app/live/VsTV/vstv-2.5.14-arm-av3a.apk",
@@ -644,10 +734,10 @@ const appData = {
     },
     {
       "name": "WebViewTV",
-      "version": "2.1.0",
+      "version": "3.0.1",
       "update_time": "2026-01-14",
-      "size": "2.70 MB",
-      "other_versions": "WebViewTV_2.0.4.apk\nWebView+电视_1.10.12.apk\nWebViewTV_1.10.10.apk",
+      "size": "2.83 MB",
+      "other_versions": "WebViewTV_2.1.2.apk\nWebViewTV_2.1.1.apk\nWebViewTV_2.1.0.apk\nWebViewTV_2.0.4.apk\nWebView+电视_1.10.12.apk\nWebViewTV_1.10.10.apk",
       "app_intro": "WebView 电视是一款极简的电视直播软件，专为追求轻量和高效的用户设计。该应用仅2MB大小，却能提供包括央视、卫视及地方台在内的丰富频道资源，确保永久稳定不失效。最新版本修复了荔枝网播放问题，并兼容低版本安卓系统，进一步优化了直播源的稳定性。无论是在手机还是电视上使用，都能享受简单易用、无广告干扰的流畅观看体验。",
       "screenshots": [
         "app/live/WebViewTV/images/1.png",
@@ -659,9 +749,24 @@ const appData = {
       "id": "webviewtv",
       "icon": "icons/WebViewTV.png",
       "desc": "WebView 电视是一款极简的电视直播软件，专为追求轻量和高效的用户设计。该应用仅2MB大小，却能提供包括央视、卫视及地方台在内的丰富频道资源，确保永久稳定不失效。最新版本修复了荔枝网播放问题，并兼容低版本安卓系统，进一步优化了直播源的稳定性。无论是在手机还是电视上使用，都能享受简单易用、无广告干扰的流畅观看体验。",
-      "download_url": "app/live/WebViewTV/WebViewTV_2.1.0.apk",
-      "latest_apk": "WebViewTV_2.1.0.apk",
+      "download_url": "app/live/WebViewTV/WebViewTV_3.0.1.apk",
+      "latest_apk": "WebViewTV_3.0.1.apk",
       "other_versions_list": [
+        {
+          "name": "WebViewTV_2.1.2.apk",
+          "download_url": "app/live/WebViewTV/WebViewTV_2.1.2.apk",
+          "filename": "WebViewTV_2.1.2.apk"
+        },
+        {
+          "name": "WebViewTV_2.1.1.apk",
+          "download_url": "app/live/WebViewTV/WebViewTV_2.1.1.apk",
+          "filename": "WebViewTV_2.1.1.apk"
+        },
+        {
+          "name": "WebViewTV_2.1.0.apk",
+          "download_url": "app/live/WebViewTV/WebViewTV_2.1.0.apk",
+          "filename": "WebViewTV_2.1.0.apk"
+        },
         {
           "name": "WebViewTV_2.0.4.apk",
           "download_url": "app/live/WebViewTV/WebViewTV_2.0.4.apk",
@@ -681,10 +786,10 @@ const appData = {
     },
     {
       "name": "yourtv",
-      "version": "2.3.1",
+      "version": "2.4.1",
       "update_time": "2026-01-14",
-      "size": "13.92 MB",
-      "other_versions": "无",
+      "size": "13.95 MB",
+      "other_versions": "yourtv_v2.3.1.apk",
       "app_intro": "YourTV又叫你的电视TV主打IPTV和网页视频播放，支持遥控器与触摸两种方式。能提供央视、卫视、少儿和地方频道内容，频道覆盖广泛且全天24小时持续播出，可直接通过搜索功能定位。同时支持回放功能，即便错过内容也能后续观看，整体播放保持高清流畅，通过整合互联网公开直播源，构建起覆盖全国主流频道的直播平台。",
       "screenshots": [
         "app/live/yourtv/images/1.png",
@@ -696,9 +801,15 @@ const appData = {
       "id": "yourtv",
       "icon": "icons/yourtv.png",
       "desc": "YourTV又叫你的电视TV主打IPTV和网页视频播放，支持遥控器与触摸两种方式。能提供央视、卫视、少儿和地方频道内容，频道覆盖广泛且全天24小时持续播出，可直接通过搜索功能定位。同时支持回放功能，即便错过内容也能后续观看，整体播放保持高清流畅，通过整合互联网公开直播源，构建起覆盖全国主流频道的直播平台。",
-      "download_url": "app/live/yourtv/yourtv_v2.3.1.apk",
-      "latest_apk": "yourtv_v2.3.1.apk",
-      "other_versions_list": []
+      "download_url": "app/live/yourtv/yourtv_v2.4.1.apk",
+      "latest_apk": "yourtv_v2.4.1.apk",
+      "other_versions_list": [
+        {
+          "name": "yourtv_v2.3.1.apk",
+          "download_url": "app/live/yourtv/yourtv_v2.3.1.apk",
+          "filename": "yourtv_v2.3.1.apk"
+        }
+      ]
     },
     {
       "name": "七星电视",
@@ -777,10 +888,10 @@ const appData = {
     },
     {
       "name": "千寻直播",
-      "version": "1.1.2",
+      "version": "1.1.5",
       "update_time": "2026-01-14",
-      "size": "8.01 MB",
-      "other_versions": "千寻直播_1.1.0[支持语音换台].apk",
+      "size": "7.44 MB",
+      "other_versions": "千寻TV_1.1.2.apk\n千寻直播_1.1.0[支持语音换台].apk",
       "app_intro": "千寻TV是一款专为智能电视、电视盒子、投影仪等大屏设备设计的电视直播软件。它整合了央视、各大卫视、体育频道、动漫少儿、财经专题等海量电视频道，支持高清直播、节目预约、频道收藏等功能，真正做到打开即看，无需等待。",
       "screenshots": [
         "app/live/千寻直播/images/1.png",
@@ -792,9 +903,14 @@ const appData = {
       "id": "千寻直播",
       "icon": "icons/千寻直播.webp",
       "desc": "千寻TV是一款专为智能电视、电视盒子、投影仪等大屏设备设计的电视直播软件。它整合了央视、各大卫视、体育频道、动漫少儿、财经专题等海量电视频道，支持高清直播、节目预约、频道收藏等功能，真正做到打开即看，无需等待。",
-      "download_url": "app/live/千寻直播/千寻TV_1.1.2.apk",
-      "latest_apk": "千寻TV_1.1.2.apk",
+      "download_url": "app/live/千寻直播/千寻_1.1.5.apk",
+      "latest_apk": "千寻_1.1.5.apk",
       "other_versions_list": [
+        {
+          "name": "千寻TV_1.1.2.apk",
+          "download_url": "app/live/千寻直播/千寻TV_1.1.2.apk",
+          "filename": "千寻TV_1.1.2.apk"
+        },
         {
           "name": "千寻直播_1.1.0[支持语音换台].apk",
           "download_url": "app/live/千寻直播/千寻直播_1.1.0[支持语音换台].apk",
@@ -924,10 +1040,10 @@ const appData = {
     },
     {
       "name": "星火电视",
-      "version": "1.0.50",
+      "version": "1.0.52-cs",
       "update_time": "2026-01-14",
-      "size": "21.67 MB",
-      "other_versions": "星火电视TV版v1.0.49.apk\n星火电视_1.0.47_共存版.apk",
+      "size": "20.99 MB",
+      "other_versions": "星火直播v1.0.50.apk\n星火电视TV版v1.0.49.apk\n星火电视_1.0.47_共存版.apk",
       "app_intro": "星火电视tv版软件是一款在安卓手机和安卓大屏设备上安装的可以看电视直播的软件，对于如今电视机里满屏的广告和会员服务，大家都不在喜欢电视机，本软件能够让你完全无广告的去看各种影视剧资源，还可以看到地方的电视频道。",
       "screenshots": [
         "app/live/星火电视/images/1.jpg",
@@ -937,9 +1053,14 @@ const appData = {
       "id": "星火电视",
       "icon": "icons/星火电视.webp",
       "desc": "星火电视tv版软件是一款在安卓手机和安卓大屏设备上安装的可以看电视直播的软件，对于如今电视机里满屏的广告和会员服务，大家都不在喜欢电视机，本软件能够让你完全无广告的去看各种影视剧资源，还可以看到地方的电视频道。",
-      "download_url": "app/live/星火电视/星火直播v1.0.50.apk",
-      "latest_apk": "星火直播v1.0.50.apk",
+      "download_url": "app/live/星火电视/星火海外版_1.0.52-cs.apk",
+      "latest_apk": "星火海外版_1.0.52-cs.apk",
       "other_versions_list": [
+        {
+          "name": "星火直播v1.0.50.apk",
+          "download_url": "app/live/星火电视/星火直播v1.0.50.apk",
+          "filename": "星火直播v1.0.50.apk"
+        },
         {
           "name": "星火电视TV版v1.0.49.apk",
           "download_url": "app/live/星火电视/星火电视TV版v1.0.49.apk",
@@ -982,10 +1103,10 @@ const appData = {
     },
     {
       "name": "直播电视",
-      "version": "20250922",
+      "version": "20260329",
       "update_time": "2026-01-14",
-      "size": "13.57 MB",
-      "other_versions": "zbds_v20250426.apk",
+      "size": "12.94 MB",
+      "other_versions": "zbds_v20260208_优化版.apk\nzbds_v20260208_稳定版.apk\nzbds_v20250922_2.apk\nzbds_v20250426.apk",
       "app_intro": "支持在安卓系统的各种设备上流畅使用；\n提供清晰的分类，有多个栏目和多条备用线路；\n操作简单，适用于电视遥控器操作；",
       "screenshots": [
         "app/live/直播电视/images/1.png",
@@ -994,9 +1115,24 @@ const appData = {
       "id": "直播电视",
       "icon": "icons/直播电视.png",
       "desc": "支持在安卓系统的各种设备上流畅使用；\n提供清晰的分类，有多个栏目和多条备用线路；\n操作简单，适用于电视遥控器操作；",
-      "download_url": "app/live/直播电视/zbds_v20250922_2.apk",
-      "latest_apk": "zbds_v20250922_2.apk",
+      "download_url": "app/live/直播电视/zbds_v20260329.apk",
+      "latest_apk": "zbds_v20260329.apk",
       "other_versions_list": [
+        {
+          "name": "zbds_v20260208_优化版.apk",
+          "download_url": "app/live/直播电视/zbds_v20260208_优化版.apk",
+          "filename": "zbds_v20260208_优化版.apk"
+        },
+        {
+          "name": "zbds_v20260208_稳定版.apk",
+          "download_url": "app/live/直播电视/zbds_v20260208_稳定版.apk",
+          "filename": "zbds_v20260208_稳定版.apk"
+        },
+        {
+          "name": "zbds_v20250922_2.apk",
+          "download_url": "app/live/直播电视/zbds_v20250922_2.apk",
+          "filename": "zbds_v20250922_2.apk"
+        },
         {
           "name": "zbds_v20250426.apk",
           "download_url": "app/live/直播电视/zbds_v20250426.apk",
@@ -1024,10 +1160,10 @@ const appData = {
     },
     {
       "name": "酷9直播",
-      "version": "1.7.6.8",
+      "version": "4.3",
       "update_time": "2026-01-14",
-      "size": "24.62 MB",
-      "other_versions": "酷9_1.7.6.8空壳（32位，兼容安卓5-10）.apk\n酷9_1.7.6.8空壳（64位，兼容安卓5-10）.apk\n酷9_1.7.2.3内置版.apk\n酷9_v1.7.2.3_内置版兼容安卓4.3.apk\n酷9_1.7.2.1_20250604-兼容安卓4.3.apk\n酷9_1.7.2.1_20250604-空壳.apk\n酷9_1.6.5.4-内置版.apk",
+      "size": "29.03 MB",
+      "other_versions": "酷9原版_32位2.0.4_20260702_1949.apk\n酷9原版_32位py_2.0.4_20260702_1949.apk\n酷9原版_64位2.0.4_20260702_1949.apk\n酷9原版_64位py_2.0.4_20260702_1949.apk\n酷9多线_32位1.7.7.8_内置35线_260402.apk\n酷9多线_32位py_1.7.7.8_内置35线_260402.apk\n酷9多线_64位1.7.7.8_内置35线_260402.apk\n酷9多线_64位py_1.7.7.8_内置35线_260402.apk\n酷9_v1.7.7.1手机版.apk\n酷9_v1.7.7.1电视版.apk\n酷9_v1.7.7.1通用版.apk\n酷9lite_1.7.6.8空壳（兼容安卓4.3-6）.apk\n酷9lite空壳_1.7.6.8（兼容安卓4.3-6）.apk\n酷9_1.7.6.8空壳（32位，兼容安卓5-10）.apk\n酷9_1.7.6.8空壳（64位，兼容安卓5-10）.apk\n酷9空壳_1.7.6.8（32位，兼容安卓5-10）.apk\n酷9空壳_1.7.6.8（64位，兼容安卓5-10）.apk\n酷9_1.7.2.3内置版.apk\n酷9_v1.7.2.3_内置版兼容安卓4.3.apk\n酷9内置版1.7.2.3需要先卸载再重装，不然会闪退.apk\n酷9_1.7.2.1_20250604-兼容安卓4.3.apk\n酷9_1.7.2.1_20250604-空壳.apk\n酷9_1.6.5.4-内置版.apk",
       "app_intro": "酷9是一款免费好用的电视直播软件。\n1、软件内置频道丰富，包含央视，卫视，凤凰，港澳，弯弯，地方，娱乐专区等。\n2、免费用无需登录即可观看、无广告。\n3、高清稳定流畅。",
       "screenshots": [
         "app/live/酷9直播/images/1.png",
@@ -1036,9 +1172,74 @@ const appData = {
       "id": "酷9直播",
       "icon": "icons/酷9直播.png",
       "desc": "酷9是一款免费好用的电视直播软件。\n1、软件内置频道丰富，包含央视，卫视，凤凰，港澳，弯弯，地方，娱乐专区等。\n2、免费用无需登录即可观看、无广告。\n3、高清稳定流畅。",
-      "download_url": "app/live/酷9直播/酷9lite_1.7.6.8空壳（兼容安卓4.3-6）.apk",
-      "latest_apk": "酷9lite_1.7.6.8空壳（兼容安卓4.3-6）.apk",
+      "download_url": "app/live/酷9直播/酷9内置版兼容安卓4.3_1.7.2.3需要先卸载再重装，不然会闪退.apk",
+      "latest_apk": "酷9内置版兼容安卓4.3_1.7.2.3需要先卸载再重装，不然会闪退.apk",
       "other_versions_list": [
+        {
+          "name": "酷9原版_32位2.0.4_20260702_1949.apk",
+          "download_url": "app/live/酷9直播/酷9原版_32位2.0.4_20260702_1949.apk",
+          "filename": "酷9原版_32位2.0.4_20260702_1949.apk"
+        },
+        {
+          "name": "酷9原版_32位py_2.0.4_20260702_1949.apk",
+          "download_url": "app/live/酷9直播/酷9原版_32位py_2.0.4_20260702_1949.apk",
+          "filename": "酷9原版_32位py_2.0.4_20260702_1949.apk"
+        },
+        {
+          "name": "酷9原版_64位2.0.4_20260702_1949.apk",
+          "download_url": "app/live/酷9直播/酷9原版_64位2.0.4_20260702_1949.apk",
+          "filename": "酷9原版_64位2.0.4_20260702_1949.apk"
+        },
+        {
+          "name": "酷9原版_64位py_2.0.4_20260702_1949.apk",
+          "download_url": "app/live/酷9直播/酷9原版_64位py_2.0.4_20260702_1949.apk",
+          "filename": "酷9原版_64位py_2.0.4_20260702_1949.apk"
+        },
+        {
+          "name": "酷9多线_32位1.7.7.8_内置35线_260402.apk",
+          "download_url": "app/live/酷9直播/酷9多线_32位1.7.7.8_内置35线_260402.apk",
+          "filename": "酷9多线_32位1.7.7.8_内置35线_260402.apk"
+        },
+        {
+          "name": "酷9多线_32位py_1.7.7.8_内置35线_260402.apk",
+          "download_url": "app/live/酷9直播/酷9多线_32位py_1.7.7.8_内置35线_260402.apk",
+          "filename": "酷9多线_32位py_1.7.7.8_内置35线_260402.apk"
+        },
+        {
+          "name": "酷9多线_64位1.7.7.8_内置35线_260402.apk",
+          "download_url": "app/live/酷9直播/酷9多线_64位1.7.7.8_内置35线_260402.apk",
+          "filename": "酷9多线_64位1.7.7.8_内置35线_260402.apk"
+        },
+        {
+          "name": "酷9多线_64位py_1.7.7.8_内置35线_260402.apk",
+          "download_url": "app/live/酷9直播/酷9多线_64位py_1.7.7.8_内置35线_260402.apk",
+          "filename": "酷9多线_64位py_1.7.7.8_内置35线_260402.apk"
+        },
+        {
+          "name": "酷9_v1.7.7.1手机版.apk",
+          "download_url": "app/live/酷9直播/酷9_v1.7.7.1手机版.apk",
+          "filename": "酷9_v1.7.7.1手机版.apk"
+        },
+        {
+          "name": "酷9_v1.7.7.1电视版.apk",
+          "download_url": "app/live/酷9直播/酷9_v1.7.7.1电视版.apk",
+          "filename": "酷9_v1.7.7.1电视版.apk"
+        },
+        {
+          "name": "酷9_v1.7.7.1通用版.apk",
+          "download_url": "app/live/酷9直播/酷9_v1.7.7.1通用版.apk",
+          "filename": "酷9_v1.7.7.1通用版.apk"
+        },
+        {
+          "name": "酷9lite_1.7.6.8空壳（兼容安卓4.3-6）.apk",
+          "download_url": "app/live/酷9直播/酷9lite_1.7.6.8空壳（兼容安卓4.3-6）.apk",
+          "filename": "酷9lite_1.7.6.8空壳（兼容安卓4.3-6）.apk"
+        },
+        {
+          "name": "酷9lite空壳_1.7.6.8（兼容安卓4.3-6）.apk",
+          "download_url": "app/live/酷9直播/酷9lite空壳_1.7.6.8（兼容安卓4.3-6）.apk",
+          "filename": "酷9lite空壳_1.7.6.8（兼容安卓4.3-6）.apk"
+        },
         {
           "name": "酷9_1.7.6.8空壳（32位，兼容安卓5-10）.apk",
           "download_url": "app/live/酷9直播/酷9_1.7.6.8空壳（32位，兼容安卓5-10）.apk",
@@ -1050,6 +1251,16 @@ const appData = {
           "filename": "酷9_1.7.6.8空壳（64位，兼容安卓5-10）.apk"
         },
         {
+          "name": "酷9空壳_1.7.6.8（32位，兼容安卓5-10）.apk",
+          "download_url": "app/live/酷9直播/酷9空壳_1.7.6.8（32位，兼容安卓5-10）.apk",
+          "filename": "酷9空壳_1.7.6.8（32位，兼容安卓5-10）.apk"
+        },
+        {
+          "name": "酷9空壳_1.7.6.8（64位，兼容安卓5-10）.apk",
+          "download_url": "app/live/酷9直播/酷9空壳_1.7.6.8（64位，兼容安卓5-10）.apk",
+          "filename": "酷9空壳_1.7.6.8（64位，兼容安卓5-10）.apk"
+        },
+        {
           "name": "酷9_1.7.2.3内置版.apk",
           "download_url": "app/live/酷9直播/酷9_1.7.2.3内置版.apk",
           "filename": "酷9_1.7.2.3内置版.apk"
@@ -1058,6 +1269,11 @@ const appData = {
           "name": "酷9_v1.7.2.3_内置版兼容安卓4.3.apk",
           "download_url": "app/live/酷9直播/酷9_v1.7.2.3_内置版兼容安卓4.3.apk",
           "filename": "酷9_v1.7.2.3_内置版兼容安卓4.3.apk"
+        },
+        {
+          "name": "酷9内置版1.7.2.3需要先卸载再重装，不然会闪退.apk",
+          "download_url": "app/live/酷9直播/酷9内置版1.7.2.3需要先卸载再重装，不然会闪退.apk",
+          "filename": "酷9内置版1.7.2.3需要先卸载再重装，不然会闪退.apk"
         },
         {
           "name": "酷9_1.7.2.1_20250604-兼容安卓4.3.apk",
@@ -1083,7 +1299,7 @@ const appData = {
       "version": "3.2.0-糖豆TV版-会员版",
       "update_time": "2026-01-14",
       "size": "20.51 MB",
-      "other_versions": "CIBN糖豆v3.2.0-糖豆TV版-会员版_teyond.apk",
+      "other_versions": "CIBN糖豆v3.2.0-糖豆TV版-会员版_takotsubo.apk\nCIBN糖豆v3.2.0-糖豆TV版-会员版_teyond.apk",
       "app_intro": "CIBN糖豆TV版是一款功能丰富的应用程序。",
       "screenshots": [
         "app/movement/CIBN糖豆TV版/images/1.jpg",
@@ -1097,6 +1313,11 @@ const appData = {
       "download_url": "app/movement/CIBN糖豆TV版/CIBN糖豆v3.2.0-糖豆TV版-会员版_LWELY.apk",
       "latest_apk": "CIBN糖豆v3.2.0-糖豆TV版-会员版_LWELY.apk",
       "other_versions_list": [
+        {
+          "name": "CIBN糖豆v3.2.0-糖豆TV版-会员版_takotsubo.apk",
+          "download_url": "app/movement/CIBN糖豆TV版/CIBN糖豆v3.2.0-糖豆TV版-会员版_takotsubo.apk",
+          "filename": "CIBN糖豆v3.2.0-糖豆TV版-会员版_takotsubo.apk"
+        },
         {
           "name": "CIBN糖豆v3.2.0-糖豆TV版-会员版_teyond.apk",
           "download_url": "app/movement/CIBN糖豆TV版/CIBN糖豆v3.2.0-糖豆TV版-会员版_teyond.apk",
@@ -1181,10 +1402,10 @@ const appData = {
   "utility": [
     {
       "name": "ES文件浏览器",
-      "version": "4.4.3.7",
+      "version": "4.4.3.9",
       "update_time": "2026-01-14",
-      "size": "59.85 MB",
-      "other_versions": "ES文件浏览器4.4.3.6会员版-derrin.apk\nES文件浏览器-4.4.3.2--IP-All-Balatan.apk\nES文件浏览器-4.4.3.1--IP-All-Balatan.apk",
+      "size": "64.14 MB",
+      "other_versions": "ES文件浏览器4.4.3.8会员版-辰夕.apk\nES文件浏览器4.4.3.7会员版-Balatan.apk\nES文件浏览器4.4.3.6会员版-derrin.apk\nES文件浏览器-4.4.3.2--IP-All-Balatan.apk\nES文件浏览器-4.4.3.1--IP-All-Balatan.apk",
       "app_intro": "ES文件浏览器是支持本地和网络文件管理的强大软件，软件所具备的文件管理，应用管理、压缩/解压、文本编辑、局域网/FTP远程连接和视频便捷等功能，同时基于产品力的强大功能，不少电视盒子也开始使用，为此这里小编要为你推荐的便是es文件浏览器tv版，并当前用户在手机上能够体验到的所有功能，在这里同样适用，如在文件管理方式上，多种视图列表和排序方式的选择，可以快速帮助用户查看并打开各类文件，期间你还通过本地SD卡、局域网、OTG设备之间任意传输文件，其他的操作选项还支持多选、复制、粘贴、查看属性、解压、重命名和置顶。",
       "screenshots": [
         "app/utility/ES文件浏览器/images/1.jpg",
@@ -1196,9 +1417,19 @@ const appData = {
       "id": "es文件浏览器",
       "icon": "icons/ES文件浏览器.png",
       "desc": "ES文件浏览器是支持本地和网络文件管理的强大软件，软件所具备的文件管理，应用管理、压缩/解压、文本编辑、局域网/FTP远程连接和视频便捷等功能，同时基于产品力的强大功能，不少电视盒子也开始使用，为此这里小编要为你推荐的便是es文件浏览器tv版，并当前用户在手机上能够体验到的所有功能，在这里同样适用，如在文件管理方式上，多种视图列表和排序方式的选择，可以快速帮助用户查看并打开各类文件，期间你还通过本地SD卡、局域网、OTG设备之间任意传输文件，其他的操作选项还支持多选、复制、粘贴、查看属性、解压、重命名和置顶。",
-      "download_url": "app/utility/ES文件浏览器/ES文件浏览器4.4.3.7会员版-Balatan.apk",
-      "latest_apk": "ES文件浏览器4.4.3.7会员版-Balatan.apk",
+      "download_url": "app/utility/ES文件浏览器/ES文件浏览器4.4.3.9会员版-frolickof.apk",
+      "latest_apk": "ES文件浏览器4.4.3.9会员版-frolickof.apk",
       "other_versions_list": [
+        {
+          "name": "ES文件浏览器4.4.3.8会员版-辰夕.apk",
+          "download_url": "app/utility/ES文件浏览器/ES文件浏览器4.4.3.8会员版-辰夕.apk",
+          "filename": "ES文件浏览器4.4.3.8会员版-辰夕.apk"
+        },
+        {
+          "name": "ES文件浏览器4.4.3.7会员版-Balatan.apk",
+          "download_url": "app/utility/ES文件浏览器/ES文件浏览器4.4.3.7会员版-Balatan.apk",
+          "filename": "ES文件浏览器4.4.3.7会员版-Balatan.apk"
+        },
         {
           "name": "ES文件浏览器4.4.3.6会员版-derrin.apk",
           "download_url": "app/utility/ES文件浏览器/ES文件浏览器4.4.3.6会员版-derrin.apk",
@@ -1332,10 +1563,10 @@ const appData = {
     },
     {
       "name": "应用管家",
-      "version": "1.8.8-公签版",
+      "version": "1.9.1",
       "update_time": "2026-01-14",
-      "size": "18.42 MB",
-      "other_versions": "应用管家v1.8.8-普通版.apk\n应用管家v1.8.8-海信版.apk\n应用管家v1.8.2-公签版.apk\n应用管家v1.8.2-普通版.apk\n应用管家v1.5.6(1560)-公签版.apk\n应用管家v1.5.6(1560).apk",
+      "size": "17.60 MB",
+      "other_versions": "应用管家_1.9.1_普通版.apk\n应用管家_1.9.1_海信版.apk\n应用管家v1.8.8-公签版.apk\n应用管家v1.8.8-普通版.apk\n应用管家v1.8.8-海信版.apk\n应用管家v1.8.2-公签版.apk\n应用管家v1.8.2-普通版.apk\n应用管家v1.5.6(1560)-公签版.apk\n应用管家v1.5.6(1560).apk",
       "app_intro": "应用管家是专为安卓系统打造的应用和文件管理软件，它可以获取到电视中的所有应用程序和文件数据，方便用户进行删除、移动等；如果连接手机后，还可以将手机中的应用传输到电视上进行安装，这样就不需要U盘了。",
       "screenshots": [
         "app/utility/应用管家/images/1.jpg",
@@ -1346,9 +1577,24 @@ const appData = {
       "id": "应用管家",
       "icon": "icons/应用管家.png",
       "desc": "应用管家是专为安卓系统打造的应用和文件管理软件，它可以获取到电视中的所有应用程序和文件数据，方便用户进行删除、移动等；如果连接手机后，还可以将手机中的应用传输到电视上进行安装，这样就不需要U盘了。",
-      "download_url": "app/utility/应用管家/应用管家v1.8.8-公签版.apk",
-      "latest_apk": "应用管家v1.8.8-公签版.apk",
+      "download_url": "app/utility/应用管家/应用管家_1.9.1_公签版.apk",
+      "latest_apk": "应用管家_1.9.1_公签版.apk",
       "other_versions_list": [
+        {
+          "name": "应用管家_1.9.1_普通版.apk",
+          "download_url": "app/utility/应用管家/应用管家_1.9.1_普通版.apk",
+          "filename": "应用管家_1.9.1_普通版.apk"
+        },
+        {
+          "name": "应用管家_1.9.1_海信版.apk",
+          "download_url": "app/utility/应用管家/应用管家_1.9.1_海信版.apk",
+          "filename": "应用管家_1.9.1_海信版.apk"
+        },
+        {
+          "name": "应用管家v1.8.8-公签版.apk",
+          "download_url": "app/utility/应用管家/应用管家v1.8.8-公签版.apk",
+          "filename": "应用管家v1.8.8-公签版.apk"
+        },
         {
           "name": "应用管家v1.8.8-普通版.apk",
           "download_url": "app/utility/应用管家/应用管家v1.8.8-普通版.apk",
@@ -1382,16 +1628,31 @@ const appData = {
       ]
     },
     {
+      "name": "欢视助手",
+      "version": "1.0.0",
+      "update_time": "2026-11-19",
+      "size": "7.25 MB",
+      "other_versions": "无",
+      "app_intro": "欢视助手是一款功能丰富的应用程序。",
+      "screenshots": [
+        "app/utility/欢视助手/images/1.png",
+        "app/utility/欢视助手/images/2.png"
+      ],
+      "id": "欢视助手",
+      "icon": "images/default_icon.png",
+      "desc": "欢视助手是一款功能丰富的应用程序。",
+      "download_url": "app/utility/欢视助手/欢视助手_1.0.0.apk",
+      "latest_apk": "欢视助手_1.0.0.apk",
+      "other_versions_list": []
+    },
+    {
       "name": "电视屏幕大师",
       "version": "2.3.0",
       "update_time": "2026-07-13",
       "size": "6.12 MB",
       "other_versions": "无",
       "app_intro": "电视屏幕大师是一款功能丰富的应用程序。",
-      "screenshots": [
-        "app/utility/电视屏幕大师/images/1.png",
-        "app/utility/电视屏幕大师/images/2.png"
-      ],
+      "screenshots": [],
       "id": "电视屏幕大师",
       "icon": "icons/电视屏幕大师.png",
       "desc": "电视屏幕大师是一款功能丰富的应用程序。",
@@ -1450,10 +1711,10 @@ const appData = {
   "video": [
     {
       "name": "FongMi影视",
-      "version": "5.1.1",
+      "version": "5.6.3",
       "update_time": "2026-01-14",
-      "size": "46.23 MB",
-      "other_versions": "FM影视TV端-64位_v5.1.1_正式版.apk\nFM影视手机端-32位_v5.1.1_正式版.apk\nFM影视手机端-64位_v5.1.1_正式版.apk\nFM影视TV端-32位_v4.9.9_内植共存版.apk\nFM影视TV端-64位_v4.9.9_内植共存版.apk\nFM影视手机端-32位_v4.9.9_内植共存版.apk\nFM影视手机端-64位_v4.9.9_内植共存版.apk\nFM影视TV端-32位_v3.9.7_正式版.apk\nFM影视TV端-64位_v3.9.7_正式版.apk\nFM影视手机端-32位_v3.9.7_正式版.apk\nFM影视手机端-64位_v3.9.7_正式版.apk\nFM影视TV端-32位_v3.9.4_内置共存版.apk\nFM影视TV端-64位_v3.9.4_内置共存版.apk\nFM影视手机端-32位_v3.9.4_内置共存版.apk\nFM影视手机端-64位_v3.9.4_内置共存版.apk",
+      "size": "79.35 MB",
+      "other_versions": "FM影视TV端-64位_v5.6.3_正式版.apk\nFM影视手机端-32位_v5.6.3_正式版.apk\nFM影视手机端-64位_v5.6.3_正式版.apk\nFM影视TV端-32位_v5.1.1_正式版.apk\nFM影视TV端-64位_v5.1.1_正式版.apk\nFM影视手机端-32位_v5.1.1_正式版.apk\nFM影视手机端-64位_v5.1.1_正式版.apk\nFM影视TV端-32位_v4.9.9_内植共存版.apk\nFM影视TV端-64位_v4.9.9_内植共存版.apk\nFM影视手机端-32位_v4.9.9_内植共存版.apk\nFM影视手机端-64位_v4.9.9_内植共存版.apk\nFM影视TV端-32位_v3.9.7_正式版.apk\nFM影视TV端-64位_v3.9.7_正式版.apk\nFM影视手机端-32位_v3.9.7_正式版.apk\nFM影视手机端-64位_v3.9.7_正式版.apk\nFM影视TV端-32位_v3.9.4_内置共存版.apk\nFM影视TV端-64位_v3.9.4_内置共存版.apk\nFM影视手机端-32位_v3.9.4_内置共存版.apk\nFM影视手机端-64位_v3.9.4_内置共存版.apk",
       "app_intro": "FongMi影视也叫蜂蜜影视。是一款基于猫影视开源项目开发的电视tv盒子。在使用之前，需要我们配置相关的接口地址。里面啥都有，电影、电视剧、综艺、动漫，你想看啥，它就给你变出啥，而且更新速度那叫一个快，好多院线大片都能在里面找到。追剧看片再也不愁，躺着坐着，想怎么看就怎么看！",
       "screenshots": [
         "app/video/FongMi影视/images/1.png",
@@ -1464,9 +1725,29 @@ const appData = {
       "id": "fongmi影视",
       "icon": "icons/FongMi影视.png",
       "desc": "FongMi影视也叫蜂蜜影视。是一款基于猫影视开源项目开发的电视tv盒子。在使用之前，需要我们配置相关的接口地址。里面啥都有，电影、电视剧、综艺、动漫，你想看啥，它就给你变出啥，而且更新速度那叫一个快，好多院线大片都能在里面找到。追剧看片再也不愁，躺着坐着，想怎么看就怎么看！",
-      "download_url": "app/video/FongMi影视/FM影视TV端-32位_v5.1.1_正式版.apk",
-      "latest_apk": "FM影视TV端-32位_v5.1.1_正式版.apk",
+      "download_url": "app/video/FongMi影视/FM影视TV端-32位_v5.6.3_正式版.apk",
+      "latest_apk": "FM影视TV端-32位_v5.6.3_正式版.apk",
       "other_versions_list": [
+        {
+          "name": "FM影视TV端-64位_v5.6.3_正式版.apk",
+          "download_url": "app/video/FongMi影视/FM影视TV端-64位_v5.6.3_正式版.apk",
+          "filename": "FM影视TV端-64位_v5.6.3_正式版.apk"
+        },
+        {
+          "name": "FM影视手机端-32位_v5.6.3_正式版.apk",
+          "download_url": "app/video/FongMi影视/FM影视手机端-32位_v5.6.3_正式版.apk",
+          "filename": "FM影视手机端-32位_v5.6.3_正式版.apk"
+        },
+        {
+          "name": "FM影视手机端-64位_v5.6.3_正式版.apk",
+          "download_url": "app/video/FongMi影视/FM影视手机端-64位_v5.6.3_正式版.apk",
+          "filename": "FM影视手机端-64位_v5.6.3_正式版.apk"
+        },
+        {
+          "name": "FM影视TV端-32位_v5.1.1_正式版.apk",
+          "download_url": "app/video/FongMi影视/FM影视TV端-32位_v5.1.1_正式版.apk",
+          "filename": "FM影视TV端-32位_v5.1.1_正式版.apk"
+        },
         {
           "name": "FM影视TV端-64位_v5.1.1_正式版.apk",
           "download_url": "app/video/FongMi影视/FM影视TV端-64位_v5.1.1_正式版.apk",
@@ -1697,10 +1978,10 @@ const appData = {
     },
     {
       "name": "TVBox_黑壳版",
-      "version": "20260227",
+      "version": "215613905",
       "update_time": "2026-01-14",
-      "size": "28.21 MB",
-      "other_versions": "TVBox_takagen99_20260227-1116-arm64-generic-java.apk\nTVBox_takagen99_20260227-1116-arm64-generic-python copy.apk\nTVBox_takagen99_20260227-1116-arm64-generic-python.apk\nTVBox_takagen99_20260227-1116-arm64-hisense-java copy.apk\nTVBox_takagen99_20260227-1116-arm64-hisense-java.apk\nTVBox_takagen99_20260227-1116-arm64-hisense-python copy.apk\nTVBox_takagen99_20260227-1116-arm64-hisense-python.apk\nTVBox_takagen99_20260227-1116-armeabi-generic-java copy.apk\nTVBox_takagen99_20260227-1116-armeabi-generic-java.apk\nTVBox_takagen99_20260227-1116-armeabi-generic-python copy.apk\nTVBox_takagen99_20260227-1116-armeabi-generic-python.apk\nTVBox_takagen99_20260227-1116-armeabi-hisense-java copy.apk\nTVBox_takagen99_20260227-1116-armeabi-hisense-java.apk\nTVBox_takagen99_20260227-1116-armeabi-hisense-python copy.apk\nTVBox_takagen99_20260227-1116-armeabi-hisense-python.apk\nTVBox_takagen99_20251127-1156-arm64-generic-java.apk\nTVBox_takagen99_20251127-1156-arm64-generic-python.apk\nTVBox_takagen99_20251127-1156-arm64-hisense-java.apk\nTVBox_takagen99_20251127-1156-arm64-hisense-python.apk\nTVBox_takagen99_20251127-1156-armeabi-generic-java.apk\nTVBox_takagen99_20251127-1156-armeabi-generic-python.apk\nTVBox_takagen99_20251127-1156-armeabi-hisense-java.apk\nTVBox_takagen99_20251127-1156-armeabi-hisense-python.apk",
+      "size": "31.77 MB",
+      "other_versions": "TVBox_q215613905_20261111-1518-java32.apk\nTVBox_q215613905_20261111-1518-java64.apk\nTVBox_q215613905_20261111-1518-python.apk\nTVBox_q215613905_20261111-1518-python32.apk\nTVBox_q215613905_20261111-1518-python64.apk\nTVBox_takagen99_20260227-1116-arm64-generic-java.apk\nTVBox_takagen99_20260227-1116-arm64-generic-python.apk\nTVBox_takagen99_20260227-1116-arm64-hisense-java.apk\nTVBox_takagen99_20260227-1116-arm64-hisense-python.apk\nTVBox_takagen99_20260227-1116-armeabi-generic-java.apk\nTVBox_takagen99_20260227-1116-armeabi-generic-python.apk\nTVBox_takagen99_20260227-1116-armeabi-hisense-java.apk\nTVBox_takagen99_20260227-1116-armeabi-hisense-python.apk\nTVBox_takagen99_20251127-1156-arm64-generic-java.apk\nTVBox_takagen99_20251127-1156-arm64-generic-python.apk\nTVBox_takagen99_20251127-1156-arm64-hisense-java.apk\nTVBox_takagen99_20251127-1156-arm64-hisense-python.apk\nTVBox_takagen99_20251127-1156-armeabi-generic-java.apk\nTVBox_takagen99_20251127-1156-armeabi-generic-python.apk\nTVBox_takagen99_20251127-1156-armeabi-hisense-java.apk\nTVBox_takagen99_20251127-1156-armeabi-hisense-python.apk",
       "app_intro": "TVBox app是一款免费影视在线追剧平台，大家能够在这里找到各种类型、各个年代的优质超清影视作品，无论是热门大片还是经典老剧，包含了电影、电视剧、综艺节目、动漫等，用户可以在这里享受到流畅、清晰、不卡顿、无广告、完全免费的观影体验。",
       "screenshots": [
         "app/video/TVBox_黑壳版/images/1.png",
@@ -1710,18 +1991,38 @@ const appData = {
       "id": "tvbox-黑壳版",
       "icon": "icons/TVBox_黑壳版.png",
       "desc": "TVBox app是一款免费影视在线追剧平台，大家能够在这里找到各种类型、各个年代的优质超清影视作品，无论是热门大片还是经典老剧，包含了电影、电视剧、综艺节目、动漫等，用户可以在这里享受到流畅、清晰、不卡顿、无广告、完全免费的观影体验。",
-      "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-arm64-generic-java copy.apk",
-      "latest_apk": "TVBox_takagen99_20260227-1116-arm64-generic-java copy.apk",
+      "download_url": "app/video/TVBox_黑壳版/TVBox_q215613905_20261111-1518-java.apk",
+      "latest_apk": "TVBox_q215613905_20261111-1518-java.apk",
       "other_versions_list": [
+        {
+          "name": "TVBox_q215613905_20261111-1518-java32.apk",
+          "download_url": "app/video/TVBox_黑壳版/TVBox_q215613905_20261111-1518-java32.apk",
+          "filename": "TVBox_q215613905_20261111-1518-java32.apk"
+        },
+        {
+          "name": "TVBox_q215613905_20261111-1518-java64.apk",
+          "download_url": "app/video/TVBox_黑壳版/TVBox_q215613905_20261111-1518-java64.apk",
+          "filename": "TVBox_q215613905_20261111-1518-java64.apk"
+        },
+        {
+          "name": "TVBox_q215613905_20261111-1518-python.apk",
+          "download_url": "app/video/TVBox_黑壳版/TVBox_q215613905_20261111-1518-python.apk",
+          "filename": "TVBox_q215613905_20261111-1518-python.apk"
+        },
+        {
+          "name": "TVBox_q215613905_20261111-1518-python32.apk",
+          "download_url": "app/video/TVBox_黑壳版/TVBox_q215613905_20261111-1518-python32.apk",
+          "filename": "TVBox_q215613905_20261111-1518-python32.apk"
+        },
+        {
+          "name": "TVBox_q215613905_20261111-1518-python64.apk",
+          "download_url": "app/video/TVBox_黑壳版/TVBox_q215613905_20261111-1518-python64.apk",
+          "filename": "TVBox_q215613905_20261111-1518-python64.apk"
+        },
         {
           "name": "TVBox_takagen99_20260227-1116-arm64-generic-java.apk",
           "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-arm64-generic-java.apk",
           "filename": "TVBox_takagen99_20260227-1116-arm64-generic-java.apk"
-        },
-        {
-          "name": "TVBox_takagen99_20260227-1116-arm64-generic-python copy.apk",
-          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-arm64-generic-python copy.apk",
-          "filename": "TVBox_takagen99_20260227-1116-arm64-generic-python copy.apk"
         },
         {
           "name": "TVBox_takagen99_20260227-1116-arm64-generic-python.apk",
@@ -1729,19 +2030,9 @@ const appData = {
           "filename": "TVBox_takagen99_20260227-1116-arm64-generic-python.apk"
         },
         {
-          "name": "TVBox_takagen99_20260227-1116-arm64-hisense-java copy.apk",
-          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-arm64-hisense-java copy.apk",
-          "filename": "TVBox_takagen99_20260227-1116-arm64-hisense-java copy.apk"
-        },
-        {
           "name": "TVBox_takagen99_20260227-1116-arm64-hisense-java.apk",
           "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-arm64-hisense-java.apk",
           "filename": "TVBox_takagen99_20260227-1116-arm64-hisense-java.apk"
-        },
-        {
-          "name": "TVBox_takagen99_20260227-1116-arm64-hisense-python copy.apk",
-          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-arm64-hisense-python copy.apk",
-          "filename": "TVBox_takagen99_20260227-1116-arm64-hisense-python copy.apk"
         },
         {
           "name": "TVBox_takagen99_20260227-1116-arm64-hisense-python.apk",
@@ -1749,19 +2040,9 @@ const appData = {
           "filename": "TVBox_takagen99_20260227-1116-arm64-hisense-python.apk"
         },
         {
-          "name": "TVBox_takagen99_20260227-1116-armeabi-generic-java copy.apk",
-          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-armeabi-generic-java copy.apk",
-          "filename": "TVBox_takagen99_20260227-1116-armeabi-generic-java copy.apk"
-        },
-        {
           "name": "TVBox_takagen99_20260227-1116-armeabi-generic-java.apk",
           "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-armeabi-generic-java.apk",
           "filename": "TVBox_takagen99_20260227-1116-armeabi-generic-java.apk"
-        },
-        {
-          "name": "TVBox_takagen99_20260227-1116-armeabi-generic-python copy.apk",
-          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-armeabi-generic-python copy.apk",
-          "filename": "TVBox_takagen99_20260227-1116-armeabi-generic-python copy.apk"
         },
         {
           "name": "TVBox_takagen99_20260227-1116-armeabi-generic-python.apk",
@@ -1769,19 +2050,9 @@ const appData = {
           "filename": "TVBox_takagen99_20260227-1116-armeabi-generic-python.apk"
         },
         {
-          "name": "TVBox_takagen99_20260227-1116-armeabi-hisense-java copy.apk",
-          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-armeabi-hisense-java copy.apk",
-          "filename": "TVBox_takagen99_20260227-1116-armeabi-hisense-java copy.apk"
-        },
-        {
           "name": "TVBox_takagen99_20260227-1116-armeabi-hisense-java.apk",
           "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-armeabi-hisense-java.apk",
           "filename": "TVBox_takagen99_20260227-1116-armeabi-hisense-java.apk"
-        },
-        {
-          "name": "TVBox_takagen99_20260227-1116-armeabi-hisense-python copy.apk",
-          "download_url": "app/video/TVBox_黑壳版/TVBox_takagen99_20260227-1116-armeabi-hisense-python copy.apk",
-          "filename": "TVBox_takagen99_20260227-1116-armeabi-hisense-python copy.apk"
         },
         {
           "name": "TVBox_takagen99_20260227-1116-armeabi-hisense-python.apk",
@@ -1852,10 +2123,10 @@ const appData = {
     },
     {
       "name": "宝盒TV",
-      "version": "4.1.3",
+      "version": "5.2.6",
       "update_time": "2026-01-14",
-      "size": "59.21 MB",
-      "other_versions": "宝盒手机4.1.3(FM内置版).apk\n宝盒TV3.5.7.apk\n宝盒手机3.5.7.apk\n宝盒TV2.9.3.apk\n宝盒手机2.9.3.apk",
+      "size": "54.35 MB",
+      "other_versions": "宝盒手机5.2.6(FM内置版).apk\n宝盒TV4.1.3(FM内置版).apk\n宝盒TV版4.1.3(FM内置版).apk\n宝盒手机4.1.3(FM内置版).apk\n宝盒手机版4.1.3(FM内置版).apk\n宝盒TV3.5.7.apk\n宝盒手机3.5.7.apk\n宝盒TV2.9.3.apk\n宝盒手机2.9.3.apk",
       "app_intro": "宝盒TV电视盒子是一款非常实用的影视直播软件，能够将普通电视变成智能电视，支持观看电影、电视剧、动漫等丰富的视频内容，全部免费观看。只需下载安装，不需要繁琐的注册和登录流程，用户就能轻松享受各种影视资源。无论是想追剧还是看综艺，宝盒TV都能满足你的需求。",
       "screenshots": [
         "app/video/宝盒TV/images/1.jpg",
@@ -1871,13 +2142,33 @@ const appData = {
       "id": "宝盒tv",
       "icon": "icons/宝盒TV.png",
       "desc": "宝盒TV电视盒子是一款非常实用的影视直播软件，能够将普通电视变成智能电视，支持观看电影、电视剧、动漫等丰富的视频内容，全部免费观看。只需下载安装，不需要繁琐的注册和登录流程，用户就能轻松享受各种影视资源。无论是想追剧还是看综艺，宝盒TV都能满足你的需求。",
-      "download_url": "app/video/宝盒TV/宝盒TV4.1.3(FM内置版).apk",
-      "latest_apk": "宝盒TV4.1.3(FM内置版).apk",
+      "download_url": "app/video/宝盒TV/宝盒TV5.2.6(FM内置版).apk",
+      "latest_apk": "宝盒TV5.2.6(FM内置版).apk",
       "other_versions_list": [
+        {
+          "name": "宝盒手机5.2.6(FM内置版).apk",
+          "download_url": "app/video/宝盒TV/宝盒手机5.2.6(FM内置版).apk",
+          "filename": "宝盒手机5.2.6(FM内置版).apk"
+        },
+        {
+          "name": "宝盒TV4.1.3(FM内置版).apk",
+          "download_url": "app/video/宝盒TV/宝盒TV4.1.3(FM内置版).apk",
+          "filename": "宝盒TV4.1.3(FM内置版).apk"
+        },
+        {
+          "name": "宝盒TV版4.1.3(FM内置版).apk",
+          "download_url": "app/video/宝盒TV/宝盒TV版4.1.3(FM内置版).apk",
+          "filename": "宝盒TV版4.1.3(FM内置版).apk"
+        },
         {
           "name": "宝盒手机4.1.3(FM内置版).apk",
           "download_url": "app/video/宝盒TV/宝盒手机4.1.3(FM内置版).apk",
           "filename": "宝盒手机4.1.3(FM内置版).apk"
+        },
+        {
+          "name": "宝盒手机版4.1.3(FM内置版).apk",
+          "download_url": "app/video/宝盒TV/宝盒手机版4.1.3(FM内置版).apk",
+          "filename": "宝盒手机版4.1.3(FM内置版).apk"
         },
         {
           "name": "宝盒TV3.5.7.apk",
@@ -1903,10 +2194,10 @@ const appData = {
     },
     {
       "name": "小苹果影视盒子",
-      "version": "1.6.1",
+      "version": "1.6.2",
       "update_time": "2026-01-14",
-      "size": "33.21 MB",
-      "other_versions": "XPGBOX-release-1.6.0（适合部分老型号电视）.apk\nXPGBOX-release-1.5.9（低 Android 版本设备推荐）.apk",
+      "size": "33.36 MB",
+      "other_versions": "XPGBOX-release-1.6.1.apk\nXPGBOX-release-1.6.0（适合部分老型号电视）.apk\nXPGBOX-release-1.5.9（低 Android 版本设备推荐）.apk",
       "app_intro": "小苹果影视盒子app全新版本更新，带给用户最舒适的电视观看体验，全部可以免费看。有多个配置地址，用户也可以根据自己的需要导入更多的配置地址。无论是国内还是国外的电视剧、电影、综艺节目或动画，它们都可以找到并免费观看。在整个使用过程中没有任何广告，视频质量非常清晰。播放流畅稳定。任何问题都可以通过更改源代码来解决。最新剧集的更新速度非常快。",
       "screenshots": [
         "app/video/小苹果影视盒子/images/1.jpg",
@@ -1917,9 +2208,14 @@ const appData = {
       "id": "小苹果影视盒子",
       "icon": "icons/小苹果影视盒子.png",
       "desc": "小苹果影视盒子app全新版本更新，带给用户最舒适的电视观看体验，全部可以免费看。有多个配置地址，用户也可以根据自己的需要导入更多的配置地址。无论是国内还是国外的电视剧、电影、综艺节目或动画，它们都可以找到并免费观看。在整个使用过程中没有任何广告，视频质量非常清晰。播放流畅稳定。任何问题都可以通过更改源代码来解决。最新剧集的更新速度非常快。",
-      "download_url": "app/video/小苹果影视盒子/XPGBOX-release-1.6.1.apk",
-      "latest_apk": "XPGBOX-release-1.6.1.apk",
+      "download_url": "app/video/小苹果影视盒子/小苹果影视盒子-release-1.6.2.apk",
+      "latest_apk": "小苹果影视盒子-release-1.6.2.apk",
       "other_versions_list": [
+        {
+          "name": "XPGBOX-release-1.6.1.apk",
+          "download_url": "app/video/小苹果影视盒子/XPGBOX-release-1.6.1.apk",
+          "filename": "XPGBOX-release-1.6.1.apk"
+        },
         {
           "name": "XPGBOX-release-1.6.0（适合部分老型号电视）.apk",
           "download_url": "app/video/小苹果影视盒子/XPGBOX-release-1.6.0（适合部分老型号电视）.apk",
@@ -1961,18 +2257,29 @@ const appData = {
     },
     {
       "name": "影视仓手机版",
-      "version": "3.3.1",
+      "version": "3.3.9-64位",
       "update_time": "2026-07-13",
-      "size": "53.72 MB",
-      "other_versions": "无",
+      "size": "58.25 MB",
+      "other_versions": "影视仓_手机端_3.3.1.apk\n影视仓手机版_3.3.1_360.apk",
       "app_intro": "影视仓是一款功能强大的影视播放应用，提供丰富的电影、电视剧、综艺、动漫等高清资源。用户可以通过该App免费观看各类热门影视内容，支持多种播放源，确保资源更新及时、稳定。影视仓拥有简洁的操作界面和流畅的播放体验，支持个性化推荐和剧集追踪，方便用户随时追剧。",
       "screenshots": [],
       "id": "影视仓手机版",
       "icon": "icons/影视仓电视版.png",
       "desc": "影视仓是一款功能强大的影视播放应用，提供丰富的电影、电视剧、综艺、动漫等高清资源。用户可以通过该App免费观看各类热门影视内容，支持多种播放源，确保资源更新及时、稳定。影视仓拥有简洁的操作界面和流畅的播放体验，支持个性化推荐和剧集追踪，方便用户随时追剧。",
-      "download_url": "app/video/影视仓手机版/影视仓_手机端_3.3.1.apk",
-      "latest_apk": "影视仓_手机端_3.3.1.apk",
-      "other_versions_list": []
+      "download_url": "app/video/影视仓手机版/影视仓-手机平板3.3.9-64位.apk",
+      "latest_apk": "影视仓-手机平板3.3.9-64位.apk",
+      "other_versions_list": [
+        {
+          "name": "影视仓_手机端_3.3.1.apk",
+          "download_url": "app/video/影视仓手机版/影视仓_手机端_3.3.1.apk",
+          "filename": "影视仓_手机端_3.3.1.apk"
+        },
+        {
+          "name": "影视仓手机版_3.3.1_360.apk",
+          "download_url": "app/video/影视仓手机版/影视仓手机版_3.3.1_360.apk",
+          "filename": "影视仓手机版_3.3.1_360.apk"
+        }
+      ]
     },
     {
       "name": "影视仓海信版",
@@ -1997,10 +2304,10 @@ const appData = {
     },
     {
       "name": "影视仓电视版",
-      "version": "6.2.5",
+      "version": "6.2.9-64位",
       "update_time": "2026-01-14",
-      "size": "34.56 MB",
-      "other_versions": "影视仓_TV端_6.2.5_32位.apk\n影视仓_6.1.8_opt.apk\n影视仓_TV端_v6.1.7_兼容安卓5.apk",
+      "size": "49.92 MB",
+      "other_versions": "影视仓-TV6.2.9-32位.apk\n影视仓_TV端_6.2.5.apk\n影视仓_TV端_6.2.5_32位.apk\n影视仓_6.1.8_opt.apk\n影视仓_TV端_v6.1.7_兼容安卓5.apk\n影视仓_5.0.40.1.apk",
       "app_intro": "影视仓是一款专为电视盒子用户设计的免费追剧应用，提供海量高清影视资源。用户可以通过该App轻松观看各类电影、电视剧、综艺和动漫等内容。该应用支持多种播放源，用户需自行添加源进行播放，确保资源更新及时，满足不同需求。影视仓界面简洁，操作便捷，提供流畅的观影体验，同时支持剧集同步更新，让您随时追剧不停歇。",
       "screenshots": [
         "app/video/影视仓电视版/images/1.png",
@@ -2012,9 +2319,19 @@ const appData = {
       "id": "影视仓电视版",
       "icon": "icons/影视仓电视版.png",
       "desc": "影视仓是一款专为电视盒子用户设计的免费追剧应用，提供海量高清影视资源。用户可以通过该App轻松观看各类电影、电视剧、综艺和动漫等内容。该应用支持多种播放源，用户需自行添加源进行播放，确保资源更新及时，满足不同需求。影视仓界面简洁，操作便捷，提供流畅的观影体验，同时支持剧集同步更新，让您随时追剧不停歇。",
-      "download_url": "app/video/影视仓电视版/影视仓_TV端_6.2.5.apk",
-      "latest_apk": "影视仓_TV端_6.2.5.apk",
+      "download_url": "app/video/影视仓电视版/影视仓-TV6.2.9-64位.apk",
+      "latest_apk": "影视仓-TV6.2.9-64位.apk",
       "other_versions_list": [
+        {
+          "name": "影视仓-TV6.2.9-32位.apk",
+          "download_url": "app/video/影视仓电视版/影视仓-TV6.2.9-32位.apk",
+          "filename": "影视仓-TV6.2.9-32位.apk"
+        },
+        {
+          "name": "影视仓_TV端_6.2.5.apk",
+          "download_url": "app/video/影视仓电视版/影视仓_TV端_6.2.5.apk",
+          "filename": "影视仓_TV端_6.2.5.apk"
+        },
         {
           "name": "影视仓_TV端_6.2.5_32位.apk",
           "download_url": "app/video/影视仓电视版/影视仓_TV端_6.2.5_32位.apk",
@@ -2029,6 +2346,11 @@ const appData = {
           "name": "影视仓_TV端_v6.1.7_兼容安卓5.apk",
           "download_url": "app/video/影视仓电视版/影视仓_TV端_v6.1.7_兼容安卓5.apk",
           "filename": "影视仓_TV端_v6.1.7_兼容安卓5.apk"
+        },
+        {
+          "name": "影视仓_5.0.40.1.apk",
+          "download_url": "app/video/影视仓电视版/影视仓_5.0.40.1.apk",
+          "filename": "影视仓_5.0.40.1.apk"
         }
       ]
     }

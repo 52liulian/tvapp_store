@@ -12,4 +12,5 @@ CIBN糖豆TV版是一款功能丰富的应用程序。
 ![image](./images/4.jpg)
 
 其它版本：
+CIBN糖豆v3.2.0-糖豆TV版-会员版_takotsubo.apk
 CIBN糖豆v3.2.0-糖豆TV版-会员版_teyond.apk

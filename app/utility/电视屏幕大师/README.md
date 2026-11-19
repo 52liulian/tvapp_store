@@ -6,8 +6,7 @@
 电视屏幕大师是一款功能丰富的应用程序。
 
 ##应用截图
-![image](./images/1.png)
-![image](./images/2.png)
+['app/utility/电视屏幕大师/images/1.png', 'app/utility/电视屏幕大师/images/2.png']
 
 其它版本：
 无
